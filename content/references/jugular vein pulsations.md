@@ -1,0 +1,1 @@
++ what cause these pulsations? -> [[a wave]], [[x descent]], [[v wave]], [[y descent]]. see: [[on a wave and x descent of jugular pulsations]]

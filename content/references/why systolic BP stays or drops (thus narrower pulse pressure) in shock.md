@@ -1,0 +1,1 @@
+- decreased blood volume -> decreased SV, CO -> decreased SBP

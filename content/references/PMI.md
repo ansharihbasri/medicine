@@ -1,0 +1,1 @@
+see: [[point of maximal impulse]]

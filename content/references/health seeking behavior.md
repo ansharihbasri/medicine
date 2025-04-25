@@ -1,0 +1,4 @@
+
+- factors:
+	- [[pendidikan (education)]]
+	- sosioekonomi

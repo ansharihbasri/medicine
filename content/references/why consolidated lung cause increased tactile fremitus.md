@@ -1,0 +1,1 @@
+- [[consolidation]] of the lung: the alveoli which was filled with air now is filled with liquid. according to (1), that means vibration is better transmitted thus *increased* fremitus. (also see: [[tactile fremitus#^8c5e8c]])

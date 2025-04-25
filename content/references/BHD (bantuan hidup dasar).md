@@ -1,0 +1,28 @@
+
+# dr miftah freshmen emg medis
+- sebagian besar bs diprediksi
+- klo mendadak bs di luar ato dalem RS
+- kasus klinik
+	- pasien dtg, keluhan batuk pilek
+	- wanita 40 th
+	- gada panas, mual muntah, setupa keluarga gada
+	- onset 3 hari blm berobat
+	- pemfis TD 80/60, 80bpm lainnya dbn
+	- 20 RR, 93%
+- kasus 2
+	- laki2 50 th
+	- sesak napas dari 1 minggu terakhir
+	- lemes
+	- pertama kali spt ini
+	- tdk ada riwayat apapun, keluarga gada
+	- keluhan lain tdk ada
+	- pemfis TD 80/60
+	- RR 28
+	- suhu normal
+	- HR 120/menit
+	- pemfis rales, rhonchi kanan kiri
+	- tungkai akral dingin
+	- CRT > 2 detik
+	- O2 88
+	- pemfis lain dbn
+- syok plg byk di ICU

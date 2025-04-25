@@ -1,0 +1,3 @@
+
+- i see, so the adduction-external rotation test involves both supraspinatus and infraspinatus (and teres minor); but i suppose if we have intact supraspinatus but torn infraspinatus, what'd happen is quick return from passive external rotation since the infraspinatus can't pull strong enough; whereas if supraspinatus is the problem, it'd cause the misalignment of humeral head and cause pain as the main respond (whereas pain might not be as prominent if supraspinatus is ok but infraspinatus is torn (?)). is that correct? or am i missing something
+	- chatgpt: yes. infra only tear could be painful if partial tear or tendinopathy, but full tear may not hurt much since nerve supply might be disrupted too. but the primary problem is weakness.

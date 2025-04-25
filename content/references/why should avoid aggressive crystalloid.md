@@ -1,0 +1,3 @@
+- dilute clotting factors (also see: [[TIC (trauma-induced coagulopathy)]])
+- too quick rise in BP disrupt clotting
+- except for [[traumatic brain injury]] since brain very sensitive to hypoperfusion.

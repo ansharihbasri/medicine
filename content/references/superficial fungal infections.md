@@ -1,0 +1,8 @@
+- dermatophytes
+	- [[delete this]]
+	- [[B35.0 tinea barbae and tinea capitis]]
+	- [[B35.4 tinea corporis]]
+	- [[B35.6 tinea cruris or inguinalis]]
+	- [[B35.3 tinea pedis (athletes foot)]]
+- yeast
+	- [[B36.0 pityriasis or tinea versicolor]]

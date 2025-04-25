@@ -1,0 +1,2 @@
+- [[perfusion markers during shock management]]
+- 

@@ -1,0 +1,29 @@
+- acute (Robbins p. 545)
+	- [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]], mostly: ^940b6b
+		- viral
+			- [[rhinovirus]] mostly
+			- coronavirus, [[J11 influenza due to unindentified virus]], [[parainfluenza]], etc.
+	- [[J02.9 acute pharyngitis unspecified]] ^a80d64
+		- more severe form: + [[J03 acute tonsillitis]]:
+			- [[beta-hemolytic streptococcal]]
+			- [[adenovirus]]
+	- [[acute bacterial epiglottitis]]
+		- predominant in young children
+		- [[Haemophilus influenzae]]
+	- [[J04.0 acute laryngitis]] ^00b7dd
+		- irritants
+		- [[allergy (atopy)]]
+		- [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]] agents
+	- [[laryngotracheobronchitis]] aka [[croup]]
+		- pediatric
+		- [[parainfluenza]] most common ^666c7a
+		- predispose secondary bacterial infection:
+			- [[staphylococci]]
+			- [[streptococci]]
+			- [[Haemophilus influenzae]]
+	- additions from SNPPDI 4
+		- [[pertussis]]
+		- [[diphtheria]]
+
+- [[mostly or most commonly viral URTI]]
+- [[bacterial URTI]]

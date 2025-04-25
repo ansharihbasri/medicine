@@ -1,0 +1,22 @@
+
+# dr miftah
+- sternum 1/2 bagian bawah
+- kedalaman 5-6 cm
+- recoil sempurna tangan jgn nempel terus, jd palmnya naik dulu tp jari2 tetep nempel buat patokan ga geser2
+- napas hembuskan gausah trlu ekstrim
+- kalo penolong sendiri biasanya jangan pake bag tp mouth to mouth. klo pun pake, jgn pindah2 posisi. bag kalo ada asisten
+- setting hospital vs non
+	- luar R$
+		- amankan situasi
+		- cek respon
+		- cek nadi brp lama
+		- tdk ada nadi dan napas
+		- abis 30 pump bantuan napas
+		- 5 siklus dulu baru cek nadi
+		- mouth to mouth ttp gapapa
+			- klo COVID
+				- bagging jg ngga, kecuali punya filter
+				- intubasi tdk disarankan kecuali benefit sebanding risk
+		- anyway my mistake: ga 5 siklus dulu; selama 5 siklus ttp RJP + mouth to mouth 30:2
+	- klo di RS
+		- satu RJP satu ventilasi

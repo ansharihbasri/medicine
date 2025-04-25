@@ -1,0 +1,1 @@
+- erythema along the margins. (see google image)

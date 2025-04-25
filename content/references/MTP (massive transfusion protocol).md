@@ -1,0 +1,1 @@
+standard: 1:1:1 [[pRBC]]:[[FFP (fresh frozen plasma)]]:[[platelet]]

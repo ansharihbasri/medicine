@@ -1,0 +1,23 @@
+# physical examination 
+- why measure [[jugular venous pressure (JVP)]]? -> it closely resembles right atrial pressure or [[central venous pressure]] which is related to venous volume (Bates 13th p. 847/2145) ^78a28d
+	- why need to know venous volume? -> indicator of right atrial pressure which equals [[central venous pressure]] and right ventricular [[end-diastolic pressure]] (p. 836), predicts elevation in (venous) fluid volume in heart failure (p. 848)
+- which vein best used? -> right [[internal jugular vein]], bcs closest and most in line with superior vena cava and right atrium (Bates 13th pm. 847/2145)
+- hard to see in children < 12 y/o so not useful in this age group (Bates 13th pm 848/2145)
+- what do we actually see when measuring [[jugular venous pressure (JVP)]]? -> [[jugular vein pulsations]]
+	- dominant movement of [[jugular venous pressure (JVP)]] is inwards, in contrast to outward carotid movement (p. 848)
+- technique (p. 848-...)
+	- [[sternal angle]] is 5 cm above right mid atrium. this 5 cm is constant across three positions: ![[Screenshot_2024-06-30-08-46-47-588_org.readera-edit.jpg]]
+	- ![[Screenshot_2024-06-30-08-49-32-371_org.readera-edit.jpg]]
+	- ![[Screenshot_2024-06-30-08-51-25-893_org.readera-edit.jpg]]
+	- useful videos:
+		- https://youtu.be/lBPvJpaQWC4?si=qgejteVOQK7LIKYu
+- value
+	- > 3cm above [[sternal angle]] (>8 cm tota) is elevated above normal (p. 852)
+- tips dr miftah
+	- klo ga keliat:
+		- cahaya tangensial klo ga keliat
+		- bendung di atas klavikula jk ga keliat
+			- abistu lepas, itung di jalur yg udah ketemu
+		- sudut senderan kurangin (supaya makin paralel instead of tegak lurus), mungkin lebih keliatan
+		- kalo ga keliat atau di bawah [[sternal angle]], gabisa dihitung
+	- sudut: ada yg 15-30, ada yg 30-45. somewhere around there.

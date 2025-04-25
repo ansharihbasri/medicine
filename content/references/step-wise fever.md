@@ -1,0 +1,1 @@
+- [[typhoid fever]]: due to gradual (stepwise) increase in bacterial load as the bacteria (which grows inside macrophages and organs) get released bit by bit

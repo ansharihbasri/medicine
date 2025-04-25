@@ -1,0 +1,3 @@
+- normal cut off:
+	- [[delayed puberty]] = no [[menarche]] at age 15 (Novak Gyn 16th p. 347)
+		- or ≥ 5 yrs since [[pubertal development]] onset

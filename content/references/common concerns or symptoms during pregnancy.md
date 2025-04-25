@@ -1,0 +1,3 @@
+- Bates 13th p. 1875-6/2145
+	- ![[Screenshot_2024-07-07-08-30-02-443_org.readera-edit.jpg]]
+	- ![[Screenshot_2024-07-07-08-30-33-584_org.readera-edit.jpg]]

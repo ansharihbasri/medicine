@@ -1,0 +1,6 @@
+- head tilt chin lift/jaw thrust
+- remove obstruction
+	- blood or fluids blocking -> suction
+	- [[GCS (Glasgow coma scale)]] 8 or lower: [[endotracheal tube (intubation)]] (ATLS 10 p. 7)
+- [[cervical collar]]
+	- when managing airway, open the [[cervical collar]] and keep neck immobilized manually.

@@ -1,0 +1,2 @@
+
+- [[Bells palsy]] = peripheral nerve (CN VII); whereas [[stroke (plus tips anamnesis dan RPD stroke)]] = CNS. thus [[Bells palsy]] only affect those innervated by CN VII whereas [[stroke (plus tips anamnesis dan RPD stroke)]] may include paralysis in limbs

@@ -1,0 +1,4 @@
+- [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]]
+- [[J04.0 acute laryngitis]]
+	- [[croup]]
+- [[J02.9 acute pharyngitis unspecified]]

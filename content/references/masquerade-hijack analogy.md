@@ -1,0 +1,2 @@
+- viral = infiltrate inside cell, hijacking the cell to move around pretending to be part of the body while infecting others, staying under the radar. when starting to get noticed, require more vigilant and systemic surveillance to fight it off.
+- bacterial = just when arrived, already got noticed by the guards; beating off takes place locally. no need for that intense systemic reaction.

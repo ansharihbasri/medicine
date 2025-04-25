@@ -1,0 +1,1 @@
+![[angina pectoris (chest pain of CAD)#^2daf5f]]

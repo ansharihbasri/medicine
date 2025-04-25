@@ -1,0 +1,1 @@
+see: [[J30.9 allergic rhinitis unspecified]], [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]]

@@ -1,0 +1,4 @@
+- avoid aggressive [[crystalloid]]
+	- [[why should avoid aggressive crystalloid]]
+- [[permissive hypotension]]
+- 

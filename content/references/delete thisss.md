@@ -1,0 +1,1 @@
+- often in inguinal areas (Cotran Robbins 10th p. 1169)

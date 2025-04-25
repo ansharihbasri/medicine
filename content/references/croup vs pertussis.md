@@ -1,0 +1,6 @@
+- the narrowing: croup is solid, pertussis is fluid.
+	- croup: ![[laryngotracheobronchitis#^1be51c]]
+	- pertussis: ![[whooping cough#^892a08]]
+- pathogenetically: croup is general inflam (viral), pertussis is toxin work
+	- pertussis: ![[pertussis#^1e24cc]]
+	- 

@@ -1,0 +1,1 @@
+similar to (basically work the same as): [[streptolysin O]]

@@ -1,0 +1,3 @@
+- [[initial bolus (crystalloid)]]
+- [[how warm should resuscitation fluid (crystalloid) be]]
+- 

@@ -1,0 +1,8 @@
+- [[azithromycin]]
+	- [[Streptococcus pneumoniae]]
+- [[ceftriaxone]]
+	- [[Streptococcus pneumoniae]]
+- [[nafcillin]]
+	- [[Staphylococcus aureus]] ([[MSSA]])
+- [[vancomycin]]
+	- [[Staphylococcus aureus]] ([[MRSA]])

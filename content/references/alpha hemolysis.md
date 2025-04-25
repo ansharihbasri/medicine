@@ -1,0 +1,1 @@
+= [[partial hemolysis]], i.e. hydrogen peroxide of bacteria breaks down Hb into methemoglobin which looks green (hence viridans = viridis = green)

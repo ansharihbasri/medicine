@@ -1,0 +1,1 @@
+= prolonged gurgles/hyperperistalsis (Bates 13th p. 1049)

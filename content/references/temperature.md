@@ -1,0 +1,44 @@
+# normal
+- core (internally measured): 37°C (Bates 13th p. 374)
+	- gold standard loc: blood temp in pulmo artery
+	- noninvasive loc:
+		- oral (closest)
+			- value
+				- generally lower than core. why? environmental health loss etc
+				- lower than rectal 0.4-0.5°C
+				- lower than pulmo 0.5°C -> 36.5?
+				- higher than axillary 1°C
+			- placing: as far back either side of [[frenulum linguae]]
+			- register: 10 sec (electronic), 3-5 mins (glass)
+			- additional steps for glass:
+				- after 3-5 mins reading, reinsert for 1 min; if reading rises (still rising), repeat until stable.
+				- wait 10-15 mins if just smoked or consumed hot or cold liquid
+			- additional consideration: rapid [[RR]] may prefer rectal for more accuracy ^a2ee0a
+		- rectal
+			- placing
+				- lie one side, hip flexed
+				- lubricated tip
+				- 3-4 cm into anal canal
+			- register: 3 mins (glass?), 10 sec (electronic)
+		- axillary
+			- less accurate than others. why? more exposed to ambient temp etc.
+			- register 5-10 mins. why? skin n fat halts heat transfer, takes time to equilibrate the temp there.
+			- lower than oral 0.5-1°C (modul PDT) -> 35.5-36?
+		- tympanic mem (infrared)
+			- value
+				- more variable than oral or rectal. why? more exposed to outside air, etc.
+				- but share blood supply w hypothalamus where temp reg occurs.
+			- placing
+				- clear cerumen
+				- pull ear back (0-1 y/o) or back n up (1-adult)
+				- beam aimed at tymp mem
+			- register: 2-3 sec
+		- temporal artery (infrared) (closest)
+			- value
+				- lower than pulmo 0.5°C -> 36.5?
+				- temporal artery branches off external carotid a.
+			- placing
+				- from forehead center, brush across down the cheek, and behind earlobe
+# abnormal
+- [[hyperpyrexia]]: > 41.1°C (rectally) (Bates 13th p. 374)
+- [[hypothermia]]: < 35°C (rectally) (Bates 13th p. 374)

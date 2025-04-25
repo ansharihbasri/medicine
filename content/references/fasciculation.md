@@ -1,0 +1,1 @@
+= due to denervation and reinnervation (see Hendelman's The Integrated Nervous System 2nd p. 103)

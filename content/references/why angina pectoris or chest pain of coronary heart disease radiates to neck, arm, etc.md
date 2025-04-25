@@ -1,0 +1,1 @@
+the heart, neck, arm and all these stuff develop from the same embryological area/origin thus innervated by the same nerves (Guyton 14th p. 268)

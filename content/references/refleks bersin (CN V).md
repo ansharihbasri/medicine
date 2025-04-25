@@ -1,0 +1,2 @@
+
+- kapas masukin idung

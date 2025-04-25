@@ -1,0 +1,3 @@
+- [[TIC (trauma-induced coagulopathy)]]
+- [[hypothermia]]
+- [[metabolic acidosis]]

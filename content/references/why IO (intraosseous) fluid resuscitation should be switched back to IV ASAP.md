@@ -1,0 +1,4 @@
+- slower flow rate esp if massive transfusion is needed
+- painful
+- risk of bone infection
+- [[compartment syndrome]] if fluid leaks around (extravasate)

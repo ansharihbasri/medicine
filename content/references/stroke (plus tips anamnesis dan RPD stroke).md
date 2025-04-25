@@ -1,0 +1,210 @@
+
+- [[hypertension in stroke]]
+- 
+
+# nguli zoom meeting dr adnin kamis 17 apr
+- https://miro.com/app/board/uXjVICXSLSM=/?share_link_id=894963228364
+- prinsip:
+	- tatalaksana umum
+		- perbaikan KU
+			- posisi baring 30 derajat utk menurunkan TIK
+		- cairan
+			- jgn sampe dehid ato kelebihan
+			- gunakan cairan yg bukan hipoosmolar, jadi NaCl atau RL
+		- nutrisi
+			- 30 kcal/kg BB. tapi tergantung kondisi metabolik
+			- gula darah
+		- 
+	- tatalaksana khusus
+		- tergantung penyakit dan etio
+		- apakah semua pasien stroke penyebabnya dari koagulopati
+	- 
+
+# dr adnin freshmen
+- anamnesis
+	- 
+- pemfis
+- kompetensi:
+	- penurunan kesadaran
+		- struktural (otak)
+			- stroke 1
+				- nyeri kepala
+				- kelemahan
+				- bicara
+				- kesemutan
+			- trauma kepala nope
+			- herniasi = komplikasi
+			- tumor/keganasan nope ato ke bawah prioritasnya(progresif) klo berdarah mendadak si
+				- nyeri kepala
+				- kelemahan
+				- penurunan BB (kronik)
+		- metabolik
+			- dehidrasi masih mgkn
+			- hipogli msh mgkn
+			- hipotermi nope
+			- serangan jantung (ACS) 2
+			- kejang bisa struktural bs meta; kejang tu gejala bkn dx
+			- hipoksia msh mgkn
+				- sesak
+				- plg mungkin infeksi:
+					- batuk
+					- demam
+				- obstruksi
+			- heat stroke nope
+	- onset 2 jam
+	- durasi sampe skrg
+	- lagi apa: ke kamar mandi = mendadak
+	- baru pulang ngojek
+	- penyerta (elim dd)
+		- kejang ga
+		- muntah menyemprot air sm makanan, darah gaada
+		- nyeri kepala gada
+		- kelemahan sebelah kanan
+		- sesak napas gada
+		- cuaca mendung
+		- tadi pagi makan, siang gatau
+		- nyeri dada gapernah bilang
+	- riw
+		- HTN sejak 5 th tdk rutin
+		- diabetes gada
+		- perokok dari muda
+		- mengalani Hal yg sama? sblm belum pernah
+		- riwayat jantung gada berobat jantung
+		- kesemutan gapernah cerita
+	- pemfis
+		- ABC
+			- breathing
+				- ...
+			- circ
+				- nadi
+		- D
+			- GCS e3 m5 v4
+				- panggil doang dulu jgn tepuk2 dulu nnt rancu
+		- pemfis interna
+			- mucosa bagus
+			- CRT bagus
+			- turgor bagus
+			- warna kulit biasa
+			- akral hangat
+			- bunyi jantung regular
+			- 
+			- paru bagus
+		- neurologis
+			- meningeal negative
+			- klo ga sadar bs apa?
+				- meningeal
+				- kranial: pupil, funduskopi, gerak bola mata: doll's eye (reflex) (sopor), 7 rangsang nyeri supraorbita meringis simetris (kesan meringis), 8 bs tp gausa advanced, 9-10 gabisa, 11 GBS, 12 gbs
+				- klo pemfis gausa peduli lesi mana. jd sentral 7 kanan.
+			- motorik ga sadar:
+				- mana yg lebih gerak/aktif
+				- rangsang nyeri kalo M5 (kesan hemiparesis)
+				- angkat tangan lepas, mana yg jatuh lebih cpt.
+				- tekuk trs deketin. jatuhnya kemana klo dua2nya ke kiri brti parese kanan (?)
+				- eksorotasi telapak klo parese ke samping
+			- reflex bs semua
+			- klo pure metabolik gada kelainan neuro
+			- klo struktural rujuk CT scan
+		- hasil: interna normal, pupil neg, isokor, positif bilateral, Babinski positif, kesan parese motor sensorik
+		- penunjang
+			- GDS
+			- CT kepala
+				- identitas
+				- baca Dr luar ke dalem cari connective tissue abu2 di luar tengkorak kulit dll yg putih tebel tengkorak
+				- tulang patah ga
+				- parenkim
+					- pendarahan
+						- [[hyperdense]]
+					- infark
+						- [[hypodense]]
+					- ventrikel bocor ga
+			- EKG normal
+	- tx stroke hemoragik
+	- 
+	- TTIK tanda
+		- kelemahan sisi
+			- baal
+			- kesemutan
+			- bicara rero
+			- ...
+		- turun kesadaran
+			- kejang
+			- muntah nyemprot
+			- nyeri kepala hebat
+
+	- 
+
+
+
+
+# dari PNPK 2019
+- anamnesis:
+	- ...
+- pemfis
+	- ABC
+	- TTV
+	- kepala leher:
+		- tanda trauma
+		- [[carotid bruit]]
+		- [[jugular venous pressure (JVP)]] jika pasien [[(congestive) heart failure (CHF)]]
+	- toraks: [[thorax physical examination]]
+		- jantung paru
+	- abdomen
+	- kulit
+	- ekstremitas
+- [[neurological examination]]
+	- ![[Screenshot_2025-04-15-13-19-54-024_org.readera-edit.jpg]]
+	- [[NIH stroke scale]]
+- penunjang
+	- CT brain tanpa kontras
+	- [[blood glucose]]
+	- ...
+- terapi umum suportif
+	- stabilisasi jalan napas dan pernapasan
+	- stabilisasi hemodinamik
+	- tx [[intracranial pressure (tekanan tinggi intrakranial TTIK)]]
+		- ![[Screenshot_2025-04-15-13-41-00-065_org.readera.jpg]]
+		- ![[Screenshot_2025-04-15-13-41-04-802_org.readera-edit.jpg]]
+	- ...
+- terapi umum IGD
+	- cairan
+	- nutrisi
+	- ...
+- terapi khusus iskemik akut
+	- trombolisis
+		- rTPA (alteplase)
+	- lainnya
+		- antikoagulan
+			- heparin
+			- heparinoid
+		- antiplatelet
+		- defibrinasi
+		- neuroproteksi
+- terapi umum stroke hemoragik
+
+# dari residen neuro rshs freshman inpatient
+anamnesis
+- sejak kapan? -> dari gejala pertamanya misalnya balelol duluan baru lemesnya perburukan, meski nanti keluhan utamanya lemesnya
+- jam berapa?
+- mendadak/ga?
+- lagi apa? bedain lagi kegiatan vs ga ngapa2in
+- dari yg pertama lemes nambah berat atau membaik
+- ada baal ga?
+- ada mulut mencong ga
+- bicara balelol ga
+- kesemutan
+- sblmnya2 suka baal, kesemutan, kebas sebelah ga
+- pusing berputar?
+- pandangan ganda/gelap sesaat?
+- telinga berdenging?
+- tersedak?
+- ...
+- klo penurunan kesadaran tanya ke keluarga hal2 di atas jg
+- penurunan kesadaran mendadak biasanya kalo ga infarknya gede banget, biasanya hemoragik
+
+RPD
+- pernah stroke ga
+- pernah TIA ga: lemes sebelah tp dalam 24 jam normal lagi e.g. tidak sadar setengah hari, ...
+- riwayat HTN, DM, kolesterol, asam urat, merokok, jantung, (fakris)
+	- brp batang rokok yg bs ningkatin risiko stroke
+		- 6 batang sehari
+- riwayat kanker -> kelainan koagulopati jd bikin thrombus etc

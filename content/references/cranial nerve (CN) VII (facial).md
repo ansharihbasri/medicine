@@ -1,0 +1,17 @@
+
+- motoriknya
+	- efektor CN V see [[corneal reflex (CN V1)]] etc
+	- paresis:
+		- [[upper facial muscles]] <- perifer 7 (upper dan lower)
+			- tutup mata yg rapet pak. saya coba buka, bapak tahan/lawan
+			- skrg angkat alis pak, kalo normal wrinkle. klo ga brti lemah.
+		- [[lower facial muscles]] <- klo sentral, lower aja
+			- mencong
+			- pak senyum pak yg lebar. liat simetri
+			- 'paresis nervus fasialis kanan perifer/sentral'
+- sensorik: gustatori
+	- cotton bud, masukin ke zatnya trus lidah pasien julur (ujung kita pegang tahan pake kapas), abis nyicip 1 jangan masukin lidah
+	- berikan di area sensitif (diagram lidah)
+		- klo pahit [[cranial nerve (CN) IX (glossopharyngeal)]]
+		- klo yg manis sebelah kiri, nah asin di sebelah kanan biar ga kecampur (meski sesuai area sensitif juga)
+	- klo lidah masuk, minum dl cuci dulu

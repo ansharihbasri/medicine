@@ -1,0 +1,4 @@
+- [[MI]] = dull while [[pericarditis]] = sharp bcs
+	- myocardium nociceptive fibers are mainly unmyelinated C-fibers which are more sensitive to chemical changes (e.g. necrotic metabolites) but not mechanical (?) whereas pericardium nociceptive fibers also comprise of myelinated A delta fibers which are sensitive to mechanical stimulus (touch, pressure, etc)
+	- number of nociceptive fibers in pericardium > myocardium
+		- pericardium is somatically innervated by phrenic nerve or whatever whereas myocardium is mainly autonomous/visceral

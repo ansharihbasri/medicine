@@ -1,0 +1,1 @@
+= lung can't expand or decreased lung capacity (Cotran Robbins 10th p. 678)

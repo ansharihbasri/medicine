@@ -1,0 +1,9 @@
+- [ ] cytokine storm, end organ failure,
+- [ ] immune response
+	- [ ] IgA, IgG etc
+	- [ ] mononucleosis, EBV, monospot negative CMV
+	- [ ] complement cascade
+- [ ] antibiotics: methicillin 
+	- [ ] optochin? novobiocin?
+- [ ] [[costovertebral angle tenderness]] (sti related)
+- [ ] [[nephritic syndrome]]

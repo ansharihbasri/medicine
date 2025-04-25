@@ -1,0 +1,2 @@
+- [[thyroid cartilage]], [[cricoid cartilage]], and [[thyroid gland]] all rise during swallowing (Bates 13th p. 568/2145) (also see: [[anatomy of swallowing]])
+	- this rising helps inspecting the **contour** and **symmetry** of the gland, before doing actual palpation.

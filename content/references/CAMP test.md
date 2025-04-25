@@ -1,0 +1,1 @@
+Christie-Atkins-Munch-Peterson test: this CAMP factor, if present (positive) e.g. in [[Streptococcus agalactiae]] ([[group B beta-hemolytic streptococci]]), would enhance [[beta hemolysis]] of [[Staphylococcus aureus]] (see wikipedia or google images)

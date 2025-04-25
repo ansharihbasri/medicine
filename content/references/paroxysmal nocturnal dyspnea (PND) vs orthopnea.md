@@ -1,0 +1,3 @@
+
+- wait, so it's basically almost the same mechanism except in [[orthopnea]], the blood readily gets transferred back to heart whereas in [[paroxysmal nocturnal dyspnea (PND)]] much of the blood needs to transition first from extravascular to intravascular? but if so, why the difference?
+	- -> (both describe different compartment-part of the blood.) i see. so both [[orthopnea]] and [[paroxysmal nocturnal dyspnea (PND)]] can exist, and may normally actually exist together? but maybe in some cases like CKD with protein loss, since much of the fluid would leak out of the vascular, would that mean PND would me more pronounced than the orthopnea in that case? -> chatgpt: yes.

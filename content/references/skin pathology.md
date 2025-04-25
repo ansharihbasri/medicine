@@ -1,0 +1,4 @@
+- [[skin infection or non-infectious injury]]
+- [[skin lesions]]
+- [[status dermatologikus]]
+- 

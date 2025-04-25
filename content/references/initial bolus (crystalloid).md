@@ -1,0 +1,2 @@
+- 1L [[crystalloid]] (adult)
+- 20 ml/kg for children < 40 kg

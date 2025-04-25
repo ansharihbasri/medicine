@@ -1,0 +1,3 @@
+
+# etiology
+- [[Streptococcus pyogenes]]

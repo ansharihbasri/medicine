@@ -1,0 +1,3 @@
+- G (Gravida): The number of times a woman has been pregnant, regardless of the outcome.
+- P (Para): The number of pregnancies that have progressed to a viable gestational age (usually after 20 weeks), regardless of the outcome (live birth or stillbirth).
+- A (Abortus): The number of pregnancies that ended in miscarriage or abortion before 20 weeks of gestation.

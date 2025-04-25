@@ -1,0 +1,1 @@
+- neurological: [[LPS]] as [[endotoxin]] weakens [[blood brain barrier]] (endothelial damage, [[cytokine storm]], etc) thus disrupts neurotransmitter balance, and all the neurological symptoms

@@ -1,0 +1,3 @@
+- sizing:
+	- draw transversal/horizontal line across chin line, and another across where trapezius joins the neck (or some say sternal notch)
+	- measure how many fingers are between those two lines

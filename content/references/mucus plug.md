@@ -1,0 +1,1 @@
+cervical mucus which serve as seal but may get lost approaching delivery (but not necessarily indicate immediate delivery)

@@ -1,0 +1,16 @@
+
+- [[form of thought (mental status examination)]] (maybe altered by [[psychosis (mental status examination)]] eh tp klo process kan logika yah jd bisa aja logis tp ga realistis?)
+	- 5: ^f2052d
+		- [[logical or coherent form of thought (mental status examination)]]
+		- [[circumstantial form of thought (mental status examination)]]
+		- [[tangential form of thought (mental status examination)]]
+		- [[loose associations form of thought (mental status examination)]]
+		- [[flight of ideas form of thought (mental status examination)]]
+- [[attention (part of thought process in mental status examination)]]
+	- may exhibit none or any of:
+		- [[distractable (attention character in mental status exam)]]: easily distracted (away from convo) by external stimuli
+		- [[preoccupied (attention character in mental status exam)]]: preoccupied/lost in internal thoughts, hard to gain their attention from outside
+		- [[rumination (attention character in mental status exam)]]: predilection/keep coming back to that one topic even when led to other topics in convo
+- [[speed of thought (part of thought process in mental status examination)]]
+	- [[latent speed of thought (part of thought process in mental status examination)]]: delay between thought and verbalization of it
+	- [[racing thoughts (part of thought process in mental status examination)]]

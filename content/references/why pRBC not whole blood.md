@@ -1,0 +1,2 @@
+- plasma can contribute to fluid overload
+- coagulation factors degrade in stored blood

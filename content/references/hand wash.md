@@ -1,0 +1,2 @@
+- tdk kotor+ no infectious material: ![[Screenshot_2024-06-30-19-43-52-713_com.google.android.apps.docs.editors.docs-edit.jpg]]
+- kotor/infectious material ![[Screenshot_2024-06-30-19-48-11-728_com.google.android.apps.docs.editors.docs-edit.jpg]]

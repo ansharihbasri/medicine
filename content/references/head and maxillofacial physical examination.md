@@ -1,0 +1,38 @@
+
+- symmetry:
+	- asymmetry:
+		- [[Bells palsy]]
+		- [[stroke (plus tips anamnesis dan RPD stroke)]]
+- [[eyes]]:
+	- [[eye conjunctiva]]: [[anemia]], ...
+	- [[sclera]] (Bates 607/2145: spread lids up and down, eyes look up and down): 
+	- [[visual acuity (visus)]]: 
+	- [[lens]] (Bates 608/2145: oblique lighting): look for opacities
+		- [[cataract]] (look inside for image)
+- [[nose]]
+	- surface:
+		- (from anterior/outside, also inferior/partial interior of [[nasal vestibule]] w penlight):
+			- symmetry
+			- deformity
+			- mass
+		- check for obstruction by closing off each nostril and ask to breath in
+	- cavity: (...)
+	- septum:
+		- [[lower (nasal) septum deviation]]: common, seldom cause obstruction
+	- (...)
+- [[ears]]
+	- deformity
+	- tympanic membrane
+	- cairan
+	- (...)
+- [[mouth]]
+	- deformity
+	- mucosa
+	- [[tongue]]
+		- deviation
+		- mobility
+		- tremor
+	- [[tonsil]]
+	- [[pharynx]]
+	- [[teeth]]: ompong -> [[malnutrition]]
+		- [[tooth root]] -> infection

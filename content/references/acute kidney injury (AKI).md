@@ -1,0 +1,56 @@
+- [[SKDI 2]]
+- pedoman: konsensus penatalaksanaan acute kidney injury di ICU PERDICI 2024 (name in macbook)
+
+- acute loss of kidney fx within days
+- 3 types
+	- [[prerenal kidney injury]]: -> may ultimately result in reduced [[urine output]] too, though [[oliguria]] ([[anuria]] rarely)
+		- low perfusion:
+			- [[dehydration]]
+				- [[hypovolemic shock]] -> PE: dry mucous, low [[blood pressure]], [[tachycardia]], cool extremities
+				- [[septic shock]]: [[hypotension]], [[vasodilation]], [[hypoperfusion]] -> low perfusion
+			- [[(congestive) heart failure (CHF)]] -> PE: [[(congestive) heart failure (CHF)]] physical examination?
+			- medication-induced:
+				- [[NSAID]] -> constrict afferent arteriole -> low perfusion
+				- [[ACE inhibitor]] -> dilate efferent -> reduced pressure in glomerulus
+	- [[intra-renal kidney injury]]: -> often leads to [[oliguria]] as well
+		- direct damage:
+			- [[acute tubular necrosis (ATN)]]
+				- can also be due to untreated [[sepsis]]
+			- [[glomerulonephritis]]
+				- manifestations:
+					- protein loss -> [[proteinuria]] -> [[edema]]
+					- salt and water not excreted properly -> retention -> volume overload -> [[renal hypertension]]
+				- can be due to [[PSGN]]
+				- if due to systemic cause like [[systemic lupus erythematosus]] -> PE: [[rash]], [[joint pain]]
+			- medication-induced:
+				- [[antibiotics]]:
+					- [[aminoglycoside antibiotics]] -> tubules
+					- [[penicillin]] -> interstitium
+				- [[NSAID]] -> interstitium
+				- [[radiocontrast]] -> tubules
+	- [[post-renal kidney injury]]:
+		- obstruction: -> sudden [[urine output]] drop ([[anuria]] or [[oliguria]]); bilateral or unilateral; suprapubic tenderness; palpable bladder (accumulation due to obstruction)
+			- [[kidney stones]]
+			- [[benign prostatic hyperplasia (BPH)]] -> enlarged prostate -> PE: [[rectal toucher (digital rectal examination or DRE)]]
+
+# history taking (also see above, for more integrated with patphys)
+- general signs of [[uremia]]: [[somnolence (confusion) (GCS 13-14)]], [[asterixis (flapping tremor)]], [[pericardial rub]] (rare)
+- sudden changes + causes. (this is also differential diagnosing)
+	- onset:
+		- [[urine output]] sudden drop?
+	- fluid balance: -> if lacking, may lead to [[prerenal kidney injury]] (see above)
+		- [[diarrhea]]
+		- vomiting (see [[nausea or vomiting]])
+		- [[fever]]
+		- bleeding
+		- signs of [[hypovolemic shock]] -> PE: dry mucous, low [[blood pressure]], [[tachycardia]], cool extremities
+	- medication inducing kidney injury:
+		- [[NSAID]]s
+		- [[ACE inhibitor]]
+		- [[antibiotics]]
+	- [[infections]] or [[sepsis]]
+	- [[urine color]]: red/brown (glomerular dx = [[intra-renal kidney injury]]), foamy ([[proteinuria]])
+	- [[lower urinary tract symptoms (LUTS)]]: [[hesitancy (LUTS)]], [[weak stream (LUTS)]] ([[benign prostatic hyperplasia (BPH)]] = [[post-renal kidney injury]])
+	- recent procedures with [[radiocontrast]]: [[contrast-induced nephropathy (CIN)]] = acute tubular injury ([[intra-renal kidney injury]])
+
+# PE list

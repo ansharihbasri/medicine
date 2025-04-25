@@ -1,0 +1,4 @@
+- stomach: too much acid; even if acid resistant, still need better site for replication etc
+- duodenum: passage too fast
+- ileum: got lots of hijackable trapdoors ([[M cell]]s), lots of entry
+- colon: too much normal floral bacterial load to fight against

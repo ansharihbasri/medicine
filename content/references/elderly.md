@@ -1,0 +1,2 @@
+
+- indonesia: ≥ 60

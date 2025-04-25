@@ -1,0 +1,40 @@
+
+# tx (zoom meet kamis 17 apr, freshmen, dr adnin)
+also see: [[hypertension in stroke#^57617a]]
+- koreksi [[coagulopathy]] -> [[why coagulopathy in hemorrhagic stroke]]
+	- preceded by lab marker2 [[hemostasis]] ([[PT (INR)]], [[aPTT]], [[thrombocyte count]])
+	- dr adnin: ga rutin sbnrnya koagulopati. yg rutin tu HTN etionya bukan koagulopati. jadi kalo HTN nya gada masalah, nah etionya cek mungkin karena koagulopati. klo koagulopati DIC si biasanya harus masif gt, jd ga selalu.
+- TTIK bikin ga sadar krn menekan pusat kesadaran
+	- jd gimana nurunin TTIK?
+		- mannitol 200, 150, 150, tiap 8 jam. 1 botol kan 500. di drip cepet diberikan selama 3-5 hari. biasanya hari ketiga puncak edema serebri
+			- mannitol tu diuretik, jadi diserap dari intrasel ditarik ke intravaskular trus dibuang via ginjal.
+			- kontraind manitol
+				- gagal ginjal -> cek kreatinin, pasang kateter
+				- dehidrasi -> nnt cairan makin kebuang, trs risiko hipotensi, shock -> pemfis dehid
+				- gagal jantung karena nanti effort makin berat krn volume ningkat -> ronsen edema paru, jantung
+- kasus: 45 th, tidak sadar 2 jam onset, riw HTN tdk minum obat, ttv lain normal...
+	- udh masuk nife, manitol
+	- ternyata pasiennya setelah diobservasi, mengalami penurunan tingkat kesadaran, bekas muntahan, pasien dicoba beri minum tadi sm keluarga (?)
+		- masalah baru: kesadaran makin turun
+		- ddx:
+			- struktural
+				- HTN belum terkontrol -> perdarahan makin hebat/lebar -> TTIK makin berat menyebabkan herniasi
+			- metabolik
+				- shock hipovolemi karena penurunan TD terlalu cepat -> nope
+				- HTN -> kongestif heart failure -> edema paru -> gagal napas?
+				- manitol kontraind tapi tetep dikasi
+				- hipoglikemi (pasien ga ada intake selama 6 jam...)
+				- tersedak -> hipoksia, infeksi
+					- makanya harus pasang NGT
+		- temuan:
+			- bekas muntahan
+			- keluarga sempet ngasi minum
+			- 200/110, nadi 110, respi 28, chayne sgtrokes, 39.8, 95%
+			- CT lagi? -> oke tapi utk saat ini, secara bpjs gabisa, trs ga harus bgt juga
+			- GDS: 102 -> dicoret tp pikir jg elektrolit imbalans...
+			- pemfis
+				- aus paru normal -> coret edema paru, coret tersedak
+			- neurologis: somnolen jadi sopor, pupil anisokor, kanan 3 mm kiri 6 mm, motorik abnormal ekstensi, babinski bilateral
+			- gmn konfirm herniasi -> liat klinis, CT
+			- herniasi edukasi ad malam ...
+			- klo udah herniasi biasanya ngapain juga dioperasi. tetep di tatalaksana tadi KU obat dll tapi ya prognosisnya ad malam

@@ -1,0 +1,1 @@
+- it's ok to have lower than normal BP while focusing on controlling hemorrhage, instead of aggressively restoring it back due to [[why should avoid aggressive crystalloid]]

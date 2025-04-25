@@ -1,0 +1,2 @@
+[[angina pectoris (chest pain of CAD)]] = temporary myocardial ischemia
+[[myocardial infarction]] = prolonged myocardial ischemia, causing irreversible damage or necrosis (see: [[angina pectoris (chest pain of CAD)#^2daf5f]])

@@ -1,0 +1,58 @@
+PPK PERDOSKI 2017
+[[SNPPDI 4]]
+
+# keywords
+- [[vesicle]], sentral, sentrifugal, generalisata, [[Tzanck smear]]
+
+- ![[Pasted image 20250317134238.png]]
+# etiopathogenesis
+- [[Varicella zoster virus (VZV) (chickenpox)]]
+- transmission: direct contact (dg lesi kali ya?) or inhaled aerosol
+
+# s/sx
+- [[prodrome]]:
+	- [[fever]]
+	- [[headache]]
+	- [[malaise]]
+- [[vesicle]] tersebar generalisata terutama bagian sentral tubuh
+	- mulai dari wajah, scalp, lalu menyebar.
+	- penyebaran sentrifugal (dari sentral ke perifer)
+	- berbagai stadium: erythematous [[macule]] -> [[vesicle]] -> [[crust]]
+	- [[mucosa]] can be affected: mulut, (palpebral) [[eye conjunctiva]], [[vulva]]
+- severity dari [[vital signs]] dan keadaan umum
+
+# diagnosis
+## ddx
+- [[B08.4 hand foot and mouth disease]]:
+	- penyebaran lebih akral
+	- [[mucosa]] lebih byk terkena
+	- [[Tzanck smear]] (-)
+- [[vesicle]] reaction to [[insect bite]]:
+	- [[urticaria]] [[papule]] w titik tengah
+	- berkelompok
+	- pola akral
+- [[erupsi obat variseliformis]]
+	- tanpa [[fever]]
+	- timbul serentak
+	- tdk ada pembesaran [[cervical lymph nodes]]
+- 
+
+## penunjang
+- [[Tzanck smear]]
+
+# tx 
+- self-lim 
+- topikal:
+	- [[vesicle]]: [[bedak]] agar vesikel tdk pecah + [[menthol 2 percent]] or other [[antipruritic]]
+	- [[vesicle]] yg sdh pecah/[[crust]]: [[antibiotic cream or ointment]]
+- sistemik:
+	- [[antiviral]] (see PPK for detail)
+	- simtomatik:
+		- [[antipiretik]]
+		- [[antipruritic]]
+
+# prevention
+- vaksin dasar (2 dosis, rentang 12-18 bulan) see [[immunization or vaccination schedule]]
+
+# education
+see PPK

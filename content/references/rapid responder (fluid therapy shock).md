@@ -1,0 +1,1 @@
+- after initial [[bolus (crystalloid)]], adequate improvement of pressure and [[perfusion]]

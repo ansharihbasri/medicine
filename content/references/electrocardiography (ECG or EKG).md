@@ -1,0 +1,109 @@
+
+- resources dr miftah https://drive.google.com/drive/folders/1KputqoU_nfV9w4_qB_2UuXWeIJHgKeOw?usp=sharing
+- [[limb and precordial ECG leads placement]]
+- concept
+	- ![[Screenshot_2025-04-15-09-31-45-578_org.readera-edit.jpg]] guyton 146
+	- i think a big key concept that is often not described explicitly is that the electric current we refer to (and record with ECG) is NOT the same thing as the direction of the nerve fibers or impulses or depolarization itself, but the direction made when two 'masses' of the heart—one being depolarized (negatively charged) and the other still polarized (positively charged)—face each other, and it's the line drawn between these 'eye contacts' that is the [direction of] electrical current we refer to, with the **arrow always pointing towards the positive/polarized mass**. i like to imagine it as if the heart muscles as mass of people, initially normal (polarized) but a wave of zombie infection propagates and as part of the mass becomes infected and others are still uninfected, these two groups face each other and the direction of the 'facing each other' changes as the distribution of the infection goes along (e.g. if most of the mass on the left side is infected, the direction of propagation [depolarization] might be towards the left [hence why the left side is infected first], but then these infected group will face to the right [and the uninfected group face the opposite] and that's the direction of the current is.) and then when it comes to ECG leads, they're simply like cameras shooting this zombie film; camera I (lead I) is on the upper left side (if the scene is viewed from birds eye) and so on; and each camera captures (records) positively every time the 'zombie group' faces the camera and records negatively when they turn their backs on the camera.
+- trivia
+	- [[biphasic P wave]] jelas kaya huruf M
+	- aVL klo gada P wave liat di lead lain klo ada brti di aVL vektor listriknya tegak lurus jd ga keliat
+	- [[P wave]] scr durasi biasa ga beda jauh antara ke 12 lead jadi ambil aja yg paling jelas buat durasi. [[QRS wave]] juga gt.
+	- [[syarat sinus P wave]]
+	- [[bedain sinus rhythm vs atrial rhythm]]
+	- P wave assess sebut durasi amplitud overall yg plg jelas. kalo per lead smooth monofasik2 aja. durasi jg as said above cari aja yg paling jelas nah ambil yg itu
+		- kalo grenjel2 dikit masih smooth atau liat di lead yg lain yg lbh jelas.
+		- durasi P dari kaki bukit.
+	- [[PR interval]]
+	- assessment QRS: (normal = this). **LVH RVH etc ditanya di ujian hrs bisa dx!**
+		- [[Q patologis]] this
+			- liat di semua lead
+			- pato panjang lebar lebih dari samdeng 1 kotak. harus dua2nya, gabisa salah satu panjangnha ato dalemnya aja
+		- R this
+			- progresif V1 v6 terutama v1-3. ato dianggap ga progresif kalo kurang dari 3 kotak.
+		- S this
+			- regresif v4-6
+			- 
+		- durasi QRS this, ambil salah satu
+			- dari awal Q ke akhir S di isoelectric
+			- normalnya 2 kotak kecil
+		- amplitudo QRS
+		- axis QRS this
+			- normal...
+		- LVH
+		- RVH related to R/S ratio???
+		- RBBB
+		- LBBB
+		- delta wave
+		- dll
+	- ST segment
+	- T wave
+		- naik ato turun
+		- brp tinggi T nya
+		- T inverted pato dmn aja
+	- U wave
+		- ada ga
+		- klo ga trku tinggi sebut normal
+	- QTc interval
+	- ...
+	- heart rate irregular: buat 6 detik (30 kotak besar), kalikan 10
+	- konklusi
+		- "sinus rhythm normal"
+		- "sinus takikardi"
+		- .. "dengan Q patologis"
+	- septum antara atrium sama ventricle ada jaringan fibrous which is insulator
+	- soal skill
+		- ACS
+		- aritmia
+		- EKG target 5 menit
+		- gagal jantung
+
+
+# abnormal
+
+- pembesaran ruang jtg (LVH RVH)
+	- hipertrofi
+	- dilatasi
+- iskemia (plg sering ujian dan penting di klinis)
+	- tentukan rujuk tdk rujuk
+	- pasang ring ato tdk
+	- konsep
+		- suplai demand tdk imbang
+		- plg sering 90% suplainya bermasalah ([[coronary artery disease (CAD)]])
+		- iskemia berkepanjangan is infark (jtg dan otak). klo di sel lain istilahnya [[necrosis]]
+		- EKG iskemia: (ST dep ATAU T)
+			- [[ST depression]]
+				- 1/2 kotak kecil aja udah signifikan
+			- [[T inversion]]
+				- signifikan = inverted 1 kotak kecil
+			- EKG liat semua lead
+		- EKG infark (ST elev ATAU Q)
+			- [[ST elevation]] (baru) -> emergensi, ring, obat
+				- signifikan = 1 mm ([[J point]] dari garis isoelectric) kecuali lead [[V2]] dan [[V3]] krn pada normal bisa elevasi di V2-3.
+					- pria:
+						- < 40: 2.5 mm
+						- ≥ 40: 2 mm
+					- wanita: 1.5 mm
+			- [[Q patologis]] (lama)
+				- signifikan = minimal dalam 1 mm DAN lebar ≥ 1 kotak kecil
+			- EKG liat semua lead
+		- syarat disebut iske ato infark per tanda
+			- signifikan (pato EKG nya)
+			- contiguous: minimal 2 (lead2 bertetangga: I sama aVL (high lateral?), II III aVF (inferior), V1-V6 berurutan; V1-2 septal, V3-4 anterior, V5-6 lateral). klo ST elev di V3 sama V6 juga bukan signifikan
+				- yg high lateral yg 1 avL atau yg v5-6
+		- yg paling sering keluar soal: 
+			- infark septal anterior v1234
+			- iskemia lateral v56
+			- iskemia 23avf inferior
+			- infark i avl lateral oh 1 iso jd bukan ini
+			- "infark ST elevasi/baru di lead anterior septal, iskemia di lead inferior lateral" = dx STEMI anterior septal
+			- di ujian di tanya hasil EKG (konklusi di petik di atas), dx, terapi (oksigen, aspirin, isosorbid, ...), edu suruh rawat, klo di RS pemasangan ring jantung
+		- Q 23 avL avF infark inferior -> gada
+		- ST dep v2-4 ant iske
+		- elev 23 avL avF infark inferior
+		- T 1 avL v1-4 septal inf iskem
+		- infark di lead Q patologis inferior, infark ST elev di lead inferior, iskem di lead ant inf sep
+		- beda dinding beda obat
+		- kalo ada ST elev ada Q jg, bisa bilang ST; klo Q aja bilang infark lama.
+
+- aritmia
+- 

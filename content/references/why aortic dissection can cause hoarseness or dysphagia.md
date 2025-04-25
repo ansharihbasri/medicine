@@ -1,0 +1,2 @@
+- [[ascending aortic dissection]]/[[type A aortic dissection]] can compress recurrent laryngeal nerve causing [[hoarseness]].
+- [[descending aortic dissection]]/[[type B aortic dissection]] can compress [[esophagus]] causing [[dysphagia]].

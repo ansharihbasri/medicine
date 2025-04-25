@@ -1,0 +1,8 @@
+- both are due to blood hitting wall turbulently due to stiffened/less compliant ventricle
+- specific to s3 is due to rapid filling, while s4 (no source dared to state it explicitly but i will anyway) is not thus late diastole (while s3 is early diastole)
+	- therefore s3 is related to volume overload related stuff
+	- whereas s4 is related to "pure" stiffened ventricle like due to HTN or aortic stenosis.
+- why s3 may be normal in young but not in elderly: young cardiac output usually higher than elderly (iow, rapid filling is more common in normal young than in normal elderly) hence on the basis that s3 is due to rapid filling, normal s3 is more common in young than elder.
+	- (P1) rapid filling is more common in normal young people than in normal elderly
+	- (P2) s3 is due to rapid filling
+	- (C) s3 is more common in normal young than in normal elderly

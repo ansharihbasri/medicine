@@ -1,0 +1,5 @@
+- why whooping?
+	- sound made by forceful inhalation through narrowed [[glottis]] (Nelson Essen 9th p. 417)
+		- why narrowed? due to mucus plug and necrotic bronchial epithelial tissues (see below) ^892a08
+- why [[paroxysm]]al?
+	- to dislodge mucus plug and necrotic bronchial epithelial tissues (Nelson Essen 9th p. 417)

@@ -1,0 +1,3 @@
+
+- fungsi kembali normal? ato minimal dapat beraktivitas lagi?
+	- --> lihat dr derajat keparahan...

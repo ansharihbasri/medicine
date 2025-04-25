@@ -1,0 +1,1 @@
+- hydrolysis of [[esculin]] (see [[bile esculin test]])

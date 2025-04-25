@@ -1,0 +1,1 @@
+the back pressure into the lung from not-as-effective LV congests the lung even more when lying flat compared to when standing or sitting which lets gravity pull fluids down and out of the lungs

@@ -1,0 +1,1 @@
+normal due to increased vaginal or cervical secretions but may be abnormal if accompanied w associated symptoms (itching, burning, pain, dysuria, etc.)

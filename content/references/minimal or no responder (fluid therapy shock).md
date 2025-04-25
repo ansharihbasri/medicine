@@ -1,0 +1,1 @@
+- inadequate pressure and [[perfusion]] improvement even after initial [[bolus (crystalloid)]]

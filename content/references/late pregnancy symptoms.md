@@ -1,0 +1,5 @@
+- fetal movement
+- contraction
+- frequent bladder emptying
+- edema (why?)
+- problems related to uterus enlargement (what?)

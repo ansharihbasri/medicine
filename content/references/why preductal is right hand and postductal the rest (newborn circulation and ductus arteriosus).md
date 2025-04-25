@@ -1,0 +1,2 @@
+
+- ![[images (1).jpeg]] right hand got artery from right brachiocephalic trunk whereas [[ductus arteriosus]] arise after (so right hand is not contaminated by blood from [[ductus arteriosus]] hence [[preductal]]) that hence the foot is [[postductal]]. left hand may vary since close proximity to [[ductus arteriosus]] rather than much later like the foot.

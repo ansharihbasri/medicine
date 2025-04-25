@@ -1,0 +1,27 @@
+- a
+	- r
+	- c
+- m
+	- r
+	- d: v, a, l
+- t
+	- f: l, c, t, l, f
+	- at: d, p, r
+	- s: l, r
+- me
+	- int/am (r, a)
+- consc
+	- ori
+	- reg, dis
+- mot
+	- c, h, n, h, a
+- sp
+	- n, pres, dis
+	- echo, cop, lac
+- inter
+- intra
+	- syn/dys
+	- cen: con, grand
+	- str: i, s, c
+- psych
+	- 

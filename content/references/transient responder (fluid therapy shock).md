@@ -1,0 +1,1 @@
+- after initial [[bolus (crystalloid)]], improved pressure and [[perfusion]], but when switched to maintenance [[crystalloid]] rate, deteriorate.

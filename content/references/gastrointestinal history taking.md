@@ -1,0 +1,14 @@
+Bates 13th p. 1023-.../2145
+- [[abdominal pain]]
+	- [[visceral abdominal pain]]
+		- keyword: smooth muscle or liver capsule hyper contraction/stretch
+		- nonspecific/non localizable, of gnawing/cramping/aching nature
+	- [[somatic or parietal abdominal pain]]
+		- keyword: inflammation
+		- localizable, steady, of aching nature, usually more severe
+		- aggravated by moving abdominal around
+			- in contrast to [[renal stone]] colicky, keep moving around to find comfy position
+	- [[referred abdominal pain]]
+		- keyword: no palpation tenderness, may radiate to others eg back or scapula
+		- not aggravated by movement
+- 

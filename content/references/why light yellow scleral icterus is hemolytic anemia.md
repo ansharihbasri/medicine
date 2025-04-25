@@ -1,0 +1,1 @@
+- [[unconjugated bilirubin]] is fat soluble, thus carried by [[albumin]], thus don't penetrate tissues unlike [[hepatitis]] which got [[conjugated bilirubin]] as well

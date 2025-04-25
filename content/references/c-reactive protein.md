@@ -1,0 +1,4 @@
+- proteins released by the liver in response to severe inflammation ([[acute phase response]]);
+	- c-reactive = reactive to C-polysaccharide (part of [[Streptococcus pneumoniae]]'s polysaccharide capsule)
+	- thus elevation is a marker of elevation of inflammation.
+	- works much to enhance immune response

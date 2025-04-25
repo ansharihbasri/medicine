@@ -1,0 +1,5 @@
+- from 20 weeks
+- [[Bartholomew's rule of 4]]
+- ![[an01628_im04029_pr7_fundal_height_measurethu_jpg.jpg]]
+	- ngerabanya gmn? keras cenah
+- [[fundal height (tinggi fundus uteri TFU) and gestational age]]

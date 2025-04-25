@@ -1,0 +1,10 @@
+- value
+	- 110-160 [(web)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/fetal-heart-monitoring%23:~:text%3DThe%2520average%2520fetal%2520heart%2520rate,to%2520conditions%2520in%2520your%2520uterus.&ved=2ahUKEwjTpcG9j4eHAxXawzgGHTSUB3QQFnoECBYQBA&usg=AOvVaw1fbUwJ_slQm_PJVHteOzNE)
+		- Williams 26th p. 182
+			- ![[Screenshot_2024-07-03-07-48-08-697_org.readera-edit.jpg]]
+	- 120-160 (dok PDT)
+- when start detectable?
+	- 20-22 w (see above)
+	- Lange book 8th p. 188-189:
+		- [[fetoscope]]: if slender may at 17-18 w; but in general at 20 w (since rely on bone conduction)
+		- [[Dopton or Doppler fetal heart tone device]]: as early as 8 w; usually 10 w (buku saku pelayanan kehamilan says > 16 w, not said referring to fetoscope or dopton. Chat GPT says dopton reliably 16 w so most likely the latter.)

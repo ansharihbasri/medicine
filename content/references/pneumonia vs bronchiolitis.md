@@ -1,0 +1,11 @@
+---
+tags:
+  - dd
+---
+- [[fever]]:
+	- [[bronchiolitis]]: low grade (see: [[bronchiolitis#^cc62a2]])
+	- [[pneumonia]]: apparently can be high grade (?) (see: ![[pneumonia#^97546a]])
+- [[wheezing]]
+	- [[bronchiolitis]]: (+) see: [[bronchiolitis#^cc62a2]]
+	- [[pneumonia]]: (-) (not mentioned)
+- 

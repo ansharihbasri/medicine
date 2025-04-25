@@ -1,0 +1,3 @@
+- normal value: 5-34/min. <5 is hypoactive, >34 is hyperactive (Bates 13th p. 1049/2144)
+- [[borborygmi]]
+- where to place stetho? just one area anywhere e.g. RLQ bcs it's transmitted widely throughout abdomen (Bates 13th p. 1049)

@@ -1,0 +1,3 @@
+- [[wheezing]] (expiratory)
+- elongated expiration
+- [[nasal flaring]]

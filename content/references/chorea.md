@@ -1,0 +1,2 @@
+- chorea = dance = involuntary movements like dancing
+- 

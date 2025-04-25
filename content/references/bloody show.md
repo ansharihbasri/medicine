@@ -1,0 +1,1 @@
+basically [[mucus plug]] but with some blood (normal)

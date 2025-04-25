@@ -1,0 +1,11 @@
+- SNPPDI 4/3
+	- [[angina pectoris (chest pain of CAD)]]
+	- [[myocardial infarction]]
+	- [[acute heart failure]]
+	- [[chronic heart failure]]
+	- [[acute cor pulmonale]]
+	- [[chronic cor pulmonale]]
+	- [[acute coronary syndrome]]
+	- [[essential hypertension]]
+
+- [[cardiovascular history taking]]

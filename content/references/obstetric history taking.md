@@ -1,0 +1,23 @@
+
+- s/sx screening
+	- see: [[common concerns or symptoms during pregnancy]]
+	- significant weight loss? -> >5% than prepregancy indicate[[hyperemesis gravidarum]]
+		- suspect [[molar pregnancy]] (elevated hCG)
+	- [[dysuria]]? [[suprapubic pain]]? -> [[UTI]]s (Bates 13th p. 1876/2145)
+	- [[leukorrhea (keputihan)]]
+	- [[bloody discharge or uterine bleeding]] suspect:
+		- [[molar pregnancy]] -> due to its edematous nature (may rupture or whatever) (?)
+			- check for [[hyperemesis gravidarum]] (see above)
+		- [[ectopic pregnancy]] -> e.g tubal rupture
+			- inquire unilateral sharp abdominal or pelvic pain
+		- [[abortus]]
+			- inquire [[cramping]]
+		- [[bloody show]]
+	- [[premature rupture of membrane]]
+		- check if [[cervical dilation]] is > 4 then that's normal (active phase)
+	- [[late pregnancy symptoms]]
+	- fetal movement gone?
+		- normal in first trimester
+		- suspect anterior placenta placement
+- ...
+- don't forget educate about breastfeeding (avoid fetal infection and noninfectious conditions; mother decrease risk of breast cancer etc)

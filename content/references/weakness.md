@@ -1,0 +1,1 @@
+"demonstrable loss of muscle power" (Bates 13th p. 346/2145)

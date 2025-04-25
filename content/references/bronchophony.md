@@ -1,0 +1,3 @@
+- sounding like bronchus ("windpipe")—more, "nyaring". precisely, when patient say (in normal voice level): "one-two-three", the auscultated vibration would be more crisp and louder rather than muffled and softer.
+	- why so? denser lung (e.g. [[consolidation]]) transmit vibrations better, hence the sounds heard more clearly and loudly.
+	- the concept is basically the same as [[whispered pectoriloquy]], except this one is in normal speech while [[whispered pectoriloquy]] is in whispered speech. ^46b0ab

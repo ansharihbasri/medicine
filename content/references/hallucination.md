@@ -1,0 +1,12 @@
+
+- not based on sensory input
+- a/w [[schizophrenia]], [[bipolar disorder]], [[depression]], [[delirium]], [[substance abuse]]
+- normal/typical [[hallucination]]s (if on their own): [[hypnagogic hallucination]] and [[hypnopompic hallucination]]
+- types:
+	- [[auditory hallucination]]
+	- [[visual hallucination]]
+	- [[olfactory hallucination]]
+	- [[gustatory hallucination]]
+	- [[tactile hallucination]]
+	- [[internal stimuli hallucination]]
+- genuine [[hallucination]] are typically frightening; [[pseudo-hallucination]] are not

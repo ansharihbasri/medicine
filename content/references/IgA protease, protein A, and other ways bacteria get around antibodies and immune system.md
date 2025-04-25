@@ -1,0 +1,3 @@
+- [[Staphylococcus aureus]]: [[protein A]]
+- [[Streptococcus pneumoniae]]: [[IgA]] protease -> breaks down IgA
+- 

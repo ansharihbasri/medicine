@@ -1,0 +1,3 @@
+- components
+	- Williams 26th p. 178
+		- ![[Screenshot_2024-07-03-07-45-49-865_org.readera-edit.jpg]]

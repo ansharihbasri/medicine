@@ -1,0 +1,15 @@
+
+- [[palpebra]] [[OD (oculi dextra)]]: [[edema]], [[mucopurulent]] secretion
+- [[palpebra]] [[OS (oculi sinistra)]]: [[edema]], [[mucopurulent]] secretion
+- [[conjunctiva]] [[OD (oculi dextra)]]: [[conjunctival injection or hyperemia]]
+- [[conjunctiva]] [[OS (oculi sinistra)]]: [[conjunctival injection or hyperemia]]
+- [[cornea]] [[OD (oculi dextra)]]: jernih
+- [[cornea]] [[OS (oculi sinistra)]]: jernih
+- [[bilik mata depan (anterior eye chamber)]] [[OD (oculi dextra)]]: sedang
+- [[bilik mata depan (anterior eye chamber)]] [[OS (oculi sinistra)]]: sedang
+- [[pupil]] [[OD (oculi dextra)]]: bulat [[isocoria (isokor)]], [[pupillary size and reflex]] direk indirek +/+
+- [[pupil]] [[OS (oculi sinistra)]]: bulat [[isocoria (isokor)]], [[pupillary size and reflex]] direk indirek +/+
+- [[iris]] [[OD (oculi dextra)]]: [[synechiae (sinekia)]] -
+- [[iris]] [[OS (oculi sinistra)]]: [[synechiae (sinekia)]] -
+- [[lens]] [[OD (oculi dextra)]]: jernih
+- [[lens]] [[OS (oculi sinistra)]]: jernih

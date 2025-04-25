@@ -1,0 +1,38 @@
+- viral
+	- [[A63.0 condyloma acuminata]]
+	- [[B00 herpes simplex]]
+	- [[B01 varicella (cacar air)]]
+	- [[B02 herpes zoster (cacar air)]]
+		- [[B02.22 postherpetic trigeminal neuralgia (neuralgia pasca herpes (NPH))]]
+	- [[B05 measles (rubeola or morbili or campak)]]
+	- [[B06 rubella]]
+	- [[B07 viral warts - verruca vulgaris aka kutil aka common wart]]
+	- [[condyloma acuminata]]
+	- [[B08.1 molluscum contagiosum]]
+	- [[B08.4 hand foot and mouth disease]]
+- bacterial
+	- [[L01.0 impetigo (impetigo contagiosa)]] (4)
+		- [[L01.01 non-bullous impetigo (impetigo krustosa)]]
+		- [[L01.03 bullous impetigo (impetigo bullosa)]]
+	- [[L08.0 pyoderma (ecthyma) (pioderma or ektima)]]
+	- [[A46 erysipelas]] (3A)
+	- [[L03.9 cellulitis]] (3A)
+		-  [[L03.01 cellulitis of unspecified finger (including pyogenic paronychia)]]
+	- [[scarlet fever]] (2)
+	- [[necrotizing fasciitis]] (-)
+- fungal
+	- [[superficial fungal infections]]
+		- [[B35 dermatophytosis]] ^3d7fcb
+			- [[B35.0 tinea barbae and tinea capitis]]
+			- [[B35.1 tinea unguium or onychomycosis]]
+			- [[B35.2 tinea manuum (manus)]]
+			- [[B35.3 tinea pedis (athletes foot)]]
+			- [[B35.4 tinea corporis]]
+			- [[B35.6 tinea cruris or inguinalis]]
+			- [[B35.8 other dermatophytoses (including tinea facialis or faciei)]] ^f05b32
+		- [[B36.0 pityriasis or tinea versicolor]]
+- ...
+	- [[B76.9 cutaneous larva migrans]]
+- 
+- [[L20-L30 dermatitis or eczema]]
+- 

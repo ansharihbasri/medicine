@@ -1,0 +1,1 @@
+- protein required for docking of neurotransmitter vesicles on presynaptic membrane (Jawetz p. 189)

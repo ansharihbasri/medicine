@@ -1,0 +1,4 @@
+
+- [[orthotropia]]
+- [[heterotropia]]
+- [[heterophoria]]

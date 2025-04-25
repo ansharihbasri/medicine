@@ -1,0 +1,1 @@
+vocal cords + the opening there

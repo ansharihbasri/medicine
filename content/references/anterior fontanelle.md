@@ -1,0 +1,4 @@
+- size
+	- normal: 2,5x2,5 cm ([[FT-NB]]) (ppt pdt)
+- closes
+	- normally b/w 9-18 mo (ppt pdt)

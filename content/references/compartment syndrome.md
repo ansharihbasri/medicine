@@ -1,0 +1,1 @@
+- e.g. fluids trapped in muscle compartment, causing unnecessary pressure, can lead to stuff like pressure ischemia etc

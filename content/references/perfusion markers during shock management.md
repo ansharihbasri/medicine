@@ -1,0 +1,3 @@
+- [[urine output]] (represent [[renal blood flow]] i.e. renal perfusion) ^dbab41
+- [[base deficit]]
+- [[lactate level]]

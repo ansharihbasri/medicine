@@ -1,0 +1,8 @@
+- palpation
+	- [[tactile fremitus]]
+- percussion
+	- ...
+- auscultation
+	- [[bronchophony]]
+	- [[egophony]]
+	- [[whispered pectoriloquy]]

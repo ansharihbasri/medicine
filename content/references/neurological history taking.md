@@ -1,0 +1,14 @@
+- [[headache]] (Bates 13th p. 1440-1/2145)
+	- screen for [[meningitis]] ([[secondary headache]]) via [[meningeal reflexes (signs)]]
+	- assess [[seven sacred or pearls or whatever (history of present illness)]]
+		- three most important aspects:
+			- severity
+				- on severe side: [[meningitis]] (see: [[meningitis#^610551]]), [[subarachnoid hemorrhage]] (see: [[subarachnoid hemorrhage#^6bb8a9]])
+			- chronological pattern
+				- [[sudden onset headache]]: [[meningitis]], [[subarachnoid hemorrhage]]
+				- [[episodic headache]]: [[migraine]], [[tension-type headache]]
+				- peak in several hours: [[migraine]], [[tension-type headache]]
+				- [[new, persisting, progressive headache]]: tumor, mass lesion, abscess
+			- associated symptoms
+	- [[headache exacerbated by coughing, sneezing, or sudden head movements]]
+	- [[headache warning signs]]

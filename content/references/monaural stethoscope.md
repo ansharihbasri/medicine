@@ -1,0 +1,4 @@
+- cone on stomach
+- if abdominal too thick, switch to thinner part e.g. 3 cm below umbilicus
+- rate: listen for 5 sec every other 5 sec, 3 times. multiply by four.
+- regularity: listen 1 full minute. also note differences between the 5 sec intervals

@@ -1,0 +1,4 @@
+
+# examples
+- [[amoxicillin]]
+- [[ampicillin]]

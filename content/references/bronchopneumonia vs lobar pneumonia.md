@@ -1,0 +1,1 @@
+![[Screenshot_2024-07-05-13-03-33-357_org.readera-edit.jpg]] (Cotran Robbins 10th p. 707)

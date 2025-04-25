@@ -1,0 +1,5 @@
+- pathological may result from edema: 
+	- [[(congestive) heart failure (CHF)]]
+	- [[nephrotic syndrome]]
+	- [[liver failure]]
+	- [[venous stasis]]

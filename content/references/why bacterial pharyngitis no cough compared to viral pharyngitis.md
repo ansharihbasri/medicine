@@ -1,0 +1,2 @@
+
+- [[viral pharyngitis]]: site more diffuse/spread including [[larynx]], and [[postnasal drip]] irritate/trigger [[cough]] areas; whereas [[bacterial pharyngitis]] focuses on [[tonsil]] and [[oropharynx]], usually doesn't involve nasal mucosa or sinuses (source of mucus).

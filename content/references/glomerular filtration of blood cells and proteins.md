@@ -1,0 +1,1 @@
+- proteins esp smaller ones like albumin mainly due to the neg charge rather than the small slits/fenestra (?) <- implied by [[minimal change disease#^fd9291]]

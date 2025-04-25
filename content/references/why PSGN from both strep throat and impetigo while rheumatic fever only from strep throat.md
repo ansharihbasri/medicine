@@ -1,0 +1,3 @@
+chatgpt:
+- [[rheumatic fever]] is [[type II hypersensitivity]] i.e. cross reactivity due to [[M protein]] and apparently the [[Streptococcus pyogenes]] strain w M protein is the [[strep throat]] one but not which cause [[L01.0 impetigo (impetigo contagiosa)]] or skin inf.; whereas [[PSGN]] is [[type III hypersensitivity]] i.e. antibody antigen complex deposit, and this doesn't require [[M protein]] hence the strain that cause the skin inf can trigger that as well.
+- mnemo (Paul Bolin): rheumatic fever rheumatic heart disease = 1 heart = 1 cause i.e. strep throat; PSGN = 2 kidneys = 2 causes.

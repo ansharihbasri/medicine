@@ -1,0 +1,4 @@
+- EDD = day of [[HPHT]] + 7, month of [[HPHT]] - 3 (Williams Obs 26th p. 122)
+	- e.g., if [[HPHT]] is April 2, then EDD is January 9
+- ![[Pasted image 20250325165358.png]]
+- ![[Pasted image 20250325165405.png]]

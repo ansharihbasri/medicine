@@ -1,0 +1,3 @@
+- [[ladder pattern for thorax palpation and percussion]] can be used here as well
+- [[breath sounds]]
+- [[heart valve auscultation]]

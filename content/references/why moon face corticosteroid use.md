@@ -1,0 +1,3 @@
+- [[cortisol]] -> catabolic -> less face muscles (?)
+- [[cortisol]] -> reduce fibroblast whatever -> less rigidity -> stretched face
+- [[mineralocorticosteroid]] effect -> swelling

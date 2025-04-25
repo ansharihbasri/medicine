@@ -1,0 +1,6 @@
+- Williams 26th p. 46
+	- ![[Screenshot_2024-07-03-07-33-03-122_org.readera-edit.jpg]]
+- Williams 26th p. 47
+	- ![[Screenshot_2024-07-03-07-33-58-831_org.readera-edit.jpg]]
+- Williams 26th p. 42
+	- ![[Screenshot_2024-07-03-07-35-48-848_org.readera-edit.jpg]]

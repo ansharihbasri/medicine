@@ -1,0 +1,6 @@
+- length: 21-35 d (Novak Gyn 16th p. 469)
+	- dura: <7 d
+- (Novak Gyn 16th p. 471)
+	- ![[1719873450230.jpg]]
+- [Fraser et al. 2007](https://academic.oup.com/humrep/article/22/3/635/608834)
+	- ![[1719873451942.jpg]]

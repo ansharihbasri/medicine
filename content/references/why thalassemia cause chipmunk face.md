@@ -1,0 +1,1 @@
+- severe anemia -> erythroplasia (?) -> marrow swelling as well as flat bones which normally only long bones

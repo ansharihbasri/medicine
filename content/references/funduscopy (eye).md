@@ -1,0 +1,12 @@
+
+- papil
+- batas kabur/tegas
+	- kabur ada peningkatan [[intracranial pressure (tekanan tinggi intrakranial TTIK)]]
+- arteri vena
+	- arteri bandingkan diameternya dg vena
+	- 2:3 arteri:vena normal
+	- klo [[atherosclerosis]] diameter arteri mengecil (jd 1:3) -> [[hypertensive retinopathy]]
+	- [[crossing phenomena (arteri and vein)]]
+	- [[copper wire (kinking) sign]]
+	- KW standard classif (Kate weirgerd apa gt)
+- [[meningeal TB]]: tuberkuloma

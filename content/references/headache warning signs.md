@@ -1,0 +1,3 @@
+Bates 13th p. 1441/2145
+![[Screenshot_2024-07-06-17-53-46-879_org.readera-edit.jpg]]
+- ...

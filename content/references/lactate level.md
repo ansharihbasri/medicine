@@ -1,0 +1,3 @@
+- represent degree of anaerobic respiration thus organ perfusion
+- values:
+- 

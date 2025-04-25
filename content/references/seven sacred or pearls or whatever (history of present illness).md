@@ -1,0 +1,20 @@
+- Bates
+	- ![[Screenshot_2024-06-30-17-37-21-439_org.readera-edit.jpg]] (Bates 13th p. 178)
+		- ![[Screenshot_2024-06-30-17-38-59-371_org.readera-edit.jpg]] (character = quality n quantity/severity; setting = associated sx. setting as in kapan munculnya masuk ke alleviating aggravating aja si)
+- modul PDT
+	- lokasi/radiasi
+		- axial atau paramedian? (dr Deta (FM, prekoas))
+		- radiasi -> saraf?
+	- onset/durasi/frekuensi
+		- early atau late? <- akut/kronis... (dr Deta (FM, prekoas))
+		- terus2an vs klo gerak aja (otot, ...) (dr Deta (FM, prekoas))
+	- kualitas
+		- dull/sharp -> visceral/somatic? ^ec255f
+			- ![[Pasted image 20250314071942.png]]
+	- kuantitas
+		- [[VAS (visual analog scale)]]
+		- [[NRS (numerical rating scale)]]
+	- faktor peringan
+	- faktor pemberat
+	- analisis sistem yg menyebabkan keluhan
+	- dr Deta (fm, prekoas): a/sx -> kelemahan gerak -> saraf?

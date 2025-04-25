@@ -1,0 +1,1 @@
+- acidity disrupts enzymes for ATP production. but cells still primarily due due to lack of ATP.

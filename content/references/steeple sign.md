@@ -1,0 +1,1 @@
+![[Screenshot_2024-07-04-18-18-43-105_org.readera-edit.jpg]] (Nelson Essen 9th p. 416)

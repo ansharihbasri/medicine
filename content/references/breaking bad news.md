@@ -1,0 +1,18 @@
+
+- [[when or what if HIV patient does not want to inform spouse]]
+- [[what to do if patient got angry and physically violent]]
+- [[SPIKES]], also janlup:
+	- setting up: '**ke sini sm syp**' -> ensure klo down bgt ada yg nemenin pulang etc
+	- invitation or info: **'mau dikasi tau ke siapa aja'**
+	- ...
+	- empati:
+		- imagine you're the one w the dx, think of all the dampak biopsikososial
+		- 'mohon maaf kurang mengenakkan, tapi kami tetap harus menyampaikannya... kami hanya bisa...'
+		- 'mohon maaf jika kami tdk bisa merasakan sepenuhnya yang dirasakan bapak'
+		- 'kami hanya bisa berupaya...'
+		- pasrah = obat. *"i'm depressed anyway..."* -> i.e. may be ready for tatalaksana (but still consider give time alone for decision if needed)
+			- pasrah is a way of accepting jg
+- semua keputusan balik lg ke pasien jd jangan pusing
+- manifestations of desperations:
+	- seeking alternatives: [[herbal]], ...
+	- 

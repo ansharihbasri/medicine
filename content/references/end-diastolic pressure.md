@@ -1,0 +1,1 @@
+pressure (in ventricle) at the end of diastole, just before the heart contracts. thus elevation reflects elevation in ventricular filling

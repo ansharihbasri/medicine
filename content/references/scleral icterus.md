@@ -1,0 +1,2 @@
+- [[why light yellow scleral icterus is hemolytic anemia]]
+- [[why dark yellow scleral icterus is hepatitis]]

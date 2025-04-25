@@ -1,0 +1,1 @@
+aka [[fine crackles]] = crackles (fluid) but in alveoli instead of bronchioles

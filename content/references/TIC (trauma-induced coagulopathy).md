@@ -1,0 +1,5 @@
+- clotting factors diluted by excess fluids
+- [[hypothermia]] inhibits enzymes for clotting since it slows down enzyme reactions
+- [[metabolic acidosis]] impairs clotting proteins
+	- [[why acidosis impairs clotting proteins]]
+- rapid consumption of clotting factors due to hemorrhage

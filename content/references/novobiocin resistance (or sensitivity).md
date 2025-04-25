@@ -1,0 +1,4 @@
+- (Paul Bolin's vid):
+	- No Stress:
+		- [[Staphylococcus saprophyticus]] = resistant
+		- [[Staphylococcus epidermidis]] = sensitive

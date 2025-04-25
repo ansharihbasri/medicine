@@ -1,0 +1,5 @@
+[[tension-type headache]]
+[[migraine]]
+[[unspecific migraine]]
+[[trigeminal neuralgia]]
+[[cluster headache]]

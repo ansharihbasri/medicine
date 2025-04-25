@@ -1,0 +1,12 @@
+
+- sensorik
+	- pendengaran
+		- kasar:
+			- jentik jari masing2 sisi, trus dua sisi sama ga
+			- atau gesek2 rambut deket telinga
+			- atau jam detik
+	- klo kasar ada yg abnormal, garpu tala
+		- [[Rinne test]]
+		- [[Weber test]]
+		- [[Schwabach test]]
+- 

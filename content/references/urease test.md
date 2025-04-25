@@ -1,0 +1,2 @@
+- (Paul Bolin's vid)
+	- [[Staphylococcus epidermidis]] and [[Staphylococcus saprophyticus]] both [[urease test]] positive

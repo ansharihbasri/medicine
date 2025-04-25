@@ -1,0 +1,2 @@
+
+- during ischemia, endothelial cells, basement membranes break down -> when reperfused, this cause leakage, worsening [[edema]] including [[brain edema caused by stroke]]. (Caplan's Stroke 4th ed p. 192)

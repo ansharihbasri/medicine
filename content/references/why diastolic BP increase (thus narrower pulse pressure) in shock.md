@@ -1,0 +1,1 @@
+- arterial vasoconstriction -> increased TPR -> blood into ventricles faces stronger pressure from the pool -> increased DBP

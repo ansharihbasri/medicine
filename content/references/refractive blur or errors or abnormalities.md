@@ -1,0 +1,3 @@
+
+- multiple misfocused rays reaching the [[retina]] (Vaughan General Oph 18th p 29)
+- [[myopia]], [[hyperopia]], [[astigmatism]], ...

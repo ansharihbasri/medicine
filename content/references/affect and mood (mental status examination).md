@@ -1,0 +1,21 @@
+- doesn't always need voice i.e. can also be observable via [[motor movement (mental status examination)]] or general facial expressions (especially for [[full or broad affect]], [[dysphoric (mood)]] since expressions are more visible)
+
+- [[affect]]:
+	- range:
+		- [[full or broad affect]]
+		- [[blunted or flat or restricted affect]]
+	- [[congruence (affect)]] (only if full/broad. blunted/flat affect can't show congruence)
+		- [[congruent affect]]
+		- [[incongruent affect]]
+- [[mood]]
+	- range (also in terms of content, whether 'positive, bright, optimistic' (euphoric) or 'negative, dark, pessimistic' (depressed) or irritable (dysphoric)):
+	- [ ] also my theory: [[dysphoric (mood)]] or [[depressed (mood)]] should be inherently a defense against negative mood expression...? hence if [[euthymic (mood)]], there's no reason to not have [[full or broad affect]]?
+		- [[dysphoric (mood)]] or [[depressed (mood)]]
+		- [[euthymic (mood)]]
+		- [[elated or euphoric (mood)]]
+	- lability:
+		- (+) if present (may require full/broad [[affect]] to show) or (N/A)
+	- [[vegetative symptoms (of depression)]]:
+		- (+) if any or (N/A)
+	- [[anhedonia]]
+		- (+) if explicitly mentions what was initially enjoyed but no longer; or (N/A)

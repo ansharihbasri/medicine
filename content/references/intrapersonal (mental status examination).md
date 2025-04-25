@@ -1,0 +1,11 @@
+
+- ego congruence
+	- [[ego-syntonic]]
+	- [[ego-dystonic]]
+- ego centrism
+	- [[conceited (intrapersonal mental status)]]
+	- [[grandiose or expansive (intrapersonal mental status)]]
+- [[ego strength]]
+	- [[intropunitive (intrapersonal mental status)]]
+	- [[splitting (intrapersonal mental status)]]
+	- [[catastrophizing (intrapersonal mental status)]]

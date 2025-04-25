@@ -1,0 +1,3 @@
+- named after rib superior to it.
+	- there are 12 ribs and 11 [[ICS]].
+	- e.g. [[ICS]] 5 is below 5th rib.

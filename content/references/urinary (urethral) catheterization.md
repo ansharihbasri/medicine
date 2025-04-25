@@ -1,0 +1,8 @@
+- purposes:
+	-  check for [[hematuria]] (potential source of bleeding)
+	- continuous evaluation (see: [[urine output]])
+- ![[IMG-20250217-WA0009.jpg]]
+	- uncertain urethral integrity is also contraindication, and to check that, do [[retrograde urethrogram (RUG)]] first; [[high-riding prostate]] is among the indications for [[retrograde urethrogram (RUG)]], implying it is a contraindication for blind urethral catheterization. (read: Roberts and Hedges p. 1176-1178)
+	- [[inflate urinary (urethral) catheter with air or water]]
+	- [[how and how much lidocaine gel to use during urinary (urethral) catheterization]]
+	- 

@@ -1,0 +1,1 @@
+- [[malaria]]: due to synchronized RBC rupture according to parasite's life cycle

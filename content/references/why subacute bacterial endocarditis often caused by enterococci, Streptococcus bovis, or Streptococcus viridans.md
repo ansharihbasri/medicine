@@ -1,0 +1,6 @@
+- these bacteria got adhesive proteins and biofilm capability
+	- [[Streptococcus viridans]]: [[dextran]] also [[biofilm]] (![[Streptococcus viridans#^ef1545]])
+	- [[enterococci]]: [[aggregation substance]] and [[enterococcal surface protein]] (chatgpt) ^b7348e
+	- [[Streptococcus bovis]]: something like that as well. adhesins or whatever (chatgpt)
+- these adhesive stuff stick w exposed connective tissue of damaged endocardium or valves
+	- illus: so say [[rheumatic heart disease]] develop in someone's endocardium which used to be normal, but due to cross reactivity, say due to [[M protein]] of [[Streptococcus pyogenes]] from [[strep throat]], make the endocardium inflamed and expose its connective tissue. this exposed area is prone to sticking with certain adhesive proteins or substances which are commonly produced by gamma hemolytic strep such as enterococci and bovis and also strep viridans, which may, for example, come in an instance of superinfection/secondary infection. also conditions like anatomical defects of the heart or valves that make the circulation there more turbulent and stuff kinda predisposes the endocardium and valve for mechanical injury and hence the aforementioned mechanism similar to that. is all that an accurate summary?

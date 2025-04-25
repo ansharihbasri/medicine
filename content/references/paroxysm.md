@@ -1,0 +1,1 @@
+episodic but abrupt onset, intense and reside quickly

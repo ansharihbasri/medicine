@@ -1,0 +1,2 @@
+- H2O2 catalyzed (?) into H2O and O2.
+	- [[staphylococcus or streptococcus catalase test-wise]] -> staph = clumped bubbles = O2 = catalase positive

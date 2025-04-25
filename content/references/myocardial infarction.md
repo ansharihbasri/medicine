@@ -1,0 +1,2 @@
+- aka [[heart attack]]
+- [[angina pectoris vs myocardial infarction]]

@@ -1,0 +1,5 @@
+
+- alternatif smoking:
+	- aktivitas
+	- puasa
+	- ...

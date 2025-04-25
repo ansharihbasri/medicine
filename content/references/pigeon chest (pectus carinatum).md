@@ -1,0 +1,3 @@
+
+- ![[Screenshot_2025-03-14-13-18-25-628_com.adobe.reader-edit.jpg]]
+- genetic, [[connective tissue disorders]], ...

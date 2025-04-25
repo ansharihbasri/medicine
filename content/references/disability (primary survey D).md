@@ -1,0 +1,7 @@
+- [[neurological examination]] (ATLS 10, p. ..., 119,)
+	- [[GCS (Glasgow coma scale)]]
+		- motor component correlate w outcome
+	- [[pupillary size and reflex]]
+	- general mental status/alertness
+	- [[focal neurological deficits]]
+	- be wary of confounding factors: drugs, intoxication, 

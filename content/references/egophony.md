@@ -1,0 +1,3 @@
+- when "ee" sounds "ay".
+	- normally, "ee" should sound just "ee".
+	- but in more dense lung (e.g., [[consolidation]]), it alters the pitch and harmonics and stuff such that distortion occurs, causing the sound to be "ay" rather than "ee".

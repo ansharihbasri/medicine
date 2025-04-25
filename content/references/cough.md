@@ -1,0 +1,5 @@
+[[bloody cough]]
+[[persistent cough]]
+[[productive cough]]
+[[whooping cough]]
+[[dry cough]]

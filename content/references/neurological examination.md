@@ -1,0 +1,33 @@
+[[localizational approach to neurological examination]]
+
+- janlup cuci tangan
+- [[meningeal reflexes (signs)]]:
+	- [[kaku kuduk (nuchal rigidity)]]
+	- [[Kernig sign]]
+- iritasi radiks/[[radiculopathy]]: (see inside for more, per segment)
+	- ![[radiculopathy#^431e86]]
+	- [[Lasegue sign]]
+	- [[Brudzinski's I (neck) sign]]
+	- [[Brudzinski's 2 (contralateral leg) sign]]
+- [[cranial nerve]] examination:
+	- prinsip:
+		- klo [[sensory]] tutup mata
+	- [[cranial nerve (CN) I (olfactory)]]
+	- [[cranial nerve (CN) II (optic)]]
+	- [[cranial nerve (CN) III (oculomotor)]], [[cranial nerve (CN) IV (trochlear)]], and [[cranial nerve (CN) VI (abducens)]]:
+		- ![[cranial nerve (CN) III (oculomotor)#^22cc0d]]
+	- [[cranial nerve (CN) V (trigeminal)]]
+	- [[cranial nerve (CN) VII (facial)]]
+	- [[cranial nerve (CN) VIII (vestibulocochlear)]]
+	- [[cranial nerve (CN) IX (glossopharyngeal)]]
+	- [[cranial nerve (CN) X (vagus)]]
+	- [[cranial nerve (CN) XI]]
+	- [[cranial nerve (CN) XII]]
+- [[motoric nerve examination]]
+- [[muscle reflex examination]]
+- [[sensory nerve examination]]
+- [[proprioceptive exam]]
+- [[coordination exam]]
+- [[vegetative exam]]
+- [[primitive exam]]
+- [[higher cortical function]]

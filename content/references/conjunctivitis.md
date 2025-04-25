@@ -1,0 +1,4 @@
+
+- [[papillary conjunctivitis]]
+- [[follicular conjunctivitis]]
+

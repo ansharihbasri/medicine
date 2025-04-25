@@ -1,0 +1,1 @@
+![[Screenshot_2024-06-30-19-51-26-380_com.google.android.apps.docs.editors.docs-edit.jpg]]

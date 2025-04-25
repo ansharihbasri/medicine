@@ -1,0 +1,4 @@
+- size
+	- 0.5 cm in [[FT-NB]] (ppt pdt)
+- closes
+	- normally at 1.5 mo (ppt pdt)

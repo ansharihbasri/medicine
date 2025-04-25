@@ -1,0 +1,1 @@
+- pleural effusion: the pleura which was filled with nothing (solid) is now filled with liquid. according to (1), that means vibration is less well transmitted thus *decreased* fremitus. (also see: [[tactile fremitus#^8c5e8c]])

@@ -1,0 +1,2 @@
+- vesicular = alveolar
+- see: [[breath sounds]]

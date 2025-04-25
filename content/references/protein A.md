@@ -1,0 +1,1 @@
+- binds to [[Fc portion]] of [[IgG]] (Paul Bolin)

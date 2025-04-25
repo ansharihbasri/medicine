@@ -1,0 +1,1 @@
+bcs the heart lacks oxygen supply, it can't pump as effectively (LV not working as effectively) thus increase pulmonary vein (back) pressure which then increase pulmonary pressure in general which creates shortness of breath even in the absence of overt [[pulmonary edema]].

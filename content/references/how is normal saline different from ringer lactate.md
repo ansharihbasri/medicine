@@ -1,0 +1,4 @@
+- Ringer lactate got:
+	- a bit of potassium, but don't worry ab hyperkalemic patient despite the fear of worsening it (see Statpearls, Ringer lactate). also related to the fact that acidosis may worsen hyperkalemia (see that too)
+	- sodium lactate whose lactate is converted to pyruvate; [[Cori cycle]] can convert it back to glucose (gluconeogenesis), or through Krebs cycle eventually become [[bicarbonate]] to help buffer acidosis.
+		- but the key thing is that it doesn't have potential [[hyperchloremic acidosis]] effect as [[normal saline]] does, so better for acidosis patient in general.

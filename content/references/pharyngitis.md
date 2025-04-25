@@ -1,0 +1,1 @@
+see: [[J02.9 acute pharyngitis unspecified]], [[viral pharyngitis]], [[bacterial pharyngitis]]

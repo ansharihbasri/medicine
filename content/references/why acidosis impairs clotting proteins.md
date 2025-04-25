@@ -1,0 +1,1 @@
+changes clotting proteins structure; clot forma poorly, breaks too fast

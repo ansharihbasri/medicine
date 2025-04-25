@@ -1,0 +1,1 @@
+![[Screenshot_2025-02-14-17-31-10-009_org.readera-edit.jpg]] (ATLS 10 p. 49)

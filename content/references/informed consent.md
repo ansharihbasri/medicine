@@ -1,0 +1,9 @@
+- who can give consent?
+	- ![[Screenshot_2024-06-30-17-49-18-167_com.google.android.apps.docs-edit.jpg]]
+- witness
+	- ![[Screenshot_2024-06-30-17-50-04-827_com.google.android.apps.docs-edit.jpg]]
+- filling form
+	- [ ] pake pulpen warna e.g. biru. why?
+	- [ ] klo salah jgn tip ex tp coret, tulis kata yg bener, kasi ttd di kanan atasnya. how exactly?
+	- klo pilihan e.g pria/wanita, coret yg bukan DAN lingkari yg betul
+	- jgn ada yg kosong, kalo emg gada kasi strip
