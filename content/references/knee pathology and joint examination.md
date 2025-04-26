@@ -1,75 +1,89 @@
 
-- [youtube](https://www.youtube.com/watch?v=mbiGWlsEeYo)
-	- **[[gait]]**: ask patient to walk around, check for obvious [[abnormal gait]]
-	- **one leg squat**: ask patient to squat w/ one leg, need not be perfect but to check whether the hip can be maintained aligned fairly well (abnormal when hip significantly unstable/wobbly)
-	- **passive knee extension**:
-		- patient supine, examiner hands on around [[Achilles tendon]], lift both legs gently; check for block/tension or pain to the knee extension, and how symmetrical they are in those regards.
-		- then knee-extend each leg from the side
-			- ![[Pasted image 20250426053821.png]]
-		- then hip-flex, knee-flex -> check whether full flexion is achievable, check for restricted flexion or pain (check patient's face)
-			- ![[Pasted image 20250426054107.png]]
-	- **checking for [[knee joint effusion]]**: swipe superiorly the anteromedial of knee alternately w right/left hand to push any fluid to [[suprapatellar pouch (recess)]]
-		- ![[Pasted image 20250426054228.png]]
-		- then swipe inferiorly the lateral of knee, checking for bulging in medial knee
-			- ![[Pasted image 20250426054436.png]]
-		- can also palpate and effusion can feel full relative to the other side
-			- ![[Pasted image 20250426054549.png]]
-		- or [[patellar tap test]] ^30b3ca
-			- push fluid down from above the knee then push the [[patella]] whether we can do so down until hit the [[femur]] underneath ![[Pasted image 20250426054626.png]]
-			- positive when [[patella]] floats/bounces around (back after tapping) ![[Pasted image 20250426055001.png]] ([youtube](https://www.youtube.com/watch?v=f76eVYmCmvg))
-	- **palpate major landmarks around the knee**: knee flexed around 90 deg
-		- ![[Pasted image 20250426060334.png]]
-		1. [[medial femoral condyle]] -> tenderness when [[medial collateral ligament (MCL)]] is injured
-			- ![[Pasted image 20250426060355.png]]
-		2. [[medial joint space]] and [[medial knee joint line]] -> tender if [[knee joint meniscus tear]]
-			- ![[Pasted image 20250426060723.png]]
-		3. [[tibial tuberosity]] -> tender if [[Osgood-Schlatter disease]]
-			- ![[Pasted image 20250426061221.png]]
-		4. then palpate upwards to inferior pole of proximal [[patellar tendon]] -> tender in [[patellar tendinopathy]]
-			- ![[Pasted image 20250426062445.png]]
-		5. then go lateral along [[lateral knee joint line]] and palpate [[superior tibiofibular joint]]
-			- ![[Pasted image 20250426062831.png]]
-		6. palpate around [[patella]] and [[quadriceps tendon]]
-			- ![[Pasted image 20250426062900.png]]
-		7. now extend back knee, palpate again [[patellar tendon]]
-			- ![[Pasted image 20250426063822.png]]
-	- **ligament** assessment:
-		1. [[medial collateral ligament (MCL)]]: 
-			- knee extended (covers [[medial collateral ligament (MCL)]], [[medial joint capsule]], [[cruciate ligaments]], possibly [[knee joint meniscus]]), then [[valgus stress test]]: check for pain or [[laxity]] (more opening of [[medial joint space]] than normal (relative, compare to the normal side), indicating [[medial collateral ligament (MCL)]] provide not enough resistance) indicating [[sprain]] or complete rupture ![[Pasted image 20250426073124.png]] ^31db45
-			- then 30 deg flexion (isolate the [[medial collateral ligament (MCL)]]), [[valgus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426073740.png]]
-			- [[laxity]] or pain during extension suggest more severe injury (since covers broader area when extended) than when the problem is during 30 deg flexion alone.
-		2. [[lateral (fibular) collateral ligament (LCL or FCL)]]: (similar to [[medial collateral ligament (MCL)]] except using [[varus stress test]])
-			- knee extended, [[varus stress test]] -> [[laxity]] or pain ![[Pasted image 20250426074135.png]]
-			- then 30 deg flexion, [[varus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426074158.png]]
-		3. [[anterior cruciate ligament (ACL)]]
-			1. [[Lachman test]] ^24134a
-				- stabilize thigh, move [[tibia]] anteriorly: normally nice solid endpoint, if injured then no firm end point ![[Pasted image 20250426074656.png]] if patient thigh too heavy, use examiner's thigh to support ![[Pasted image 20250426074837.png]]
-			2. [[pivot shift test]] -> reproduce the sensation when patient ruptured their [[anterior cruciate ligament (ACL)]]
-				- examiner hand on the heel, leg internal rotation, apply [[valgus]] stress ![[Pasted image 20250426075219.png]]then flex the knee from full extension to flexion ![[Pasted image 20250426075205.png]]
-			3. [[anterior and posterior draw test]] ^74a4ae
-				- knee flex 90 deg ![[Pasted image 20250426075428.png]]
-				- ask permission to sit on their leg, then first pull [[tibia]] anteriorly, and then posteriorly -> check for [[laxity]], pain, whether end point is firm or not. [[anterior draw test]] (anterior pull) checks the [[anterior cruciate ligament (ACL)]] whereas [[posterior draw test]] (posterior pull) checks [[posterior cruciate ligament (PCL)]] ![[Pasted image 20250426075536.png]]
-		4. [[posterior cruciate ligament (PCL)]]
-			1. [[posterior draw test]] (see above)
-			2. [[posterior sag test]]
-				- both knees flex, close together ![[Pasted image 20250426075859.png]]
-				- see from lateral whether [[tibial tuberosity]] sit on the same level -> [[posterior cruciate ligament (PCL)]] injury cause the injured side's [[tibial tuberosity]] to sit (sag) more posteriorly compared to the normal side ![[Pasted image 20250426075936.png]]
-	- **[[knee joint meniscus]]** assessment. idea: [[knee joint meniscus]] is stimulated (and injury aggravated) when knee is flexed and [[tibia]] is rotated (internal or external)
-		1. (idk what's this called) hip and knee flexed, one hand stabilize at [[medial knee joint line]] and [[lateral knee joint line]], then internally and externally rotate [[tibia]]. pain indicate [[knee joint meniscus]] injury ![[Pasted image 20250426080711.png]]
-		2. [[McMurray test]]: ^94d89b
-			- knee (and hip) full flexion + [[valgus]] stress + external tibial rotation ![[Pasted image 20250426080849.png]] or full flexion + [[varus]] stress + internal tibial rotation ![[Pasted image 20250426080919.png]]
-			- and then from either of the starting positions above, move leg from full flexion to extension ![[Pasted image 20250426081030.png]]
-		3. [[Apley grind test]] (see: [[knee pathology and joint examination#^f9821c]])
-	- **[[patellofemoral joint]]** assessment
-		- [[patellofemoral dysfunction (pain)]]:
-			- compressive force through the [[patella]] ![[Pasted image 20250426082750.png]] then while maintaining the compression, gently flex and extend the knee ![[Pasted image 20250426082840.png]] ![[Pasted image 20250426082850.png]] back and forth several times and check whether it reproduces patient's pain. (compare to the contralateral side)
-		- [[patellar apprehension test]]: checks patellar instability which risks kneecap dislocation ^548931
-			- push [[patella]] laterally ![[Pasted image 20250426083145.png]]
-			- then while maintaining the lateral push, flex and extend the knee gently back and forth ![[Pasted image 20250426083225.png]] ![[Pasted image 20250426083231.png]] positive isn't so much pain but more sensation of feeling like the kneecap is going to be dislocated (patient will be apprehensive/tries to stop the examiner from continuing the test)
-	- **[[popliteal fossa]]** assessment and tests to do when patient is prone
-		- patient prone ![[Pasted image 20250426083555.png]] inspect for [[edema]] ([[Baker's cyst]]), compare between two sides
-		- [[Apley grind test]]: ([[knee joint meniscus]] assessment) ^f9821c
-			- patient prone, knee flexed perpendicular, stabilize thigh, apply axial load through the heel through lower leg ![[Pasted image 20250426084213.png]] then while maintaining the axial force, internally and externally rotate tibia ![[Pasted image 20250426084239.png]] check whether it aggravates pain
-		- [[dial test]]: assess [[posterolateral corner structures of the knee (PLC)]]
-			- flex knee about 30 deg, then externally rotate both ![[Pasted image 20250426084707.png]] check for asymmetry; if there's increase in external rotation > 10 deg (compared to the other side) indicate isolated [[posterolateral corner injury]]
-			- then flex knee to 90 deg, externally rotate ![[Pasted image 20250426084825.png]] check if there's [[laxity]] in this position, indicate isolated [[posterolateral corner injury]] and [[posterior cruciate ligament (PCL)]] injury
+source: [youtube](https://www.youtube.com/watch?v=mbiGWlsEeYo)
+# **[[gait]]**
+ask patient to walk around, check for obvious [[abnormal gait]]
+# **one leg squat**
+ask patient to squat w/ one leg, need not be perfect but to check whether the hip can be maintained aligned fairly well (abnormal when hip significantly unstable/wobbly)
+# **passive knee extension**
+- patient supine, examiner hands on around [[Achilles tendon]], lift both legs gently; check for block/tension or pain to the knee extension, and how symmetrical they are in those regards.
+- then knee-extend each leg from the side
+	- ![[Pasted image 20250426053821.png]]
+- then hip-flex, knee-flex -> check whether full flexion is achievable, check for restricted flexion or pain (check patient's face)
+	- ![[Pasted image 20250426054107.png]]
+# **checking for [[knee joint effusion]]**
+swipe superiorly the anteromedial of knee alternately w right/left hand to push any fluid to [[suprapatellar pouch (recess)]]
+- ![[Pasted image 20250426054228.png]]
+- then swipe inferiorly the lateral of knee, checking for bulging in medial knee
+	- ![[Pasted image 20250426054436.png]]
+- can also palpate and effusion can feel full relative to the other side
+	- ![[Pasted image 20250426054549.png]]
+## or [[patellar tap test]] ^30b3ca
+- push fluid down from above the knee then push the [[patella]] whether we can do so down until hit the [[femur]] underneath ![[Pasted image 20250426054626.png]]
+- positive when [[patella]] floats/bounces around (back after tapping) ![[Pasted image 20250426055001.png]] ([youtube](https://www.youtube.com/watch?v=f76eVYmCmvg))
+# **palpate major landmarks around the knee**
+knee flexed around 90 deg
+![[Pasted image 20250426060334.png]]
+## [[medial femoral condyle]]
+-> tenderness when [[medial collateral ligament (MCL)]] is injured
+![[Pasted image 20250426060355.png]]
+## [[medial joint space]] and [[medial knee joint line]]
+-> tender if [[knee joint meniscus tear]]
+![[Pasted image 20250426060723.png]]
+## [[tibial tuberosity]]
+-> tender if [[Osgood-Schlatter disease]]
+![[Pasted image 20250426061221.png]]
+## then palpate upwards to inferior pole of proximal [[patellar tendon]]
+-> tender in [[patellar tendinopathy]]
+![[Pasted image 20250426062445.png]]
+## then go lateral along [[lateral knee joint line]] and palpate [[superior tibiofibular joint]]
+![[Pasted image 20250426062831.png]]
+## palpate around [[patella]] and [[quadriceps tendon]]
+![[Pasted image 20250426062900.png]]
+## now extend back knee, palpate again [[patellar tendon]]
+![[Pasted image 20250426063822.png]]
+# **ligament** assessment:
+## [[medial collateral ligament (MCL)]]: 
+- knee extended (covers [[medial collateral ligament (MCL)]], [[medial joint capsule]], [[cruciate ligaments]], possibly [[knee joint meniscus]]), then [[valgus stress test]]: check for pain or [[laxity]] (more opening of [[medial joint space]] than normal (relative, compare to the normal side), indicating [[medial collateral ligament (MCL)]] provide not enough resistance) indicating [[sprain]] or complete rupture ![[Pasted image 20250426073124.png]] ^31db45
+- then 30 deg flexion (isolate the [[medial collateral ligament (MCL)]]), [[valgus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426073740.png]]
+- [[laxity]] or pain during extension suggest more severe injury (since covers broader area when extended) than when the problem is during 30 deg flexion alone.
+## [[lateral (fibular) collateral ligament (LCL or FCL)]]
+(similar to [[medial collateral ligament (MCL)]] except using [[varus stress test]])
+- knee extended, [[varus stress test]] -> [[laxity]] or pain ![[Pasted image 20250426074135.png]]
+- then 30 deg flexion, [[varus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426074158.png]]
+## [[anterior cruciate ligament (ACL)]]
+### [[Lachman test]] ^24134a
+stabilize thigh, move [[tibia]] anteriorly: normally nice solid endpoint, if injured then no firm end point ![[Pasted image 20250426074656.png]] if patient thigh too heavy, use examiner's thigh to support ![[Pasted image 20250426074837.png]]
+### [[pivot shift test]]
+-> reproduce the sensation when patient ruptured their [[anterior cruciate ligament (ACL)]]
+examiner hand on the heel, leg internal rotation, apply [[valgus]] stress ![[Pasted image 20250426075219.png]]then flex the knee from full extension to flexion ![[Pasted image 20250426075205.png]]
+### [[anterior and posterior draw test]] ^74a4ae
+- knee flex 90 deg ![[Pasted image 20250426075428.png]]
+- ask permission to sit on their leg, then first pull [[tibia]] anteriorly, and then posteriorly -> check for [[laxity]], pain, whether end point is firm or not. [[anterior draw test]] (anterior pull) checks the [[anterior cruciate ligament (ACL)]] whereas [[posterior draw test]] (posterior pull) checks [[posterior cruciate ligament (PCL)]] ![[Pasted image 20250426075536.png]]
+### [[posterior cruciate ligament (PCL)]]
+#### [[posterior draw test]] (see above)
+#### [[posterior sag test]]
+- both knees flex, close together ![[Pasted image 20250426075859.png]]
+- see from lateral whether [[tibial tuberosity]] sit on the same level -> [[posterior cruciate ligament (PCL)]] injury cause the injured side's [[tibial tuberosity]] to sit (sag) more posteriorly compared to the normal side ![[Pasted image 20250426075936.png]]
+# **[[knee joint meniscus]]** assessment.
+idea: [[knee joint meniscus]] is stimulated (and injury aggravated) when knee is flexed and [[tibia]] is rotated (internal or external)
+## (idk what's this called)
+hip and knee flexed, one hand stabilize at [[medial knee joint line]] and [[lateral knee joint line]], then internally and externally rotate [[tibia]]. pain indicate [[knee joint meniscus]] injury ![[Pasted image 20250426080711.png]]
+## [[McMurray test]]: ^94d89b
+- knee (and hip) full flexion + [[valgus]] stress + external tibial rotation ![[Pasted image 20250426080849.png]] or full flexion + [[varus]] stress + internal tibial rotation ![[Pasted image 20250426080919.png]]
+- and then from either of the starting positions above, move leg from full flexion to extension ![[Pasted image 20250426081030.png]]
+## [[Apley grind test]]
+(see: [[knee pathology and joint examination#^f9821c]])
+# **[[patellofemoral joint]]** assessment
+## [[patellofemoral dysfunction (pain)]]:
+compressive force through the [[patella]] ![[Pasted image 20250426082750.png]] then while maintaining the compression, gently flex and extend the knee ![[Pasted image 20250426082840.png]] ![[Pasted image 20250426082850.png]] back and forth several times and check whether it reproduces patient's pain. (compare to the contralateral side)
+## [[patellar apprehension test]]
+checks patellar instability which risks kneecap dislocation ^548931
+- push [[patella]] laterally ![[Pasted image 20250426083145.png]]
+- then while maintaining the lateral push, flex and extend the knee gently back and forth ![[Pasted image 20250426083225.png]] ![[Pasted image 20250426083231.png]] positive isn't so much pain but more sensation of feeling like the kneecap is going to be dislocated (patient will be apprehensive/tries to stop the examiner from continuing the test)
+# **[[popliteal fossa]]** assessment and tests to do when patient is prone
+- patient prone ![[Pasted image 20250426083555.png]] inspect for [[edema]] ([[Baker's cyst]]), compare between two sides
+## [[Apley grind test]] ([[knee joint meniscus]] assessment) ^f9821c
+- patient prone, knee flexed perpendicular, stabilize thigh, apply axial load through the heel through lower leg ![[Pasted image 20250426084213.png]] then while maintaining the axial force, internally and externally rotate tibia ![[Pasted image 20250426084239.png]] check whether it aggravates pain
+## [[dial test]]: assess [[posterolateral corner structures of the knee (PLC)]]
+- flex knee about 30 deg, then externally rotate both ![[Pasted image 20250426084707.png]] check for asymmetry; if there's increase in external rotation > 10 deg (compared to the other side) indicate isolated [[posterolateral corner injury]]
+- then flex knee to 90 deg, externally rotate ![[Pasted image 20250426084825.png]] check if there's [[laxity]] in this position, indicate isolated [[posterolateral corner injury]] and [[posterior cruciate ligament (PCL)]] injury
