@@ -7,4 +7,4 @@
 # anatomy
 ![[1719635314805.jpg]] ^8e45ca
 - [[ICS 4]]-[[ICS 5]]
-- at or medial to left [[midclavicular line]] / 7-9 cm lateral to [[midsternal line]]
+- at or medial to left [[midclavicular line (MCL)]] / 7-9 cm lateral to [[midsternal line]]

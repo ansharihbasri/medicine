@@ -23,4 +23,5 @@
 6. sendi
 	- [[low back pain (LBP)]]
 	- [[shoulder pathology and examination]]
-	- [[knee pain]]
+	- [[knee pathology and joint examination]]
+	- 
