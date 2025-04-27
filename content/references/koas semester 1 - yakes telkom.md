@@ -17,7 +17,7 @@
 	- [[kidney stones]]
 	- [[benign prostatic hyperplasia (BPH)]]
 5. indra
-	- kulit
+	- [[kulit]]
 	- mata
 	- telinga
 6. sendi

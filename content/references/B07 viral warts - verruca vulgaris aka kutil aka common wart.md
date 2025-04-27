@@ -1,12 +1,28 @@
 [[SNPPDI 3A]]
 (Cotran Robbins p. 1167)
 
+- distribution: [[B07 viral warts - verruca vulgaris aka kutil aka common wart#^8ba5c7|lokalisata]]
+	- similar to:
+		- [[B00 herpes simplex]] (both can predilect [[B00 herpes simplex#^201c4e|genitalia]], but differ in lesion type (papule, vesicle, crust))
+		- [[B08.1 molluscum contagiosum]] (but differ in predilection (anywhere but mostly face, daerah lipatan: aksila, lutut, selangkangan (see: [[A63.0 condyloma acuminata]])))
+- spread/predilection:  [[B07 viral warts - verruca vulgaris aka kutil aka common wart#^8ba5c7|skin/mucosa/nails]] (also see: [[gambar skin lesion distribution (predilection)]])
+	- if genitalia, diagnose as [[A63.0 condyloma acuminata]]
+- types: [[papule]] ([[hyperkeratosis]]/cauliflower-like, flesh-colored/white/brown-ish) ^9d9d5d
+	- compare to:
+		- papule, vesicle, crust of [[B00 herpes simplex#^0ad4c7]]
+		- maculopapule (erythematous, rash) of
+			- [[B05 measles (rubeola or morbili or campak)#^5756fb]]
+			- [[B06 rubella#^a8b0e5]]
+- picture:
+  ![[Pasted image 20250427085951.png]]
+
+# ideas
 - verruca = wart; papilla = nipple—thus nipple-like warts
 - vulgaris = common
 
 
 # distribusi
-- [[skin]], [[mucosa]], [[nails]] (PPK 293)
+- [[skin]], [[mucosa]], [[nails]] (PPK 293) ^8ba5c7
 - ![[Pasted image 20250315170158.png]] (see [[skin lesions]])
 
 # risk factor
@@ -23,7 +39,7 @@
 # dd/related conditions
 - [[verruca plana]] <- jika permukaan rata (PPK 293)
 - [[verruca plantaris]]/[[verruca palmaris]]
-- [[condyloma acuminata]] ([[venereal]])
+- [[A63.0 condyloma acuminata]] ([[venereal]])
 - [[B08.1 molluscum contagiosum]]
 - PPK 293:
 	- [[callus]]

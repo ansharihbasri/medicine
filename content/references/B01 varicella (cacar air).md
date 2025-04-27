@@ -2,7 +2,22 @@ PPK PERDOSKI 2017
 [[SNPPDI 4]]
 
 # keywords
-- [[vesicle]], sentral, sentrifugal, generalisata, [[Tzanck smear]]
+- distribution: generalisata ^c507b8
+	- spread: sentral first, sentrifugal ^13a2fc
+	- compare to:
+		- [[B05 measles (rubeola or morbili or campak)]] (similarly generalisata, but differ in pattern: face then down)
+		- [[B06 rubella]] (similarly generalisata, but differ in pattern: face then down)
+- types: [[B01 varicella (cacar air)#^4e587e|macule/papule, vesicle, crust]]  ^2fa1c9
+	- similar to:
+		- macule/papule, vesicle, crust of
+			- [[B02 herpes zoster (cacar air)]] (but differ in distribution and predilection (regioner: unilateral, dermatomal))
+			- [[B00 herpes simplex]] (but differ in distribution and predilection (lokalisata: lips, genitalia))
+		- macule/papule, vesicle, ulcer of [[B08.4 hand foot and mouth disease]] (differ in distribution and predilection (regioner: hand, foot, mouth))
+	- compare to:
+		- just maculopapular of
+			- [[B05 measles (rubeola or morbili or campak)]] (differ in spread pattern (face then down))
+			- [[B06 rubella]] (differ in spread pattern (face then down))
+- [[Tzanck smear]]
 
 - ![[Pasted image 20250317134238.png]]
 # etiopathogenesis
@@ -17,7 +32,7 @@ PPK PERDOSKI 2017
 - [[vesicle]] tersebar generalisata terutama bagian sentral tubuh
 	- mulai dari wajah, scalp, lalu menyebar.
 	- penyebaran sentrifugal (dari sentral ke perifer)
-	- berbagai stadium: erythematous [[macule]] -> [[vesicle]] -> [[crust]]
+	- berbagai stadium: erythematous [[macule]] -> [[vesicle]] -> [[crust]] ^4e587e
 	- [[mucosa]] can be affected: mulut, (palpebral) [[eye conjunctiva]], [[vulva]]
 - severity dari [[vital signs]] dan keadaan umum
 

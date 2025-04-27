@@ -1,5 +1,24 @@
 [[SNPPDI 4]]
 
+- distribution: [[B00 herpes simplex#^201c4e|lokalisata (lips, genitalia)]] ^eb3baa
+	- if lips, compare to:
+		- [[B08.4 hand foot and mouth disease]] (differ in predilection (also oral mucosa unlike herpes simplex))
+	- if genitalia, compare to:
+		- [[A63.0 condyloma acuminata]] (similarly local, genitalia; but differ in morphology (verruca/hyperkeratosed/cauliflower-like))
+		- if selangkangan may compare to [[B08.1 molluscum contagiosum]] (but differ in morphology (just papule, soft, umbilicated))
+- types: [[B00 herpes simplex#^201c4e|papule (erythematous), vesicles, crust]] ^0ad4c7
+	- compare to:
+		- maculopapular, vesicle, crust of
+			- [[B01 varicella (cacar air)#^2fa1c9]] (differ in distribution (generalisata))
+			- [[B02 herpes zoster (cacar air)#^196305]] (differ in distribution (regioner) and predilection (dermatomal))
+		- macule/papule, vesicle, ulcer of [[B08.4 hand foot and mouth disease]] (may similarly be on mouth (though HFMD oral mucosa while herpes simplex lips), differ in distribution (regioner) and predilection (hand, foot, mouth))
+		- just maculopapular of
+			- [[B05 measles (rubeola or morbili or campak)#^5756fb]]
+			- [[B06 rubella#^fa770d]]
+		- just papule of [[A63.0 condyloma acuminata]] (or [[B07 viral warts - verruca vulgaris aka kutil aka common wart#^9d9d5d]])
+- picture:
+![[B00 herpes simplex#^7c7836]] ![[B00 herpes simplex#^423be1]]
+
 # key concepts
 - can undergo latency -> recurrence -> quo [[ad sanationam]] [[dubia (prognosis)]] [[ad malam]] (PPK 298)
 
@@ -19,10 +38,12 @@
 	- [[immunodeficiancy]]
 # climan
 PPK 297:
-- [[skin lesions]]: [[lips]], [[genitalia]]
+- [[skin lesions]]: [[lips]], [[genitalia]] ^201c4e
 	- erythematous [[papule]]s
 	- grouped [[vesicle]]s
 	- become [[crust]]ed erosions
+	- ![[Pasted image 20250427074637.png]] ^7c7836
+	- ![[Pasted image 20250427074710.png]] ^423be1
 
 # dx
 ## ddx

@@ -1,3 +1,5 @@
+- pedoman: PPKPERDOSKI2017 (name in macbook), WM - Dermatologi Venereologi Estetika (buku dve unpad)
+
 - viral
 	- [[A63.0 condyloma acuminata]]
 	- [[B00 herpes simplex]]
@@ -7,7 +9,6 @@
 	- [[B05 measles (rubeola or morbili or campak)]]
 	- [[B06 rubella]]
 	- [[B07 viral warts - verruca vulgaris aka kutil aka common wart]]
-	- [[condyloma acuminata]]
 	- [[B08.1 molluscum contagiosum]]
 	- [[B08.4 hand foot and mouth disease]]
 - bacterial

@@ -1,7 +1,18 @@
 [[SNPPDI 4]]
 
 (Harrison p. 1474-...)
-- ![[Pasted image 20250317140739.png]]
+- distribution: [[B05 measles (rubeola or morbili or campak)#^5756fb|generalisata]] (also see: [[B01 varicella (cacar air)]])
+	- spread: face, behind ears, then down (compare to [[B01 varicella (cacar air)#^13a2fc|varicella (central first then centrifugal)]]) (similar to [[B06 rubella#^7cf7d9]])
+	   ![[Pasted image 20250427082657.png]] ^29ce43
+- types: [[B05 measles (rubeola or morbili or campak)#^5756fb|maculopapular (rash)]] ^ced823
+	- similar to:
+		- maculopapule of [[B06 rubella#^a8b0e5]] (see [[measles vs rubella]])
+	- compare to:
+		- maculopapular then vesicle then crust of
+			- [[B01 varicella (cacar air)#^2fa1c9]] (similarly generalisata, but differ in spread pattern (sentral to sentrifugal))
+			- [[B02 herpes zoster (cacar air)#^196305]] (differ in distribution (regioner: unilateral, dermatomal))
+		- macule/papule, vesicle, ulcer of [[B08.4 hand foot and mouth disease]] (differ in distribution and predilection (regioner: hand, foot, mouth))
+- picture: ![[Pasted image 20250317140739.png]]
 
 # etiopathogenesis
 - [[measles virus (morbillivirus)]]
@@ -16,7 +27,7 @@
 - [[cough]]
 - [[coryza (rhinitis)]]
 - [[conjunctivitis]]
-- generalized [[maculopapular]] rash
+- generalized [[maculopapular]] rash ^5756fb
 
 # diagnosis
 ## ddx
