@@ -3,6 +3,7 @@
 - distribution: [[B00 herpes simplex#^201c4e|lokalisata (lips, genitalia)]] ^eb3baa
 	- if lips, compare to:
 		- [[B08.4 hand foot and mouth disease]] (differ in predilection (also oral mucosa unlike herpes simplex))
+		- [[L01.01 non-bullous impetigo (impetigo krustosa)]] (may slightly differ in that impetigo is more outward/perioral whereas herpes closer/on edge of lips; differ in morphology (honey-colored crust); also no pain/tingling prodrome like herpes) ^d79e6d
 	- if genitalia, compare to:
 		- [[A63.0 condyloma acuminata]] (similarly local, genitalia; but differ in morphology (verruca/hyperkeratosed/cauliflower-like))
 		- if selangkangan may compare to [[B08.1 molluscum contagiosum]] (but differ in morphology (just papule, soft, umbilicated))
@@ -11,6 +12,7 @@
 		- maculopapular, vesicle, crust of
 			- [[B01 varicella (cacar air)#^2fa1c9]] (differ in distribution (generalisata))
 			- [[B02 herpes zoster (cacar air)#^196305]] (differ in distribution (regioner) and predilection (dermatomal))
+			- [[L01.01 non-bullous impetigo (impetigo krustosa)]] (see: [[B00 herpes simplex#^d79e6d]])
 		- macule/papule, vesicle, ulcer of [[B08.4 hand foot and mouth disease]] (may similarly be on mouth (though HFMD oral mucosa while herpes simplex lips), differ in distribution (regioner) and predilection (hand, foot, mouth))
 		- just maculopapular of
 			- [[B05 measles (rubeola or morbili or campak)#^5756fb]]

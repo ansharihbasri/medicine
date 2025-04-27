@@ -6,10 +6,10 @@
 	- [[(congestive) heart failure (CHF)]]
 	- [[coronary artery disease (CAD)]]
 	- [[arrhythmia]]
-3. [[metabolic syndrome]]:
-	- [[diabetes mellitus]]
+3. [[metabolic syndrome]]/metabolic dx:
+	- [[diabetes mellitus type 2 (DMT2)]]
 	- [[dyslipidemia]]
-	- [[uric acid (asam urat)]]
+	- [[uric acid (asam urat)]] -> [[hyperuricemia-gout arthritis]]
 	- [[hypertension]]
 4. ginjal
 	- [[chronic kidney disease (CKD)]]

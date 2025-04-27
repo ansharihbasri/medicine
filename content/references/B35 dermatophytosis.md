@@ -4,6 +4,18 @@ base: Harrison
 
 
 
+# etiopathogenesis
+- [[dermatophyte]]s secrete:
+	- [[keratinase]] which breaks down [[keratin]] to be eaten as nourishment by the [[dermatophyte]]s
+	- [[lipase]] that allows invasion of skin, hair, nails
+	- then immune response are triggered -> inflammation etc.
+- different skin structures react differently:
+	- hairs: hair breakage, [[alopecia]]
+	- nails: nails are super keratinized -> crumble, become brittle; meanwhile immunity responses by producing more keratin meant to replace broken ones, but given the messiness of the site, it only makes the nail thicken disorderedly.
+	- feet/hands: thick skin -> fissures, scaling
+	- groin: thin, moist skin -> ripe for growth and hence more inflammation, itchiness; redness not as neatly annular bcs lots of friction mix things up etc.
+	- trunk etc.: normal skin -> annular ring whereby the red rings are inflamed parts and dermatophytes expand but the inner sides are already taken care of by immune response hence clearing.
+
 # s/sx
 - kulit:
 	- erythematous, scaly [[plaque]]s; [[annular]]

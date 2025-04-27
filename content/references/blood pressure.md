@@ -10,3 +10,10 @@
 
 - European 2024
 	- [[hypotension]]: TD 
+
+# teknik bdsr pedoman hipertensi di fktp 2024 p. 10
+![[Pasted image 20250427185747.png]]
+![[Pasted image 20250427185738.png]]
+![[Pasted image 20250427185800.png]]
+![[Pasted image 20250427185806.png]]
+pada anak lihat p. 12

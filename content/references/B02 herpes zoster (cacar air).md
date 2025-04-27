@@ -8,6 +8,7 @@ PPK PERDOSKI 2017
 		- macule/papule, vesicle, crust of
 			- [[B01 varicella (cacar air)]] (differ in distribution (generalisata))
 			- [[B00 herpes simplex]] (differ in distribution (lokalisata: lips, genitalia))
+			- [[L01.01 non-bullous impetigo (impetigo krustosa)]] (similarly regioner but more unilateral/dermatomal; also honey-colored crust)
 		- macule/papule, vesicle, ulcer of [[B08.4 hand foot and mouth disease]] (similarly regioner but may differ in predilection (hand, foot, mouth))
 	- compare to:
 		- just maculopapular of
