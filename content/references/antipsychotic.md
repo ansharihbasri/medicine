@@ -1,0 +1,15 @@
+
+- types
+	- [[typical antipsychotic]]
+		- [[haloperidol]] -> high potency [[dopamine D2 receptor]] antagonist in [[mesolimbic pathway]] -> reduce [[positive symptoms]]
+		- [[fluphenazine]] -> similar to [[haloperidol]]
+		- [[chlorpromazine]] -> low potency [[dopamine D2 receptor]] antagonist + strong [[histamine (H1) receptor]], [[alpha-1-adrenergic receptor]] and [[muscarinic (M1) receptor]] antagonist -> sedation, hypotension, [[anticholinergic]] effects
+		- [[thirodazine]]
+	- [[atypical (second generation) antipsychotic]]
+		- [[clozapine]] ![[clozapine#^e2b3ff]]
+		- [[risperidone]]: potent [[dopamine D2 receptor]] antagonist + strong [[serotonin 5-HT2A receptor]] antagonist
+		- [[olanzapine]]: [[dopamine D2 receptor]] antagonist + strong [[serotonin 5-HT2A receptor]] antagonist + strong [[histamine (H1) receptor]] block (sedation and weight gain)
+		- [[quetiapine]]: weak [[dopamine D2 receptor]] antagonist + strong [[serotonin 5-HT2A receptor]] antagonist + strong [[histamine (H1) receptor]] blocker (sedation)
+		- [[aripiprazole]]: ![[aripiprazole#^43b7f6]]
+		- [[ziprasidone]]
+		- [[lurasidone]]

@@ -1,3 +1,3 @@
 
-- in essence, [[dura mater]] has [[nociceptive]] fibers which are sensitized (thus [[rigidity (involuntary guarding)]] when stretched, since [[nociceptive]] detects mechanical stress as well) or directly activated by inflammatory mediators.
+- in essence, [[dura mater]] has [[nociceptive]] fibers which are sensitized (thus [[rigidity (involuntary guarding)]] when stretched, since [[nociceptive]] detects mechanical stress as well) or directly activated by inflammatory mediators. ^350a67
 	- [[arachnoid mater]] is avascular and not innervated; [[pia mater]] has blood vesels but no [[nociceptive]] fibers, so while these two don't detect pain, if they're inflamed they can spread it to structures like [[dura mater]] which is pain sensitive.

@@ -6,7 +6,7 @@
 - lokasi: telapak tangan
 - karakteristik lesi:
 	- jumlah: multipel (?)
-	- penyebaran: diskret?
+	- penyebaran: diskret/konfluens
 	- bentuk: bulat
 	- ukuran: per buletan 1 cm?
 	- batas: sirkumskrip

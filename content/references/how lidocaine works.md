@@ -1,0 +1,2 @@
+
+- when injected to [[subcutaneous tissue]], it slowly diffuse around and since it's lipophilic it diffuses across nerve membranes ([[epineurium]], [[perineurium]] etc) until reach the intracellular of nerve cells. then the [[lidocaine]] blocks [[voltage-gated sodium channel]] from the inside (kind of clog them, for simplicity) so sodium can't get in (see: [[sodium inside or outside cell]]) to trigger [[depolarization]] and pain impulse transmission.

@@ -1,8 +1,7 @@
 
 [[tata cara (prosedur) tes toleransi glukosa oral (TTGO)]]
 
-
-- [ ] # diagnosis
+# diagnosis
 ## skrining
 
 Perkeni 2021: p. 12

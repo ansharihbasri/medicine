@@ -3,3 +3,5 @@
 - consider nonantiseptic nonionic surfactants for wounds near mucosal surfaces
 - see [[list of wound cleaning agents or solutions]]
 - [[wound irrigation]]
+- [[nutritional support for wound healing]]
+- [[suture]]

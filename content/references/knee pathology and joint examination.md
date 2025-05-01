@@ -1,5 +1,7 @@
 
 source: [youtube](https://www.youtube.com/watch?v=mbiGWlsEeYo)
+
+Bates 1353/2145 ![[Pasted image 20250501185526.png]]
 # **[[gait]]**
 ask patient to walk around, check for obvious [[abnormal gait]]
 # **one leg squat**

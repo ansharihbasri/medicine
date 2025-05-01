@@ -1,0 +1,11 @@
+
+- .
+	- Lippincott 721 says: ![[Screenshot_2025-05-01-08-48-42-309_org.readera-edit.jpg]]
+	- Katzung p. 145 says: ![[Screenshot_2025-05-01-08-49-50-721_org.readera-edit.jpg]]
+	- but chatgpt says since it's [[dose-dependent]] it could be that at higher doses... ![[Screenshot_2025-05-01-08-51-37-566_com.openai.chatgpt-edit.jpg]]
+		- [[drug receptor selectivity concept]]
+		- so it's important now to check the dose of [[tachycardia side effect of SABA]], like how much the patient is actually getting. now we need to understand the standard dosing for it.
+			- see: [[asthma]]
+			- eh tp knp pake nacl ya bukan saba
+				- dan klo nacl ga harus khawatir efek takikardik intranebu?
+- 

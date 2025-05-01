@@ -28,3 +28,9 @@ PPK p. 263
 [[aspiration pneumonia]]
 # morphology
 [[bronchopneumonia vs lobar pneumonia]]
+- by location ^752410
+	- [[bronchopneumonia]]: when inflammation starts in airway (bronchi)
+	- [[lobar pneumonia]]: when an entire lobe is inflamed
+	- [[multilobar pneumonia]]: when multiple lobes are involved; inflam in several areas covering those multi lobes
+	- [[alveolar pneumonia]]: when air sacs (alveoli) are more inflamed
+	- [[interstitial pneumonia]]: when lung parenchyma between alveoli are more inflamed

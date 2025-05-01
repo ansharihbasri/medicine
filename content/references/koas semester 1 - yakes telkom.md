@@ -24,4 +24,8 @@
 	- [[low back pain (LBP)]]
 	- [[shoulder pathology and examination]]
 	- [[knee pathology and joint examination]]
-	- 
+	- [[hip pathology and examination]]
+	- [[vertical spine pathology and examination]]
+
+# ceklis2
+- [[ceklis pertanyaan pasien asma]]

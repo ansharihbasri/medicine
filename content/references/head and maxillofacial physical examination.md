@@ -20,11 +20,21 @@
 	- septum:
 		- [[lower (nasal) septum deviation]]: common, seldom cause obstruction
 	- (...)
+	- palpasi septum deviasi dr luar
+	- pasase udara hembus
+	- pemeriksaan sinus pake jempol (cek gambar)
+
 - [[ears]]
 	- deformity
 	- tympanic membrane
 	- cairan
 	- (...)
+	- kalo ditarik nyeri otitis eksterna (cari riwayat berenang)
+		- sirkumskripta dan difus
+	- oma batuk pilek, kl udh lama omsk.
+	- klo pusing putar tinitus ke telinga dalam
+		- Rinne Weber audiometri rujuk tht
+
 - [[mouth]]
 	- deformity
 	- mucosa
@@ -36,3 +46,31 @@
 	- [[pharynx]]
 	- [[teeth]]: ompong -> [[malnutrition]]
 		- [[tooth root]] -> infection
+
+- mata
+	- alis
+		- simetris
+		- tdk ada kerontokan
+		- ada Luka/tdk
+		- madarosis/tdk
+	- kelopak mata
+		- simetris
+		- eritem
+		- tdk bengkak
+		- tdk benjol
+		- Luka
+	- konj palpe
+		- melipat kelopak mata
+		- tdk anemis
+	- sklera
+		- tdk ikterik
+	- reflek cahaya
+		- direk ada
+		- indirek ada
+		- isokor 
+		- diameter pupil 3mm/3mm
+	- shadow test katarak
+	- iris
+	- ...
+	- tunnel sign glaucoma gejalanya apa aja
+	- 

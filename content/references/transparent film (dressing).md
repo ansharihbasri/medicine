@@ -1,0 +1,11 @@
+
+- [[polyurethane adhesive film]]
+- e.g. [[tegaderm]], fixomul transparent, opsite, etc.
+- fungsi
+	- [[waterproof dressing]], gas permeable -> can still get oxygen for epithelia and fibroblasts; some water vapor can escape to keep moisture balance
+	- support [[autolysis debridement]] -> traps moisture (though when too much can escape via water vapor) -> less irritation -> less pain
+	- mengurangi nyeri -> covers exposed nerve endings, protecting them from drying and mechanical irritation
+	- non absorbent
+		- can be absorbent if with padding ([[island dressing]])
+	- [[adhesive dressing]]
+- suitable for low-exudate wounds
