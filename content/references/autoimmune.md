@@ -1,0 +1,23 @@
+
+- dd:
+	- [[rheumatoid arthritis]] <- american college rheumatology criteria
+		- di mana aja
+		- 6 w
+		- pagi hari (pas kapan)
+		- RF (spesialis)
+		- LED naik
+	- [[systemic lupus erythematosus]]
+		- MDSOAP BRAIN
+			- malar rash
+			- discoid rash
+			- serositis
+			- oral ulcers
+			- arthritis > 2 joint
+			- photosensitivity
+			- blood disorders: konjungtiva anemis, infeksi, pendarahan
+			- renal 
+			- ANA +
+			- imunologic
+			- neurologic: kebas2, etc.
+	- [[Sjögren syndrome]]
+		- kering2 mulut, mata, badan,

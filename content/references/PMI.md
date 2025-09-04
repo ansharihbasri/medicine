@@ -1,1 +1,1 @@
-see: [[point of maximal impulse]]
+see: [[point of maximal impulse aka ictus cordis]]

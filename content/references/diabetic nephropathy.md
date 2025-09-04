@@ -1,0 +1,41 @@
+
+- definition: ![[Pasted image 20250526094132.png]]
+	- irreversible
+	- prognosis of those with DM on dialysis is poor
+- [[albuminuria]] in DM a/w increased risk for CVD
+- [[smoking (rokok)]] accelerates decline in kidney fx ^a2b8b6
+- only 20-40% px develop [[diabetic nephropathy]]
+- known RF:
+	- race
+	- family hx of [[diabetic nephropathy]] ^507cef
+- natural hx:
+	- first years after DM onset -> increased eGFR due to:
+		- glomerular hyperperfusion
+		- renal hypertrophy
+	- first 5 years of DM: -> GFR returns to normal at the cost of:
+		- glomerular basement membrane thickening
+		- glomerular hypertrophy
+		- mesangial volume expansion
+	- after 5-10 years of DM: -> begin excreting small amounts of [[albumin]] ([[albuminuria]])
+		- ![[Pasted image 20250526094015.png]]
+- algorithm: ![[Pasted image 20250526094747.png]] ^3c0151
+
+# treatment
+- prevention and control: ![[Pasted image 20250526095041.png]]
+	- glycemia
+	- strict BP control
+		- ![[diabetes mellitus#^aab4ef]]
+	- [[ACE inhibitor]]/[[angiotensin receptor blocker (ARB)]]
+		- ![[Pasted image 20250526095739.png]]
+		- ACEI and ARB dilate efferent arteriole -> less glomerular pressure -> less protein leakage
+		- alternatively: other antihypertensives ![[Pasted image 20250526100058.png]]
+		- or SGLT-2 stuff ![[Pasted image 20250526100124.png]]
+	- treat [[dyslipidemia]]
+- dose adjustment for other drugs given the kidney's reduced excretion
+	- ![[Pasted image 20250526095415.png]]
+- diet:
+	- ![[Pasted image 20250526100153.png]]
+- referral indication:
+	- [[albuminuria]] + eGFR < 30 ![[Pasted image 20250526100223.png]]
+	- referral for transplantation/KRT: eGFR reaches 20 ![[Pasted image 20250526100327.png]]
+	- note on dialysis: ![[Pasted image 20250526100346.png]]

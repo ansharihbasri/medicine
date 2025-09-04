@@ -7,9 +7,12 @@ SKDI 3A
 		- PPK 2017 p. 199: bangkitan epilepsi berulang berselang > 24 jam yg timbul tanpa provokasi
 		- PPK neuro 2023: (see below)
 			- setidaknya 2 bangkitan tanpa provokasi ATAU 2 bangkitan refleks yg berselang lebih dari 24 jam
-			- 1 bangkitan tanpa provokasi ATAU 1 bangkitan refleks dg adanya kemungkinan bangkitan berulang yg berisiko rekurensi SAMA DENGAN 2 bangkitan tanpa provokasi (setidaknya 60%) yg dapat timbul hingga 10 tahun ke depan
+			- 1 bangkitan tanpa **provokasi** ATAU 1 bangkitan **refleks** dg adanya kemungkinan bangkitan berulang yg berisiko rekurensi SAMA DENGAN 2 bangkitan tanpa provokasi (setidaknya 60%) yg dapat timbul hingga 10 tahun ke depan
+				- provokasi = ada penyakitnya e.g. kejang demam, stroke,
+				- refleks = respon stimulasi sensori/indra (cahaya, bau etc.) tp lebih sensitif misalnya IOW provokasi tp bukan karena penyakit
 			- sudah ditegakkannya diagnosis sindrom epilepsi
 	- many forms and causes, so not a single diagnosis
+- iktus = lg kejang
 
 # diagnosis
 ## anam, pemfis

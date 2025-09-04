@@ -1,0 +1,116 @@
+base source: Harrison
+# anamnesis
+- general:
+	- [[polyuria]] (beser)?
+	- [[polydypsia]] (gampang haus)?
+	- [[polyphagia]] (gampang laper/nafsu makan bertambah)?
+	- merasa lemas? <- also possibly [[hypoglycemia unawareness]] (?) (see [[autonomic neuropathy#^11709f]])
+	- penurunan BB?
+	- gangguan penglihatan, burem? see: [[blurry vision in diabetes mellitus]], [[diabetic retinopathy]]
+	- sering luka?
+	- kelemahan otot?
+	- ada kebas/kesemutan/nyeri/panas di anggota gerak terutama mulai dari kaki? <- komplikasi: [[distal symmetrical polyneuropathy (DSPN)]]
+	- ada keluhan BAB (konstipasi/diare/signs of gastroparesis e.g. kembung, cepet kenyang)? <- gastric manif of [[autonomic neuropathy]]
+	- ada keluhan BAK (lebih jarang ke toilet utk BAK/inkontinensia (tidak dapat menahan kencing)/sulit keluar saat BAK/nyeri saat berkemih)? <- genitourinary manif of [[autonomic neuropathy#^146051]]
+	- ada keluhan organ seksual/genitalia (further see [[autonomic neuropathy#^30e94e]])
+	- ada penglihatan ganda ([[diplopia]]/double vision)? <- [[mononeuropathy#^fc0b66]]
+	- RF:
+		- riwayat orang tua [[diabetes mellitus]]?
+		- gangguan tidur? tidur berapa jam sehari? see: [[sleep history in diabetes mellitus]]
+		- suka olahraga ga?
+		- merokok? -> also accelerate [[diabetic nephropathy]] decline of kidney fx ([[diabetic nephropathy#^a2b8b6]])
+		- riwayat penyakit pankreas?
+		- riwayat keluarga/orang tua dengan DM disertai [[diabetic nephropathy]]? ([[diabetic nephropathy#^507cef]])
+- [[diabetes mellitus type 1]] characteristics:
+	- onset < age 30?
+	- lean body habitus?
+	- insulin required as initial therapy?
+	- [[diabetic ketoacidosis (DKA)]] propensity/history?
+		- waktu cek lab dulu pertama kali, karena apa (knp disuruh cek lab)?
+	- other autoimmune dx:
+		- [[thyroid]]: [[thyrotoxicosis]], [[thyroiditis]]?
+		- [ ] adrenal insufficiency?
+		- [ ] [[pernicious anemia]]?
+		- [ ] [[celiac disease]]?
+		- [ ] [[vitiligo]]?
+	- ada riwayat tes lab:
+		- antibodi (gtw gmn ngomongnya)?
+		- insulin?
+- [[diabetes mellitus type 2 (DMT2)]] characteristics:
+	- onset > age 30?
+	- obese? (80%, but elderly may be lean)
+		- abdominal obesity?
+	- initial therapy didn't require insulin i.e. use other drugs?
+	- metabolic sx:
+		- [[hypertension]]?
+		- penyakit jantung?
+		- [[dyslipidemia]]? (kolesterol?)
+			- esp. [[hypertriglyceridemia]]?
+		- [ ] [[polycystic ovarian syndrome (PCOS)]]?
+
+# pemfis
+- TTV:
+	- BP:
+		- [ ] > 130/80 mmHg considered [[hypertension]] in diabetes individuals (Harrison p. 2858)
+			- target: <140/90, or possibly <130/80 for those with increased risk for CVD and CKD progression ([[diabetes mellitus#^aab4ef]])
+		- [ ] [[orthostatic blood pressure]] (see: [[why check orthostatic blood pressure in diabetes examination]]/[[autonomic neuropathy]])
+- antropo:
+	- BB?
+	- BMI?
+- status generalis:
+	- mata:
+		- [[visual acuity (visus)]]?
+		- [ ] [[funduscopy (eye)]] -> require dilated eye exam by ophthalmologist; routine non-dilated eye exam cannot detect retinopathy (see: [[diabetic retinopathy]])
+		- [[ptosis (drooping eyelid)]]? <- [[mononeuropathy#^b773e8]]
+		- gerak bola mata impairment/ophthalmoplegia <- [[mononeuropathy#^b773e8]]
+		- [[pupillary size and reflex (light reaction)]]? (can be normal even with [[mononeuropathy#^b773e8]])
+	- mulut:
+		- gigi, gusi: lesi? ([[periodontal disease]] more frequent in DM)
+	- toraks: nyeri tekan? <- [[diabetic radiculopathy or polyradiculopathy#^a103cc]]
+	- abdomen: nyeri tekan? <- [[diabetic radiculopathy or polyradiculopathy#^a103cc]]
+	- [ ] ekstremitas: [[peripheral pulse]]s?
+		- atas:
+			- palpasi:
+				- kulit lembab/hiperhidrosis? <- [[autonomic neuropathy#^96d7c0]]
+		- tungkai/kaki:
+			- inspeksi:
+				- lesi?
+				- foot deformities: (part of [[annual foot screening for diabetic foot ulcer]])
+					- [[hammer toe]]
+					- [[claw toe]]
+					- [[Charcot foot]]
+				- sites of potential ulceration (part of [[annual foot screening for diabetic foot ulcer]])
+			- palpasi:
+				- kulit lembab/anhidrosis? <- [[autonomic neuropathy#^1a92d8]]
+				- nyeri tekan? (terutama paha/panggul) ([[diabetic radiculopathy or polyradiculopathy#^3368b3]])
+				- pedal pulses? (part of [[annual foot screening for diabetic foot ulcer]])
+- other
+	- lokasi injeksi insulin di mana?
+- status neurologis:
+	- tungkai/kaki:
+		- motorik: weakness? (terutama [[hip flexors]]/[[hip extensors]]) <- [[diabetic radiculopathy or polyradiculopathy#^99ac36]]
+		- sensation: (part of [[annual foot screening for diabetic foot ulcer]]/[[diabetic neuropathy]])
+			- vibratory (128 MHZ at base of great toe)
+			- touch (monofilament 5.07, 10-g monofilament)
+			- pinprick
+		- [ ] [[ankle (Achilles) reflex]]es (part of [[annual foot screening for diabetic foot ulcer]]/[[diabetic neuropathy]])
+		- [ ] [[nail care]] (part of [[annual foot screening for diabetic foot ulcer]])
+
+# usulan pp
+- [[gula darah sewaktu (GDS)]]
+- [[gula darah sewaktu 2 jam postprandial (GDS2PP)]]
+- [[gula darah puasa (GDP) or fasting plasma glucose (FPG)]]
+- [[HbA1c]]
+- DM-associated conditions
+	- [[albuminuria]]
+	- [[dyslipidemia]]
+	- [[thyroid]] levels
+- to support [[diabetes mellitus type 1]] diagnosis:
+	- [[C-peptide]]:
+		- low [[C-peptide]] with elevated blood glucose may confirm need for [[insulin]], but unable to completely distinguish [[diabetes mellitus type 1]] from [[diabetes mellitus type 2 (DMT2)]] (some [[diabetes mellitus type 1]] individuals retain some [[C-peptide]] production)
+	- [[islet cell antibodies (ICA)]] measurement at onset <- if still not clear based on history taking
+- [[urinalysis]]
+	- [[albuminuria]] -> screen for [[diabetic nephropathy]]; risk for CVD in DM (recommended time for screening: 5 years after onset of [[diabetes mellitus type 1]] and at time of diagnosis for [[diabetes mellitus type 2 (DMT2)]])
+		- ![[Pasted image 20250526094646.png]]
+		- ![[diabetic nephropathy#^3c0151]]
+	- [[albumin-to-creatinine ratio (ACR)]] + [[estimated GFR (eGFR)]] in case of reduced eGFR without albuminuria

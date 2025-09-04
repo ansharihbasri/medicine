@@ -5,4 +5,8 @@
 - saya akan gerakkan jari saya bapak kelihatan tidak dan jawab. klo dari terjauh udh terlihat dan bs jawab angka, yasudah. klo blm baru terus sampe terlihat
 	- pertama lateral trs medial, superior inferior per mata
 	- ![[IMG_20250411_094547.jpg]]
-- 
+
+![[Pasted image 20250527075053.png]]
+
+![[Pasted image 20250527075126.png]]
+![[Pasted image 20250527075150.png]]

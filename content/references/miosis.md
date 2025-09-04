@@ -1,0 +1,1 @@
+= excessive constriction of [[pupil]]; see: [[mydriasis]]

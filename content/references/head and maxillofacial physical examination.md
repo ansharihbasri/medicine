@@ -3,7 +3,7 @@
 	- asymmetry:
 		- [[Bells palsy]]
 		- [[stroke (plus tips anamnesis dan RPD stroke)]]
-- [[eyes]]:
+- [[eyes]]: -> [[eyes physical examination (Bates)]]
 	- [[eye conjunctiva]]: [[anemia]], ...
 	- [[sclera]] (Bates 607/2145: spread lids up and down, eyes look up and down): 
 	- [[visual acuity (visus)]]: 
@@ -73,4 +73,8 @@
 	- iris
 	- ...
 	- tunnel sign glaucoma gejalanya apa aja
-	- 
+
+# recording findings
+
+Bates:
+![[Pasted image 20250504083422.png]]![[Pasted image 20250504083427.png]]

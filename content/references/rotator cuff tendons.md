@@ -1,2 +1,2 @@
 
-tendons of [[rotator cuff muscles]]
+tendons of [[rotator cuff (SITS) muscles]]

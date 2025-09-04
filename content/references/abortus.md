@@ -1,0 +1,12 @@
+- jenis2:
+	- ...
+	- imminen: ancaman keguguran; 
+		- kapan pertahankan bayi?
+		- knp masih bisa? serviks masi tertutup, tp ada tanda e.g, pendarahan
+			- saat kram cek ada ga pendarahan
+		- obat: tirah baring 24 jam penuh dll biar pendarahan menutup sendiri kembali
+	- insipien: servik udh terbuka semua tp bayi blm keluar
+	- inkomplete: bayi udh keluar tapi sebagian
+	- komplete: bayi udh keluar semua
+	- missed abortion: bayi mati di dalam, tp biasanya ga keluar
+		- tanda: USG: bayi tdk membesar/sesuai pertumbuhan normal.

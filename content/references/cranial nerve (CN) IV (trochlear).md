@@ -1,3 +1,3 @@
 
 - innervate:
-	- [[superior oblique (eye muscle)]]. see: [[eye muscles and nerves]]
+	- [[superior oblique (eye muscle)]]. see: [[extraocular muscles (eye muscles and nerves)]]

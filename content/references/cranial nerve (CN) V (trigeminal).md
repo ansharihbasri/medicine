@@ -16,3 +16,6 @@ motorik
 - [[corneal reflex (CN V1)]]
 - [[refleks bersin (CN V)]]
 - [[jaw jerk reflex (CN V)]]
+
+- [[trigeminal syndrome]]
+	- peningkatan sensitivitas nyeri

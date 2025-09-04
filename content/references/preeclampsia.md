@@ -1,0 +1,14 @@
+
+- proteinuria ke arah preec; klo hipertensi dari sblmnya dan gada proteinuria
+- pencegahan:
+	- suplemen kalsium
+	- risiko kejang -> obat kejang beda
+		- klo fenitoin barbital berbahaya bagi bayi
+		- MGSO4 -> ada efek neuroprotektif
+			- kontraind MGSO4 (krn bisa toksisitas, tandanya gmn ada 4)
+				- cek reflek patella, urin output, 
+				- klo ke arah toksisitas hrs stop, cari antidotnya
+			- MGSO4 buat apa lagi: algoritma ACLS RJP yg 
+				- VT
+					- 
+					- torsade depointes -> MGSO4

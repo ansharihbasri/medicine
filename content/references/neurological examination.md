@@ -17,6 +17,7 @@
 	- [[cranial nerve (CN) III (oculomotor)]], [[cranial nerve (CN) IV (trochlear)]], and [[cranial nerve (CN) VI (abducens)]]:
 		- ![[cranial nerve (CN) III (oculomotor)#^22cc0d]]
 	- [[cranial nerve (CN) V (trigeminal)]]
+		- 
 	- [[cranial nerve (CN) VII (facial)]]
 	- [[cranial nerve (CN) VIII (vestibulocochlear)]]
 	- [[cranial nerve (CN) IX (glossopharyngeal)]]
@@ -31,3 +32,60 @@
 - [[vegetative exam]]
 - [[primitive exam]]
 - [[higher cortical function]]
+
+
+# contoh format
+
+Status Neurologis:
+- Rangsang Meningeal:
+    - Kaku kuduk (-)
+    - Lasegue (-/-)
+    - Kernig (-/-)
+    - Brudziński I/II/III/IV (-/-/-/-)
+- Tanda peningkatan tekanan intrakranial
+    - Nyeri kepala (-/sulit dinilai)
+    - Penglihatan kabur: (-/sulit dinilai)
+    - Bradikardia (-)
+    - Papiledema: (-/sulit dinilai)
+- Saraf Kranial
+    - CN I: tidak dinilai
+    - CN II: tidak dinilai
+    - CN III-IV-VI: 
+        - Kedudukan bola mata : di tengah / di tengah
+        - Ptosis : (-/-)
+        - Eks/enoftalmus : (-/-)
+        - Diplopia : (-)
+        - Gerak bola mata : Lateral (+/+), Medial (+/+), Atas (+/+), Bawah (+/+), Medial bawah (+/+)
+        - Pupil : Bentuk bulat, isokor 3 mm/3 mm, refleks cahaya langsung (+/+), refleks cahaya tidak langsung (+/+)
+    - CN V: sensori sulit dinilai, motorik kesan hemiparese kanan
+    - CN VII:
+        - Raut wajah:  kesan hemiparese kanan
+        - Kerutan dahi: kesan hemiparese kanan
+        - Angkat alis: kesan hemiparese kanan
+        - Tutup mata rapat: kesan hemiparese kanan
+        - Senyum: kesan hemiparese kanan
+        - Sensori: sulit dinilai
+    - CN VIII: sulit dinilai
+    - CN IX-X: sulit dinilai
+    - CN XI: sulit dinilai
+    - CN XII:  disartria
+- Pemeriksaan Motorik:
+    - Ekstremitas atas
+        - Kanan: atrofi, hipertonus, kekuatan motorik 1
+        - Kiri: atrofi, hipotonus, kekuatan motorik 2
+    - Ekstremitas bawah
+        - Kanan: atrofi, hipotonus, kekuatan motorik 1
+        - Kiri: atrofi, hipotonus, kekuatan motorik 2
+- Refleks fisiologis
+    - Bisep (sulit dinilai/+)
+    - Triceps (++/+)
+    - Patella (++/+)
+    - Achilles (+/+)
+- Refleks Patologis
+    - Babinski (-/-)
+    - Chadoks (-/-)
+    - Oppenheim (+/-)
+- Refleks regresi
+    - Refleks glabela (-)
+    - Refleks snout (-)
+    - Refleks genggam (-)

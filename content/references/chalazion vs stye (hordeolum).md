@@ -1,0 +1,19 @@
+
+- so technically both can manifest almost identically especially if involving meibomian gland? the only difference is in etiology?
+	- chatgpt: yes. they differ in onset ([[stye (hordeolum)]] is rapid/acute due to infection; [[chalazion]] is chronic; [[stye (hordeolum)]] is painful whereas [[chalazion]] isn't; [[stye (hordeolum)]]'s redness is more prominent)
+		- but why does stye cause pain and not for chalazion, even if say they involve anatomically the same site? doesn't that imply the meibomian gland or stuff around it doesn't have nociceptive fibers (hence the stretch due to chalazion swelling doesn't cause pain), and instead the pain is perhaps elsewhere and stimulated by inflammatory products in stye?
+			- ![[Pasted image 20250504172148.png]]
+				- wait but meibomian gland or tarsal plate itself has nociceptive fibers or not at all?
+					- ![[Pasted image 20250504172244.png]] ![[Pasted image 20250504172321.png]]
+					- i see. so the key is that since stye is infective, the inflammation spreads to adjacent structures such as palpebral conjunctiva and palpebral skin, which is richly innervated by nociceptive fibers. also there is inflammatory products that sensitize these fibers. whereas in chalazion it stays local since it's not infective in nature. but then my question: does that mean chalazion isn't an inflammation or is it an inflammation but kept locally? if so, what triggers the inflammatory process of chalazion then, purely mechanoreceptors? and in that sense, what's the purpose of inflammation in chalazion, given that there's no pathogen to kill?
+						- ![[Pasted image 20250504172822.png]] ![[Pasted image 20250504172827.png]]
+							- i see. i can imagine the containment effort only exacerbate the swelling given its claustrophobic site (?) btw why would blockage in chalazion occur in the first place?
+								- ![[Pasted image 20250504173217.png]]
+									- and why would the secretions become solid and waxy?
+										- ![[Pasted image 20250504173301.png]] ![[Pasted image 20250504173441.png]] ![[Pasted image 20250504173447.png]]
+											- but how does chalazion resolve, then?
+												- ![[Pasted image 20250504173551.png]] ![[Pasted image 20250504173606.png]] ![[Pasted image 20250504173642.png]]
+												- so that's why warm compresses -> to soften lipid
+												- ![[Pasted image 20250504173823.png]]
+													- btw for stye, can the body get rid of staph or whatever bacteria it is on its own, usually?
+														- ![[Pasted image 20250504174012.png]]

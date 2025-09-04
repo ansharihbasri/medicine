@@ -1,3 +1,3 @@
-- [[step-wise fever or remittent with no return to normal temp]]
+- [[step-wise fever or remittent with no return to normal temp]] ([[step-wise fever]])
 - [[intermittent, spike fever w returns to normal temp]]
 - [[saddleback fever]]

@@ -1,6 +1,6 @@
 [[ladder pattern for thorax palpation and percussion]]
 # finding the heart
-- [[dull]], sternum's left, [[ICS]] 3-5 (Bates 13th p. 792). see image: ![[point of maximal impulse#^8e45ca]]
+- [[dull]], sternum's left, [[ICS]] 3-5 (Bates 13th p. 792). see image: ![[point of maximal impulse aka ictus cordis#^8e45ca]]
 # finding the liver
 (Bates 13th p. 793)
 - [[dull]], along [[midclavicular line (MCL)]]

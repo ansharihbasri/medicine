@@ -1,0 +1,104 @@
+base source: Greenspan
+also see: [[Wayne hyperthyroid index]]
+
+- also:
+	- hyperthyroidism with normal or increased [[radioiodine]] uptake
+		- [[diffuse toxic goiter (Graves disease)]]
+		- [[toxic adenoma]]
+		- [[toxic multinodular goiter]]
+	- hyperthyroidism with near absent [[radioiodine]] uptake
+		- [[thyroiditis]]
+		- ingestion of [[thyroid]] hormone
+		- thyroid cancer metastasis
+# [[diffuse toxic goiter (Graves disease)]]
+- etio: [[autoimmune]] unknown cause
+	- what triggers initial onset is unclear, but some factors may incite immune response in the disease (see [[thyrotoxicosis#^463bd2|below]]) ^87c458
+- pathogenesis: so [[thyroid gland]] got antigens which T cells become sensitized to and with that sends signals to B cells to produce antibodies:
+	- [[thyroid-stimulating antibodies (TSAb) aka TSH receptor antibody (TRAb)]]: against [[TSH receptor]] on thyroid cell ([[thyroid follicular cell]] membrane -> stimulate growth and function
+		- since [[TSH receptor]] is found also in orbital fibroblasts, [[extraocular muscles (eye muscles and nerves)|orbital muscles]] -> **[[Graves ophthalmopathy]]**; may be due to cytotoxic lymphocytes and cytotoxic antibodies (unclear what triggers that cascade). These lymphocytes then release cytokines which stimulate activation and prolif of orbital fibroblasts and preadipocytes, resulting in increased retroorbital fat and glycosaminoglycans + swollen [[extraocular muscles (eye muscles and nerves)|extraocular muscles]] ^052937
+			- -> [[proptosis]], [[diplopia]], redness, congestion, conjunctival & periorbital edema
+			- see [[thyrotoxic eye signs (NOSPECS)]]
+		- skin fibroblasts especially pretibial area and subperiosteal phalanges of hands and feet also express the same receptors, hence **[[pretibial myxedema]]** and the rare **[[thyroid osteopathy or acropachy]]**
+			- why the commonality between thyroid glands, orbital fibroblasts, and pretibial skin fibroblasts? it looks random.
+	- [[thyroid peroxidase (TPO) antibodies]]
+	- [[catecholamines]]-excess-like symptoms aren't actually due to excess (levels are be normal or low) but instead due to **increased sensitivity** to it (may be related to how [[thyroid hormone]] upregulate [[beta adrenergic receptor]] in various tissues)
+	- 
+
+- anamnesis:
+	- sympathetic symptoms:
+		- [[palpitations]] (jantung berdebar2)? (+2)
+			- [[dyspnea with exertion]]? (esp age > 60) (+1)
+		- nervousness (suka gelisah)? (esp age > 60) (+2)
+		- easy fatigability (gampang cape)? (+2)
+		- [[hyperkinesia]] (susah diem/pengen gerak terus)? (see [[thyrotoxicosis#^1d4ec7|below]])
+			- [[tremor]] (esp age > 60)
+		- [[diarrhea]]
+		- excessive sweating (gampang keringet)? (+3)
+		- intolerance to heat (ga tahan udara/suasana panas)?
+		- preference for cold (lebih nyaman kalo dingin)? (+5)
+			- preference for heat = (-5)
+	- keluhan penyerta:
+		- penurunan BB tanpa penurunan nafsu makan? (esp age > 60)
+			- nafsu makan:
+				- meningkat (+3)
+				- menurun (-3)
+			- BB:
+				- meningkat (-3)
+				- menurun (+3)
+		- in children: rapid growth with accelerated bone maturation
+		- [[diplopia]] (penglihatan ganda)? <- [[Graves ophthalmopathy]]
+			- due to [[proptosis]] and impaired [[extraocular muscles (eye muscles and nerves)|eye movement]]
+		- [[thyrotoxic eye signs (NOSPECS)]]
+- pemfis:
+	- generalis
+		- TTV
+			- HR: mild [[tachycardia]]?
+				- ≤ 80 (-3)
+				- > 80 (-)
+				- > 90 (+3)
+				- [[atrial fibrillation]] (+4)
+		- mata:
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 1]]:
+				- [[lid retraction]]? (+2) <- adrenergic stimulation of upper eyelid (can be due to any form of [[thyrotoxicosis]], not only Graves) / 
+				- [[lid lag]]? (+1)
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 2]]:
+				- edema, congestion, or redness konjungtiva & periorbital?
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 3]]:
+				- [[proptosis]]/[[exophthalmos]]? (+2)
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 4]]:
+				- [[extraocular muscles (eye muscles and nerves)|extraocular muscle involvement]] <- fibrosis and muscle relaxation failure:
+					- [[inferior rectus]] (lateral and inferior) fail to relax -> limits upward gaze
+					- [[medial rectus]] fail to relax -> limits lateral gaze
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 5]]
+				- kornea:
+					- [[corneal keratitis]] <- due to inability to close eyes completely
+			- [[thyrotoxic eye signs (NOSPECS)|NO SPECS class 6]]
+				- visus:
+					- loss of vision <- nerve ischemia <- compression by surrounding enlarged [[extraocular muscles (eye muscles and nerves)|EOM]]
+		- leher
+			- tiroid
+				- palpasi: pembesaran tiroid (tiroid teraba)? (+3 / -3)
+				- auskultasi: bruit pada tiroid? (+2 / -2)
+		- ekstremitas:
+			- inspeksi: ^1d4ec7
+				- [[hyperkinesia]]? (+4 / -2)
+			- palpasi:
+				- tangan terasa panas (+2 / -2)
+				- tangan lembab (+1 / -1)
+	- neurologis
+		- motorik <- (since thyroid is more catabolic endocrinologically)
+			- weakness (<5)?
+			- atrofi?
+- RF:
+	- keluarga/kerabat dekat dengan penyakit yang sama?
+		- ![[Pasted image 20250508154051.png]]
+	- [[postpartum]] (-> heightened immune -> trigger development)
+	- environmental trigger: ^463bd2
+		- stress
+		- tobacco use
+			- -> potent risk factor for thyroid-[[Graves ophthalmopathy]] (see [[thyrotoxicosis#^052937|above]]) 
+		- infection
+			- viral or bacterial which induce immune response (and that particular response may trigger the production of [[thyroid-stimulating antibodies (TSAb)]]) (see [[thyrotoxicosis#^87c458|above]])
+			- [ ] [[interferon alfa]] -> modify immune responses
+		- iodine exposure (in geographic areas with iodide deficiency; so lack of iodide keeps Graves in check/compensate, but when given normal iodide, Graves become manifest
+	- 

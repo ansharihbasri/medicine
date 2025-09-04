@@ -1,4 +1,4 @@
-
+![[Pasted image 20250820172300.png]]
 
 - [[visus oculi dextra (VOD)]]: 1.0
 - [[visus oculi sinistra (VOS)]]: 1.0

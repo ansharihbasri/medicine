@@ -17,6 +17,7 @@
 	- [[neurological history taking]]
 	- [[obstetric history taking]]
 	- [[psychiatric history taking]]
+	- [[pediatric history taking]]
 
 - setting:
 	- [[emergency]]:

@@ -1,0 +1,61 @@
+
+
+- Identitas:
+	- Nama:
+	- Usia:
+	- Kelamin:
+	- Alamat:
+- Keluhan utama:
+- Riwayat penyakit sekarang:
+- Riwayat penyakit dahulu:
+	- (alergi)
+	- ...
+- Riwayat pengobatan:
+- Riwayat penyakit keluarga:
+- Riwayat psikososial:
+- Status gizi:
+	- Plotting antropometri: TB/U, BB/U, TB/BB; LP/U
+		- ![[Pasted image 20250819165240.png]]
+		- ![[Pasted image 20250819165252.png]]
+		- ![[Pasted image 20250819165300.png]]
+		- ![[Pasted image 20250819165326.png]]
+		- ![[Pasted image 20250819165338.png]]
+		- ![[Pasted image 20250819165344.png]]
+		- ![[Pasted image 20250819165353.png]]
+		- ![[Pasted image 20250819165358.png]]
+		- ![[Pasted image 20250819165408.png]]
+		- ![[Pasted image 20250819165423.png]]
+		- ![[Pasted image 20250819165429.png]]
+		- ![[Pasted image 20250819165437.png]]
+		- ![[Pasted image 20250819165443.png]]
+		- ![[Pasted image 20250819165448.png]]
+		- ![[Pasted image 20250819165453.png]]
+		- ![[Pasted image 20250819165505.png]]
+		- ![[Pasted image 20250819165510.png]]
+		- ![[Pasted image 20250819165515.png]]
+		- ![[Pasted image 20250819165527.png]]
+	- Pola makan/nutrisi:
+		- Bagaimana pola makan sehari2: jenis/bahan makanan, frekuensi, jumlah porsi
+		- Nafsu makan: baik/kurang?
+		- [ ] < 6 bulan: ASI dan/atau susu formula? > 6 bulan: MPASI?
+		- BAB/BAK: Apakah ada keluhan? Frekuensi? Warna? Konsistensi?
+- Status tumbuh kembang: *milestone* tumbuh kembang
+	- ![[Pasted image 20250819165036.png]]
+	- ![[Pasted image 20250819165014.png]]
+	- ![[Pasted image 20250819165021.png]]
+- [[immunization or vaccination schedule|Status vaksin/imunisasi]]
+- Status antenatal
+	- ![[Pasted image 20250819171006.png]]
+	- Questions and concerns by parents = CC
+	- Apakah ada keluhan tentang penampilan fisik bayi
+	- Apakah ada keluhan atau pertanyaan terkait pola asuh bayi
+	- Riwayat prenatal, partus dan kelahiran -> screening for risk factors -> depends on differential diagnoses, thus not necessarily a general part of history taking (?)
+	- Health and well-being of mother, other fam mems -> riwayat sosial (?)
+	- plans for breastfeeding, bottle feeding -> status gizi
+	- neonatal hx -> CC, RF
+	- fam hx -> RPK
+	- social hx -> riwayat sosial
+	- newborn behavior and activity -> status tumbuh kembang
+	- feeding and nutrition -> 
+	- ![[Pasted image 20250819171012.png]]
+	- 

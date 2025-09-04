@@ -42,3 +42,9 @@
 # abnormal
 - [[hyperpyrexia]]: > 41.1°C (rectally) (Bates 13th p. 374)
 - [[hypothermia]]: < 35°C (rectally) (Bates 13th p. 374)
+- perplexity:
+	- normal = 36.5 - 37.5
+	- subfebris = 37.0 - 37.9 or 38.0
+	- febris ≥ or > 38.0 
+	- high-grade fever ≥ 39.1-41
+	- hyperpyrexia ≥ 41.1

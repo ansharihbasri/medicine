@@ -5,3 +5,73 @@
 - [[persepsi (status psikiatrikus)]]
 - ![[pikiran (status psikiatrikus)]]
 - ![[sensorium dan kognisi (status psikiatrikus)]]
+
+- isi pikir: -> core utk diagnosis
+	- suka ovt ga?
+	- ada truama masa lalu ga
+	- klo keramaian suka takut ga?
+	- klo ketemu orang takut ga?
+-  gangguan pikiran:
+	- ![[Pasted image 20250604112304.png]]
+- persepsi:
+	- ![[Pasted image 20250604112311.png]]
+	- bs konsul sm keluarga jg
+	- RTA: membedakan yg dipikirkan internal;
+- ![[Pasted image 20250604112502.png]]
+	- kesadaran nentuin reliable ga wawancaranya
+	- ![[Pasted image 20250604112616.png]]
+- ![[Pasted image 20250604112647.png]]
+- ![[Pasted image 20250604112709.png]]
+
+
+- depresi
+	- 3M mood motivasi motorik
+	- riwayat depresi sebelumnya
+		- berat: psikotik atau menyakiti/bunuh diri
+		- berulang atau ga
+	- riwayat manik
+		- bipolar
+		- impulsif, tdk perlu tidur, 
+		- manik 1 minggu
+- GAD/ptsd/agoraphobia/ocd/...
+	- agoraphobia: di bis ramai tkt
+	- social: takut judgment org, dsb.
+- serangan panik: tdk dikendalikan jd gejala somatik
+	- often comorbid agora krn tkt serang panik di publik
+- ptsd
+	- flashback
+- GAD
+	- cemas, ketegangan motorik, overaktivitas otonom
+- GAD vs cemas secara umum?
+	- GAD lebih ke isi kecemasannya
+- alkohol
+	- 1 tahun terakhir
+- ![[Pasted image 20250604114154.png]]
+- GMO
+	- tumor, demensia,
+- F9 krn anak/remaja kepribadian dll blm menetap
+- aksis 2 faktor risiko
+- aksis 3 medis
+- aksis 4 stressor: trauma ...
+- aksis 5: GAF 100 plg bgs; 50 ke bawah di rawat RS
+	- GAF -> nyari tau ms bs aktivitas sehari2 ga
+- skizo
+	- hebephrenic: disorganisasi, perilakunya
+		- bs telanjang 
+	- paranoid: lebih ke waham/isi pikirnya
+		- curiga; tp lain2 msh beraktivitas
+	- katatonik
+		- yg diem doang
+		- spt lilin
+		- klo gangguan ekstrapiramidal: neurotransmitter -> dyskinesia
+			- acetylcholinerase inhibitor
+			- triheksilfenidilo
+			- faktor risiko: antipsikotik gol 1
+- gangguan psikotik akut: gejala2 tdk penuhi skizo
+- kluster B
+	- ambang:
+	- antisosial: melanggar norma
+	- histrionik: jadi pusat perhatian -> fokus utama di diperhatiin orangnya
+	- narsisitik: merasa paling benar/hebat -> fokus utama di kesombongan
+- ciri
+	- 

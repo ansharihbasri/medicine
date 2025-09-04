@@ -1,6 +1,394 @@
 base source: PPK 2017
 also see: [[URTI]]
 
+# perbaikan porto
+## basic science
+- rinosinusitis akut (Harrison): ^87ff77
+	- infeksius:
+		- viral:
+			- rhinovirus
+			- parainfluenza
+			- influenza
+		- bakterial:
+			- 50-60%:
+				- [[Streptococcus pneumoniae]]
+				- nontypable [[Haemophilus influenzae]]
+			- children: 20%: [[Moraxella catarrhalis]]
+			- 
+		- nosokomial:
+			- riwayat intubasi nasotrakeal/nasogastric tube
+	- non-infeksius:
+		- rinitis alergi
+			- edema mukosa
+			- obstruksi polip
+		- pajanan iritan kimiawi
+		- barotrauma
+		- tumor nasal/sinus
+		- kondisi yang mengakibatkan perubahan konten mukus:
+			- cystic fibrosis
+- acute pharyngitis (Harrison p. 214-...)
+	- sore throat
+	- etiology
+		- typical respiratory viruses
+			- [[rhinovirus]] ~20%
+			- [[coronavirus]] at least 5%
+			- [[influenza]], [[parainfluenza]] seasonal
+			- [[adenovirus]] -> [[pharyngoconjunctival fever]]
+			- important but less common
+				- [[herpes simplex virus (HSV)-1]], [[hepes simplex virus (HSV)-2]]
+				- [[coxsackievirus A]]
+				- [[cytomegalovirus (CMV)]]
+				- [[Epstein-Barr virus (EBV)]]
+				- [[HIV]] (acute [[HIV]] infection can present as acute pharyngitis)
+		- bacterial
+			- [[group A beta-hemolytic streptococci]] ([[Streptococcus pyogenes]]) ~5-15%
+				- primarily in children 5-15 y/o, uncommon <3 y/o (both for strep pharyngitis and [[rheumatic fever]])
+			- notable minorities
+				- [[streptococci C]], [[streptococci G]] (non-rheumatogenic)
+				- [[Fusobacterium necrophorum]] (esp adolescent and young adults) ->[[Lemierre disease]]
+				- <1% each but check in exposure groups:
+					- [[secondary syphilis]]
+						- [[Neisseria gonorrhoeae]]
+						- [[Corynebacterium diphtheriae]]
+						- [[Corynebacterium ulcerans]]
+						- [[Yersinia enterolitica]]
+						- [[Treponema pallidum]]
+					- [[anaerobe]]
+						- [[Vincent angina]]
+		- complications
+			- ![[Pasted image 20250507231326.png]]
+			- ![[Pasted image 20250507231332.png]]
+## dd
+- sinusitis akut (WHO): ^760f4b
+	- anamnesis
+		- RPS
+		    - gejala sudah berapa lama?
+		        - (max) 10-14 hari (viral) (also see Harrison p. 210)
+		        - ≥ 10 hari (Harrison p. 210: > 10 d adult, > 10-14 children) dan tidak membaik (bakteri)
+		        - bagaimana perkembangan gejala? (semakin memburuk signifikan = bakteri)
+		        - Harrison p. 210: onset (above) plus 3 cardinal signs:
+			        - purulent nasal discharge,
+			        - nasal obstruction, AND
+			        - facial pain
+		    - nyeri gigi/wajah satu sisi?
+		    - nyeri kepala? (Harrison)
+		    - wajah bengkak atau terasa tertekan?
+		    - ingus/hidung tersumbat?
+		    - terkadang batuk
+		    - disertai/didahului gejala ISPA viral? (Harrison)
+		    - peri/[[retroorbital pain]]? ([[acute fungal sinusitis]]) (Harrison p. 210)
+	    - RPD
+		    - riwayat kondisi immunocompromise ([[acute fungal sinusitis]], Harrison p. 210) -> usulan PP: rujuk/periksa oleh THT
+			    - riwayat penyakit:
+				    - [[diabetes mellitus type 2 (DMT2)]] tidak terkontrol
+					    - [[diabetic ketoacidosis (DKA)]]
+				    - [[HIV]]
+				    - keganasan darah
+				    - kemoterapi imunosupresan
+				- riwayat konsumsi obat:
+					- steroid jangka panjang:
+						- [[lupus]]
+						- [[rheumatoid arthritis]]
+						- [[asthma]]
+			- riwayat penyakit/gangguan fungsi hati? (limitasi batas maks dosis [[paracetamol]] dari 4 g (normal) ke 2 g/hari; WHO antibiotics p. 14)
+	    - RF
+			- riwayat alergi
+				- ([[J30.9 allergic rhinitis unspecified|allergic rhinitis]])
+				- alergi obat:
+					- [[penicillin]]? (in case memerlukan antibiotik [[penicillin]])
+			- riwayat lingkungan
+				- udara bersih atau terpapar gas/bau yang mengiritasi? (non-infectious sinusitis due to chemical irritant)
+				- ada orang di sekitar yang mengalami gejala serupa? (pajanan infeksi) (self note)
+	- pemfis: (Harrison)
+		- mata: (p. 210)
+			- inspeksi:
+				- edema? ([[acute fungal sinusitis]])
+				- [[orbital cellulitis]]? ([[acute fungal sinusitis]])
+				- [[proptosis]]? ([[acute fungal sinusitis]])
+				- [[ptosis (drooping eyelid)|ptosis]]? ([[acute fungal sinusitis]])
+				- penurunan [[extraocular muscles (eye muscles and nerves)|extraocular eye movement]]? ([[acute fungal sinusitis]])
+		- hidung:
+			- spekulum:
+				- [[nasopharyngeal ulceration]]? ([[acute fungal sinusitis]]) (Harrison p. 210)
+				- [[epistaxis]]? ([[acute fungal sinusitis]]) (Harrison p. 210)
+				- massa? (tumor sinus/nasal) (Harrison p. 210)
+			- sinus paranasal (maksilaris, frontalis, sphenoid, ethmoid): (p. 210) ^4c6364
+				- inspeksi: edema? ([[acute focal sinusitis]])
+				- palpasi:
+					- nyeri tekan? kanan/kiri/kedua sisi? 
+						- nyeri/tekanan lebih terasa saat membungkuk/menunduk?
+					- teraba hangat? ([[acute focal sinusitis]])
+					- kemerahan? ([[acute focal sinusitis]])
+- sinusitis kronis (Harrison p. 211-...):
+	- anamnesis:
+		- RPS
+			- gejala > 12 minggu:
+				- sudah berapa lama/ sejak kapan sering kambuh?
+		- RPD
+			- pernah/sering mengalami kondisi serupa dan diberikan antibiotik?
+			- ada riwayat operasi sinus?
+- faringitis (Harrison) (also see WHO antibiotics) ^633438
+	- anamnesis
+		- RPS
+			- gejala ISPA non-spesifik / gejala serupa dg ISPA viral (WHO antibiotics) (Harrison: [[coryza (rhinitis)|coryzal]] symptoms better characterized as non-specific URI) <- (rhinovirus/coronavirus)
+				- onset:
+				- severity:
+					- mild <- (rhinovirus/coronavirus)
+					- severe <- (influenza, adenovius)
+			- keluhan penyerta:
+				- demam?
+					- ya <- (influenza, adenovirus)
+					- tidak <- (rhinovirus/coronavirus)
+				- batuk?
+					- ya <- (rhinovirus/coronavirus, influenza)
+					- tidak <- Centor score +1 (bakterial, strep)
+				- nyeri tenggorokan hebat <- ([[peritonsillar abscess (quinsy)|abses peritonsilar]])
+				- sakit kepala? (rhinovirus/coronavirus, influenza, adenovirus)
+				- nyeri otot/myalgia? <- (rhinovirus/coronavirus, influenza, adenovirus)
+				- nyeri di telinga? <- ([[otitis media]] post strep pharyngitis)
+				- concurrent urogenital sx <- (gonococcal)
+					- dysuria
+					- urethral/vaginal discharge
+				- gejala [[Yersinia enterolitica]]
+					- abdominal pain ([[mesenteric adenitis]]): seperti apendisitis
+					- diare?
+					- keluhan/gangguan pencernaan? (enteric origin)
+		- RPD
+			- HIV? <- faringitis akut ec HIV
+		- RF
+			- asupan makan?
+				- berkurang karena sulit/nyeri menelan? <- ([[peritonsillar abscess (quinsy)|abses peritonsilar]])
+			- risiko gonococcal:
+				- unprotected oral-genital sex
+				- young, sexually active adults
+			- risiko difteri:
+				- vaksin DTP? <- diphteria
+			- risiko [[Yersinia enterolitica]]:
+				- pediatri
+				- riwayat konsumsi:
+					- daging babi mentah/setengah matang?
+					- susu belum terpasteurisasi?
+	- pemfis
+		- keadaan umum:
+			- tampak sakit ringan <- viral (rhinovirus, coronavirus)
+			- tampak sakit sedang-berat <- viral (selain rhinovirus, coronavirius); bakterial (strep)
+		- TTV:
+			- suhu:
+				- ≥ 38 <- Centor score +1 (bakterial, strep)
+		- head to toe:
+			- kulit
+				- erythematous rash <- [[scarlet fever]] <- erythrogenic toxin of [[Streptococcus pyogenes]] ([[Streptococcal pyrogenic exotoxin]])
+				- non-pruritic maculopapular rash <- HIV
+			- mata:
+				- konjungtiva:
+					- hiperemis <- (demam faringokonjungtival, adenovirus)
+			- telinga:
+				- sekret? <- [[otitis media]] post strep pharyngitis
+				- edema/kemerahan post aurikular? <- [[mastoiditis]] post [[otitis media]] post strep pharyngitis
+			- mulut
+				- faring:
+					- hiperemis
+					- eksudat <- (bakterial, strep)
+					- thick, gray pseudomembrane <- diphteria
+				- tonsil:
+					- hipertrofi
+					- eksudat <- Centor score +1 (bakterial, strep); adenovirus, HSV
+					- ulkus tanpa eksudat <- HIV
+					- medial displacement <- [[peritonsillar abscess (quinsy)]]
+				- palatum (durum, molle):
+					- vesikel/ulkus dangkal <- HSV; coxsackievirus A herpangina
+					- ulkus tanpa eksudat <- HIV
+				- uvula:
+					- vesikel/ulkus dangkal <- coxsackievirus A herpangina; HSV mungkin
+					- lateral displacement <- [[peritonsillar abscess (quinsy)]]
+				- lidah
+					- [[strawberry tongue (scarlet fever)]] <- [[scarlet fever]] (strep)
+			- leher
+				- KGB:
+					- limfadenitis servikal anterior sakit <- Centor score +1 (bakterial, strep)
+					- lainnya (supraklavikular, oksipital, pre/post aurikular, submental) <- jika limfadenopati tergeneralisasi (≥2 lokasi non-kontiguus) <- (mononukleosis infeksius: EBV, CMV)
+			- toraks
+				- [[axillary lymph nodes|KGB aksilaris]]: <- jika limfadenopati tergeneralisasi (≥2 lokasi non-kontiguus) <- (mononukleosis infeksius: EBV, CMV)
+				- paru:
+					- rhonchi <- [[pneumonia]] ec komplikasi strep pharyngitis
+			- abdomen
+				- splenomegali <- (mononukleosis infeksius: EBV, CMV)
+			- ekstremitas:
+				- KGB:
+					- [[epitrochlear lymph nodes|KGB epitroklear]]: <- jika limfadenopati tergeneralisasi (≥2 lokasi non-kontiguus) <- (mononukleosis infeksius: EBV, CMV)
+					- [[inguinal lymph nodes|KGB inguinal]]: <- jika limfadenopati tergeneralisasi (≥2 lokasi non-kontiguus) <- (mononukleosis infeksius: EBV, CMV)
+				- sendi
+					- nyeri sendi: <- artralgia <- HIV
+				- turgor kulit: dehidrasi <- [[peritonsillar abscess (quinsy)]]
+				- CRT: dehidrasi <- [[peritonsillar abscess (quinsy)]]
+	- usulan PP
+		- [[throat swab culture (strep pharyngitis)]]
+		- [[rapid strep test (RST) or rapid antigen detection test (RADT)]]
+			- some still recommend that if in children negative, still do backup [[throat swab culture (strep pharyngitis)]]
+		- rapid diagnostic tests for: [[influenza]], [[adenovirus]], [[herpes simplex virus (HSV)]], [[Epstein-Barr virus (EBV)]], [[cytomegalovirus (CMV)]], M pneumoniae
+		- specific tests for [[HIV]], [[Neisseria gonorrhoeae]], [[Corynebacterium diphtheriae]], [[Yersinia enterolitica]]
+- faringitis akut (per etio)
+	- viral
+		- generally:
+			- anamnesis
+				- RPS
+					- gejala serupa dg ISPA viral (WHO antibiotics)
+					- batuk (WHO antibiotics)
+					- sakit kepala (WHO antibiotics)
+					- nyeri otot/myalgia (WHO antibiotics)
+		- [[rhinovirus]] or [[coronavirus]]
+			- anamnesis
+				- RPS
+					- [[coryza (rhinitis)|coryzal]] symptoms better characterized as non-specific URI
+					- symptoms not severe
+					- fever is rare
+			- pemfis
+				- findings uncommon
+				- tender cervical adenopathy not seen
+				- pharyngeal exudate not seen
+		- [[influenza]]
+			- anamnesis
+				- RPS
+					- symptoms severe
+					- fever very likely
+					- myalgia
+					- headache
+					- cough
+		- [[adenovirus]]
+			- similar to [[influenza]] (see above), and similar to streptococcal (see below)
+			- also:
+				- anamnesis
+					- RPS
+						- [[conjunctivitis]] <- [[pharyngoconjunctival fever]]
+				- pemfis
+					- pharyngeal exudate may be present, similar to strep, HSV
+		- HSV
+			- in some cases mimic strep given:
+				- pharyngeal inflammation
+				- exudate
+			- but:
+				- pemfis
+					- palate (compare to [[coxsackievirus A]] (see below))
+						- vesicles
+						- shallow ulcers
+		- [[coxsackievirus A]] ([[herpangina]])
+			- pemfis
+				- palate, uvula (compare to HSV (see above))
+					- small vesicles
+						- can rupture and form shallow white ulcers
+		- [[infectious mononucleosis]] <- [[Epstein-Barr virus (EBV)]] or [[cytomegalovirus (CMV)]]
+			- anamnesis
+				- RPS
+					- fever
+					- fatigue
+			- pemfis
+				- [[generalized lymphadenopathy]]: ^135825
+					- ![[Pasted image 20250507223437.png]]
+					- ![[Pasted image 20250507223443.png]]
+				- [[splenomegaly]] occassionally
+		- [[HIV]]
+			- anamnesis
+				- RPS
+					- fever
+					- acute pharyngitis
+					- myalgia
+					- arthralgia
+					- malaise
+				- RPD:
+					- riwayat HIV?
+			- pemfis
+				- skin
+					- non-pruritic maculopapular rash (occassionally)
+				- lymphadenopathy
+				- mulut:
+					- mucosal ulcerations w/o exudate
+	- bakteri
+		- strep
+			- anamnesis
+				- RPS
+					- presentasi lebih berat (WHO antibiotics)
+					- demam ≥ 38 (WHO antibiotics)
+					- though may vary from mild illness w/o many a/sx to severe ones w
+						- severe pharyngeal pain (see below)
+						- fever (also see below)
+						- chills
+						- abdominal pain
+					- usually no cough
+					- keluhan penyerta (skrining komplikasi strep):
+						- severe pharyngeal pain <- [[peritonsillar abscess (quinsy)]]
+						- [[dysphagia]] <- [[peritonsillar abscess (quinsy)]]
+						- [[fever]] <- [[peritonsillar abscess (quinsy)]]
+						- nyeri di telinga <- [[otitis media]] post strep pharyngitis
+							- nyeri posterior aurikular <- [[mastoiditis]] post [[otitis media]] post strep pharyngitis
+						- sinusitis (see on sinusitis)
+				- riwayat alergi
+					- [[penicillin]]? (since drug is mainly that). alternative:
+						- [[azithromycin]]
+			- pemfis
+				- TTV
+					- suhu: ≥ 38 (WHO antibiotics)
+				- skin
+					- erythematous rash <- [[scarlet fever]] <- erythrogenic toxin of [[Streptococcus pyogenes]] ([[Streptococcal pyrogenic exotoxin]])
+				- telinga
+					- edema/kemerahan post aurikular? <- [[mastoiditis]] post [[otitis media]] post strep pharyngitis
+					- sekret? <- [[otitis media]] post strep pharyngitis
+				- mulut:
+					- lidah:
+						- [[strawberry tongue (scarlet fever)]] <- [[scarlet fever]]
+					- faring:
+						- hiperemis
+						- eksudat
+					- tonsil:
+						- hipertrofi
+						- medial displacement <- [[peritonsillar abscess (quinsy)]]
+					- uvula:
+						- lateral displacement <- [[peritonsillar abscess (quinsy)]]
+				- leher
+					- KGB leher sakit (WHO antibiotics) / tender cervical adenopathy (Harrison)
+				- toraks
+					- paru
+						- rhonchi <- [[pneumonia]] ec komplikasi strep pharyngitis
+				- ekstremitas
+					- turgor kulit: dehidrasi <- [[peritonsillar abscess (quinsy)]]
+					- CRT: dehidrasi <- [[peritonsillar abscess (quinsy)]]
+			- usulan PP
+				- [[throat swab culture (strep pharyngitis)|throat swab culture]]
+				- [[rapid strep test (RST) or rapid antigen detection test (RADT)]]
+					- some still recommend that if in children negative, still do backup [[throat swab culture (strep pharyngitis)]]
+				- rapid diagnostic tests for: [[influenza]], [[adenovirus]], [[herpes simplex virus (HSV)]], [[Epstein-Barr virus (EBV)]], [[cytomegalovirus (CMV)]], M pneumoniae
+				- specific tests for [[HIV]], [[Neisseria gonorrhoeae]], [[Corynebacterium diphtheriae]], [[Yersinia enterolitica]]
+		- gonococcal
+			- RPS:
+				- concurrent urogenital sx
+					- dysuria
+					- urethral/vaginal discharge
+			- RF:
+				- unprotected oral-genital sex
+				- young, sexually active adults
+			- pemfis
+				- faring:
+					- exudate
+		- diphtherial
+			- pemfis:
+				- faring
+					- thick gray pseudomembrane
+			- RF:
+				- riwayat vaksinasi:
+					- DTP?
+				- riwayat bepergian ke daerah endemis?
+		- yersinial
+			- anamnesis
+				- RPS:
+					- abdominal pain ([[mesenteric adenitis]]): seperti apendisitis
+					- diare?
+					- keluhan/gangguan pencernaan? (enteric origin)
+			- RF:
+				- pediatri
+				- riwayat konsumsi:
+					- daging babi mentah/setengah matang?
+					- susu belum terpasteurisasi?
+
+
 # differential diagnoses and corresponding HT, RF, PE
 
 ## [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]] ([[SKDI 4A]])

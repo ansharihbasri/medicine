@@ -1,0 +1,45 @@
+
+- manifestations are multisystems:
+	- CV:
+		- decreased [[heart rate variability]]
+		- resting [[tachycardia]]
+		- [[orthostatic hypotension]]
+	- GI:
+		- [[gastroparesis (delayed gastric emptying)]], sx:
+			- [[anorexia]]
+			- [[nausea]], [[vomiting]]
+			- [[early satiety]]
+			- [[abdominal bloating]]
+			- ![[Pasted image 20250526111726.png]]
+		- altered small and large bowel motility:
+			- [[constipation]]
+			- [[diarrhea]]
+	- GU: ^30e94e
+		- bladder-emptying abnormalities: ^146051
+			- [[cystopathy]]
+				- inability to sense a full bladder (jadi lebih jarang kebelet/ingin ke toilet utk BAK)
+					- -> decreased voiding frequency
+					- -> [[incontinence]]
+				- failure to void completely (tidak tuntas saat BAK)/[[hesitancy (LUTS)]]
+				- -> recurrent UTI ([[dysuria]])
+			- female sexual dysfx
+				- reduced sexual desire
+				- [[dyspareunia]]
+				- reduced vaginal lubrication
+			- erectile dysfx
+				- ![[Pasted image 20250526112708.png]]
+	- other sympathetic dysfx:
+		- [[hyperhidrosis]] of upper extremities ^96d7c0
+		- [[anhidrosis]] of lower extremities -> dry skin with cracking ^1a92d8
+		- [[hypoglycemia unawareness]] <- counterregulatory hormone release (catecholamines) ^11709f
+
+# treatment
+## for GI/GU sx
+- currently inadequate and non-specific
+- improved glycemic control has not shown benefit in this regard
+- may help:
+	- smaller, more freq meals, easier to digest (fluid), low in fat and fiber -> minimize gastroparesis
+	- avoid drugs that slow gastric emptying (opioids, GLP-1 receptor agonists)
+- for diabetic cystopathy:
+	- scheduled voiding
+	- self-catheterization

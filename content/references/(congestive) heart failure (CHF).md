@@ -3,6 +3,8 @@
 
 - [[why orthopnea in heart failure]]
 - [[paroxysmal nocturnal dyspnea (PND) vs orthopnea]]
+- definitions
+	- ![[Pasted image 20250526195401.png]]
 
 # key pathophysiology -> HT -> PE
 - pump failure -> HT: [[chest discomfort]]

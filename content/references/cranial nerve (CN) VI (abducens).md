@@ -1,3 +1,3 @@
 
 - innervate
-	- [[lateral rectus (eye muscle)]]. see: [[eye muscles and nerves]]
+	- [[lateral rectus (eye muscle)]]. see: [[extraocular muscles (eye muscles and nerves)]]

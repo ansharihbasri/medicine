@@ -2,10 +2,87 @@
 source: [youtube](https://www.youtube.com/watch?v=mbiGWlsEeYo)
 
 Bates 1353/2145 ![[Pasted image 20250501185526.png]]
-# **[[gait]]**
+# inspection
+## **[[gait]]** (Bates)
 ask patient to walk around, check for obvious [[abnormal gait]]
-# **one leg squat**
+- knee not fully extended when heel strike <- [[quadriceps]] weakness or abnormal [[patellar tracking]] (Bates)
+## knee appearance (Bates)
+- atrophy of [[quadriceps]] muscle
+- normal hollows around [[patella]]
+	- hollow loss <- swelling <- [[knee joint effusion]] in:
+		- [[suprapatellar pouch (recess)]]
+		- over the [[patella]] <- [[prepatellar bursitis (housmaid's knee)]]
+		- over [[tibial tuberosity]] <- [[infrapatellar bursitis]], [[anserine bursitis]]
+## **one leg squat**
 ask patient to squat w/ one leg, need not be perfect but to check whether the hip can be maintained aligned fairly well (abnormal when hip significantly unstable/wobbly)
+
+# palpation (Bates)
+- principle: check for pain and [[crepitus]]
+## [[tibiofemoral joint]]
+- thumb on the hollow sides of [[patella]], identify groove of [[tibiofemoral joint]]. [[tibiofemoral joint line]] usually at inferior pole of [[patella]] during flexion.
+- palpate medially and laterally (i suppose that's along the [[tibiofemoral joint line]])
+## [[medial knee meniscus]]
+- palpate along the [[tibiofemoral joint line]] medially and laterally.
+	- tenderness <- [[knee joint meniscus tear]]
+## [[medial knee joint compartment]]
+- (from medial [[tibiofemoral joint line]]) palpate upwards to:
+	- [[medial femoral condyle]]; posterior to it is the [[adductor tubercle]]
+	- then palpate downwards to feel the [[medial tibial plateau]]
+	- then back to [[tibiofemoral joint line]], go along it to find [[medial collateral ligament (MCL)]], may be posterior than you anticipated. palpate origin ([[medial femoral condyle]]) and insertion (medial [[tibial condyle]] and superior medial surface of [[tibia]])
+![[Pasted image 20250502083224.png]]
+
+## [[lateral knee joint compartment]]
+(just like with [[medial knee joint compartment]] but on the lateral side)
+- also to palpate [[lateral (fibular) collateral ligament (LCL or FCL)]], [[FABER (Patrick) test]] position can help
+## [[patellofemoral joint]] compartment
+- locate [[patella]]
+- then go distally and identify [[tibial tuberosity]]
+- may ask patient to extend the knee to ensure [[patellar tendon]] is intact
+- with patient supine and knee extended, axially compress [[patella]] then gently move medially laterally
+## [[suprapatellar pouch (recess)]]
+- thumb and finger start 10 cm above [[patella]], then gradually distally palpate thickening/swelling in [[suprapatellar pouch (recess)]] and along margin of [[patella]]
+## three other bursa: [[prepatellar bursa]], [[anserine bursa]], [[popliteal fossa]]
+- [[anserine bursa]]: ![[Pasted image 20250502084531.png]]
+- with leg extended check [[popliteal fossa]] -> [[Baker's cyst]]
+
+
+# ROM (Bates)
+
+![[Pasted image 20250502073019.png]]
+- [[crepitus]] <- [[patellofemoral osteoarthritis (OA)]]
+
+# special maneuvers (Bates)
+## [[McMurray test]] -> [[medial knee meniscus]] and [[lateral knee meniscus]]
+![[Pasted image 20250502073157.png]]
+![[Pasted image 20250502073213.png]]
+## [[abduction (valgus) stress test]] -> [[medial collateral ligament (MCL)]]
+![[Pasted image 20250502073352.png]]
+## [[adduction (varus) stress test]] -> [[lateral (fibular) collateral ligament (LCL or FCL)]]
+![[Pasted image 20250502073436.png]]
+## [[anterior cruciate ligament (ACL)]]
+### [[anterior draw test]]
+![[Pasted image 20250502073456.png]]
+![[Pasted image 20250502073502.png]]
+### [[Lachman test]]
+![[Pasted image 20250502073538.png]]
+## [[posterior draw test]] -> [[posterior cruciate ligament (PCL)]]
+![[Pasted image 20250502073552.png]]
+# special techniques for [[knee joint effusion]]s (Bates)
+## [[bulge sign (knee joint effusion)]] -> minor effusion
+![[Pasted image 20250502073936.png]]
+![[Pasted image 20250502073944.png]]
+![[Pasted image 20250502073954.png]]
+
+
+## [[balloon sign (knee joint effusion)]] -> major effusion
+![[Pasted image 20250502074100.png]]
+![[Pasted image 20250502074116.png]]
+## [[patellar balloting (knee joint effusion)]] -> major effusion
+- simply push down the patella and see for gap and lateral displacement of the fluid
+![[Pasted image 20250502074238.png]]
+![[Pasted image 20250502074243.png]]
+![[Pasted image 20250502074334.png]]
+
 # **passive knee extension**
 - patient supine, examiner hands on around [[Achilles tendon]], lift both legs gently; check for block/tension or pain to the knee extension, and how symmetrical they are in those regards.
 - then knee-extend each leg from the side
@@ -45,13 +122,13 @@ knee flexed around 90 deg
 ![[Pasted image 20250426063822.png]]
 # **ligament** assessment:
 ## [[medial collateral ligament (MCL)]]: 
-- knee extended (covers [[medial collateral ligament (MCL)]], [[medial joint capsule]], [[cruciate ligaments]], possibly [[knee joint meniscus]]), then [[valgus stress test]]: check for pain or [[laxity]] (more opening of [[medial joint space]] than normal (relative, compare to the normal side), indicating [[medial collateral ligament (MCL)]] provide not enough resistance) indicating [[sprain]] or complete rupture ![[Pasted image 20250426073124.png]] ^31db45
-- then 30 deg flexion (isolate the [[medial collateral ligament (MCL)]]), [[valgus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426073740.png]]
+- knee extended (covers [[medial collateral ligament (MCL)]], [[medial joint capsule]], [[cruciate ligaments]], possibly [[knee joint meniscus]]), then [[abduction (valgus) stress test]]: check for pain or [[laxity]] (more opening of [[medial joint space]] than normal (relative, compare to the normal side), indicating [[medial collateral ligament (MCL)]] provide not enough resistance) indicating [[sprain]] or complete rupture ![[Pasted image 20250426073124.png]] ^31db45
+- then 30 deg flexion (isolate the [[medial collateral ligament (MCL)]]), [[abduction (valgus) stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426073740.png]]
 - [[laxity]] or pain during extension suggest more severe injury (since covers broader area when extended) than when the problem is during 30 deg flexion alone.
 ## [[lateral (fibular) collateral ligament (LCL or FCL)]]
-(similar to [[medial collateral ligament (MCL)]] except using [[varus stress test]])
-- knee extended, [[varus stress test]] -> [[laxity]] or pain ![[Pasted image 20250426074135.png]]
-- then 30 deg flexion, [[varus stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426074158.png]]
+(similar to [[medial collateral ligament (MCL)]] except using [[adduction (varus) stress test]])
+- knee extended, [[adduction (varus) stress test]] -> [[laxity]] or pain ![[Pasted image 20250426074135.png]]
+- then 30 deg flexion, [[adduction (varus) stress test]] again -> [[laxity]] or pain ![[Pasted image 20250426074158.png]]
 ## [[anterior cruciate ligament (ACL)]]
 ### [[Lachman test]] ^24134a
 stabilize thigh, move [[tibia]] anteriorly: normally nice solid endpoint, if injured then no firm end point ![[Pasted image 20250426074656.png]] if patient thigh too heavy, use examiner's thigh to support ![[Pasted image 20250426074837.png]]

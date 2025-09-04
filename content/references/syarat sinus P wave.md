@@ -1,3 +1,3 @@
 
 - P diikuti QRS, 1:1 i.e. 1 P 1 QRS
-- positive di mana aja
+- positive di mana aja: negatif avR, positif lead ....

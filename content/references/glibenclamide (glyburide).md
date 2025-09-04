@@ -1,0 +1,2 @@
+
+- moa: [[second generation sulfonylurea]]

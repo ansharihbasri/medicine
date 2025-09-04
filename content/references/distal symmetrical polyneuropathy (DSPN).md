@@ -1,0 +1,15 @@
+
+- most common form of [[diabetic neuropathy]]
+- sx:
+	- most frequent: distal sensory loss and pain
+	- up to 50% may be asymptomatic
+	- other sx:
+		- numbness
+		- tingling
+		- sharpness
+		- burning
+		- begins in feet, spreads proximally
+		- [[hyperesthesia]]
+		- [[paresthesia]]
+		- [[dysesthesia]]
+- ![[Pasted image 20250526102420.png]]

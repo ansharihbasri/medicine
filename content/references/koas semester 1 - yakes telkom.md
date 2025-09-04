@@ -29,3 +29,8 @@
 
 # ceklis2
 - [[ceklis pertanyaan pasien asma]]
+- [[ceklis pertanyaan pasien batuk pilek]]
+- [[ceklis pertanyaan diabetes mellitus]]
+
+# project
+- [[cohort - bu LJ]]

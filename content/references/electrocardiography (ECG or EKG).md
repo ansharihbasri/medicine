@@ -23,7 +23,7 @@
 		- S this
 			- regresif v4-6
 			- 
-		- durasi QRS this, ambil salah satu
+		- durasi QRS this, ambil salah satu (durasi normal QRS maksimal 3 kotak kecil)
 			- dari awal Q ke akhir S di isoelectric
 			- normalnya 2 kotak kecil
 		- amplitudo QRS

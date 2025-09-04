@@ -1,6 +1,7 @@
 
-- ![[Pasted image 20250315150415.png]] (Harrison 325)
-	- ![[Pasted image 20250315150427.png]]
+- ![[Pasted image 20250315150415.png]] (Harrison 325) ^83ea78
+	- ![[Pasted image 20250315150427.png]] ^199607
+		- firm = padat; nodul = 
 	- ![[Pasted image 20250315150435.png]]
 	- ![[Pasted image 20250315150440.png]]
 	- ![[Pasted image 20250315152315.png]] ^ef02b5

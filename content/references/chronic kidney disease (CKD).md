@@ -35,3 +35,7 @@ jd yg aku ingat (zoom dr Ratna, yakes telkom)
 - klo anemia krn CKD (normokrom normositik) injeksi epo
 - indikasi rujuk ke KGH liat ppt
 - indikasi HD liat ppt klo indikasi mulai edukasi2, pasang akses HD dll
+
+# treatment
+## diet
+![[Pasted image 20250526132553.png]]

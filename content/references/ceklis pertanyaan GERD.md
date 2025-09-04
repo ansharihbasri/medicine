@@ -1,0 +1,140 @@
+base source: Harrison, PGI Gastro 2022
+# anamnesis
+- RPS
+	- gejala esofageal: (GERD)
+		- [[heartburn]] (rasa terbakar di dada, dapat disertai nyeri/perih)?
+		- [[regurgitation]] (rasa asam/pahit di lidah)?
+		- ([[heartburn]]/[[regurgitation]] terasa di daerah dada tepat di belakang sternum/tulang dada, mulai dari epigastrik naik ke arah leher)?
+		- frekuensi: terjadi berapa kali per hari, berapa hari per minggu?
+		- severity: apakah dapat ditoleransi (ringan), atau mengganggu aktivitas, mengganggu tidur/membuat terbangun saat tidur? (sedang-berat)
+	- also try: ![[GerdQ questionnaire]]
+	- gejala ekstraesofageal: (GERD manifestation)
+		- kontak langsung refluxate dengan struktur supraesofageal:
+			- [[chronic sinusitis]] -> hidung mampet?
+			- [[dental erosion]] -> sakit gigi?
+			- nyeri tenggorokan ([[pharyngitis]])?
+			- suara serak ([[laryngitis]])?
+			- [[chronic bronchitis]] -> ^5c8f32
+				- [[productive cough]] (batuk berdahak)?
+				- [[wheezing]]/mengi?
+				- [[dyspnea]] (sesak napas)?
+				- [[chest discomfort]]?
+			- [[pulmonary fibrosis]] -> ^e163b4
+				- [[dry cough]] (batuk kering)?
+				- [[dyspnea]]?
+				- [[fatigue]]?
+				- unexplained [[weight loss]]?
+				- [[cyanosis]]?
+			- recurrent [[otitis media]] (PGI Gastro 2022)
+				- nyeri telinga?
+				- gangguan pendengaran?
+				- [[fever]]?
+		- efek refleks vagovagal:
+			- bronkospasm:
+				- batuk/ [[chronic cough]]
+				- [[asthma]]
+				- [[chronic bronchitis]] (see [[ceklis pertanyaan GERD#^5c8f32|above]])
+				- [[arrhythmia]]
+	- alarm symptoms: (a/w diagnosis banding/komplikasi GERD) ^ad1503
+		- [[dysphagia]] (sulit menelan)? <- [[esophageal stricture]] (komplikasi), ...
+		- [[odynophagia]] (nyeri saat menelan)? <- [[infectious esophagitis]] (dd), ...
+		- gejala bronkial berulang:
+			- ![[ceklis pertanyaan GERD#^5c8f32]]
+			- ![[ceklis pertanyaan GERD#^e163b4]]
+		- [[aspiration pneumonia]]:
+			- batuk?
+			- [[fever]]?
+			- [[dyspnea]]?
+			- [[wheezing]]?
+			- [[chest pain]]?
+		- [[dysphonia]] (suara serak)?
+		- batuk berulang/persisten? <- ([[chronic bronchitis]], [[pulmonary fibrosis]], see above)
+		- perdarahan saluran cerna: <- perforasi
+			- BAB berdarah? warnanya apa (merah atau hitam/gelap)? <- [[hematochezia]], [[melena]]
+		- mual/muntah sering? <- [[esophageal stricture]], keganasan ([[esophageal adenocarcinoma]]/[[gastric cancer]] -> [[gastric outlet obstruction]]), severe [[esophageal motility disorder]] ([[achalasia]], [[diffuse esophageal spasm (DES)]]); or even dd ke metabolik/neurological
+			- muntah darah? <- [[erosive esophagitis]]
+		- nyeri persisten? <- [[duodenal ulcer]], [[gastric ulcer]], ..., [[angina pectoris (chest pain of CAD)]]
+		- [[iron deficiency anemia (including pregnancy discussion)|iron deficiency anemia]]? <- perforasi ([[duodenal ulcer]], [[gastric ulcer]])
+		- unintended [[weight loss]], progressive? <- keganasan ([[esophageal adenocarcinoma]], [[gastric cancer]])
+			- nafsu makan berkurang? <- [[dysphagia]], [[odynophagia]] (see above for implication); [[gastric ulcer]] (food exacerbate pain); chronic inflammation (due to chronic [[gastritis]], [[peptic ulcer disease]], ...); in general points toward organic GI problem rather than functional
+		- [[lymphadenopathy]]? <- keganasan (metastasis [[esophageal adenocarcinoma]]/[[gastric cancer]]; or infeksi w GERD-like symptom) ^821574
+		- massa pada regio epigastrik? <- [[gastric cancer]], ...
+		- [ ] gejala atipikal dg onset pada usia 45-55 th? (more sinister pathology but need to read more)
+		- riwayat keluarga [[esophageal adenocarcinoma]]/[[gastric cancer]]?
+	- [ ] gejala DD lainnya?
+- RPD
+	- riwayat hernia hiatal?
+- riwayat pengobatan
+	- riwayat konsumsi NSAID? <- [[peptic ulcer disease]]
+- RF:
+	- riwayat keluarga:
+		- yang GERD juga?
+		- riwayat keganasan/kanker esofagus/lambung?
+	- obesitas? (see [[ceklis pertanyaan GERD#^d9556a|below]])
+	- merokok?
+	- psikologis: depresi, anxietas?
+
+# pemfis
+- TTV:
+	- BP:
+		- [[hypertension]] as risk for [[coronary artery disease (CAD)]] <- support dd [[angina pectoris (chest pain of CAD)]]
+		- high BP due to lack of sleep? <- indicate severity of symptom?
+	- HR:
+	- suhu:
+		- [[fever]]? <- (recurrent [[otitis media]], [[aspiration pneumonia]])
+	- RR:
+		- increased <- signs of respiratory distress <- ([[chronic bronchitis]], [[pulmonary fibrosis]], [[asthma]]; see above)
+	- SpO2:
+		- low? <- [[pulmonary fibrosis]], ...
+- antropo:
+	- BMI: (obesitas is risk factor) ^d9556a
+	- [[waist circumference (lingkar pinggang)]]: obesitas as risk factor
+- status generalis:
+	- kepala:
+		- mata:
+			- konjungtiva anemis? <- ([[iron deficiency anemia (including pregnancy discussion)|iron deficiency anemia]] due to perforation)
+			- lakrimal: mata kering? <- dd [[Sjögren syndrome]] (see PGI Gastro p. 11 for association with GERD)
+		- hidung:
+			- ![[batuk pilek#^4c6364]] <- ([[chronic sinusitis]])
+		- telinga:
+			- membran timpani:
+				- hiperemis? sekret? <- [[otitis media]]
+		- mulut:
+			- gigi: [[dental erosion]]?
+			- mukosa/faring: lesi? hiperemis? ([[pharyngitis]])
+				- laringoskop indirek:
+					- laring: hiperemis? <- [[laryngitis]]
+	- leher:
+		- palpasi:
+			- KGB: pembesaran? <- [[lymphadenopathy]] ([[esophageal adenocarcinoma]], ...)
+	- toraks:
+		- paru:
+			- inspeksi:
+				- retraksi? <- [[chronic bronchitis]]
+				- [[barrel chest]] <- [[chronic bronchitis]]
+				- napas dangkal? <- [[pulmonary fibrosis]]
+			- palpasi:
+				- chest expansion menurun? <- [[pulmonary fibrosis]]
+			- auskultasi:
+				- [[wheezing]]/[[rhonchi]]? <- [[chronic bronchitis]], [[asthma]]
+			- perkusi:
+				- [[hypersonor]] <- [[chronic bronchitis]]
+				- [[dull]] at bases <- [[pulmonary fibrosis]] (loss of volume due to fibrosis)
+	- abdomen:
+		- inspeksi:
+			- massa, terutama epigastrik? <- [[gastric cancer]]
+		- palpasi:
+			- massa, terutama epigastrik? <- [[gastric cancer]]
+		- [ ] auskultasi:
+		- [ ] perkusi:
+	- ekstremitas:
+		- [[clubbed fingers]] <- ([[pulmonary fibrosis]] <- manifestasi ekstraesofageal)
+
+# usulan pp
+- [[electrocardiography (ECG or EKG)]] <- (dd [[angina pectoris (chest pain of CAD)]]), esp elderly
+- [[PPI test]]
+- [[endoskopi saluran cerna bagian atas]] <- indikasi: alarm symptoms (see [[ceklis pertanyaan GERD#^ad1503|above]]), atau [[PPI test]] inadekuat (see: [[PPI test]])
+- other/advanced tests:
+	- [[esophageal manometry]] <- indikasi: utk menyingkirkan dd [[esophageal motility disorder]] ([[achalasia]], [[diffuse esophageal spasm (DES)]])
+	- histopatologi
+

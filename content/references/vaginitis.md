@@ -1,0 +1,16 @@
+
+- bakterialis
+	- pH di atas 4.5 (sabun)
+	- bau amis
+	- keabua2an
+- trikomoniasis
+	- keputihan kehijauan
+	- stroberi serviks
+	- mikroskop
+		- parasit (flagella trikomonas)
+- kandidiasis
+	- keputihan putih kental
+	- ada seperti tepung (hifa)
+- gonore
+	- gram: diplokokus
+	- 
