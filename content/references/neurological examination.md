@@ -47,6 +47,11 @@ Status Neurologis:
     - Penglihatan kabur: (-/sulit dinilai)
     - Bradikardia (-)
     - Papiledema: (-/sulit dinilai)
+- Tanda iritasi radiks (servikal):
+    - Manuver Valsalva: (-)
+    - Compression test: (-)
+    - Lhermitte's sign: (-)
+    - Tinel sign (brachial plexus compression test): (-)
 - Saraf Kranial
     - CN I: tidak dinilai
     - CN II: tidak dinilai

@@ -20,8 +20,8 @@ trigger sx
 		- locate nyeri atau kesetrum menjalar sesuai [[dermatome]]
 	- klo servikal:
 		- [[compression test (cervical nerve root exam)]]
-		- [[Lermit sign (head flexion)]]
-		- [[Tinnel sign]]
+		- [[Lhermitte sign (head flexion)]]
+		- [[Tinel sign (brachial plexus compression test)]]
 	- klo torakal biasanya terasa spt diiket sabuk setinggi umbilical
 		- tdk ada maneuver khusus, hanya valsalva
 	- [[lumbosacral radiculopathy]]
