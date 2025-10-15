@@ -3,6 +3,13 @@ daftar dosis dan sediaan obat (anak dan dewasa) https://www.scribd.com/doc/11652
 dosis obat anak https://www.scribd.com/document/149861470/Dosis-Obat-Anak?_gl=1*191e0a1*_gcl_au*NjAxMjQyMDA0LjE3NTYxODk1MTA.
 
 
+# trivia2
+- antibiotik injek kaya tipes minimal 6x (3 hari, 2x1). jd hari keempat udh bisa pulang meski baru dapet injek yg pagi (nnt oral nya mulai lgsg dari sore/malem)
+- klo yg diinjek antibiotik boleh ga kurang dari 3 hari itu td? bs aja klo dr segi obat mah tp kekurangannya nnt hrs lanjut obat oral yg setara yg injek kaya sefiksim sementara ga dicover bpjs (?) jd hrs ngeresepin sendiri beli sendiri gt sementara teorinya klo bpjs gaboleh ngeresepin di luar bpjs
+- bu risna: amoks bs tambah mencret jd diganti kotri/sefadroksil; klo pencernaan sm sal napas mah kotri krn kotri lbh aman.
+- bu risna: cefo di bawah ceftri; jd yg masih ringan2 mah cefo dl aja jgn ceftri dl misal anak2 apalagi. klo ga mempan ato ada alergi cefo baru ceftri.
+- amoks metro dobel kasi 5 hari misal sinusitis
+
 # nyeri2
 - nyut2an: pct
 - pusing muter: beta histin
@@ -15,10 +22,25 @@ dosis obat anak https://www.scribd.com/document/149861470/Dosis-Obat-Anak?_gl=1*
 	- sipro tp sipro bikin resisten OAT jd jgn
 	- klo TCM (-), BTA (-), ronsen (-), kasi sefadroksil slm 2 minggu aja + simtomatik (e.g. GG, CTM) 
 
+# dbd
+klo dbd jangan pake rani sm kloram/tiam krn bisa bikin rani turun
+
 # keluhan lambung
 - klo trombosit aman, boleh ranitidine. klo ga, ondan. klo blm di lab, biar aman ondan dl.
 # tifoid
-- tiamfenikol bs bikin trombosit turun -> jd kasi sefadroksil aja. klo amox udh resisten.
+- tiamfenikol/kloram bs bikin trombosit turun -> jd kasi sefadroksil aja. klo amox udh resisten.
+	- ato bs jg sefiksim dl cm kan ga bpjs, jadi diganti sefad. trs amox selain itu spt dijelaskan di atas, bs bikin mencret jd liat klinis jg.
+- sefiksim ga dicover bpjs jadinya ganti sefadroksil
+- sipro spt dijelaskan di atas bikin resisten OAT jd jgn
+- brti alt nya kotri (klo kloram/tiam jgn krn trombo ato misal abis; dan sefad gada misal)
+- summary:
+	- trombo aman + obat tersedia? --> tiam/kloram.
+		- trombo ga aman/obat ga tersedia?
+			- --> gpp resep di luar bpjs -> sefiksim
+			- --> klo jgn resep luar bpjs -> sefad
+				- sefad gada? -> kotri
+					- kotri gada?
+	- misal dokter ngeresepin amoks, cek: mencret ga; klo ya, brti ganti sesuai yg di atas. ato klo memang ada pilihan lain di atas, itu jg aja krn bisi udh resisten. sipro jg gt.
 
 ![[Pasted image 20250920000240.png]]
 ![[Pasted image 20250920000400.png]]
