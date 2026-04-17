@@ -1,4 +1,4 @@
-also see: [[obesity in pregnancy]]
+balso see: [[obesity in pregnancy]]
 
 - obs fisiologi: ![[Pasted image 20250325004216.png]]
 - ![[Pasted image 20250325004259.png]]

@@ -1,5 +1,8 @@
 [[breaking bad news]], [[BATHE (counseling)]], [[lembar kerja kunjungan rumah (home visit)]]
 
+- aspek risiko internal = biopsiko; eskternal = sosial
+- [ ] baca tentang aturan rumah sehat
+
 tools: [[SCREEM]], [[family map]], [[genogram]], [[APGAR (family medicine)]], [[pemeriksaan geriatri (geriatric assessments)]], 
 
 [Docs sample case](https://docs.google.com/document/d/17tR4Z8J_mw-9mRdYNWa7M01N352MMmNLO7M69S6Tccs/edit?usp=drivesdk)
