@@ -1,3 +1,9 @@
+
+summary PPK
+- simtomatis: [[propranolol]] 40-80 mg dalam 2-4 dosis
+- [[propylthiouracil (PTU)]] 300-600 mg dalam 3 dosis bila klinis Graves jelas (wayne index?)
+		- [[methimazole]] lebih prefer in general krn less hepatotoksik (?), jd gampangnya first line metimazol aja dg pengecualian pd hamil trimester 1 PTU dulu (mnemo: PTU protects trimester u(o)ne) abistu balik metimazol.
+
 base source: Greenspan
 also see: [[Wayne hyperthyroid index]]
 

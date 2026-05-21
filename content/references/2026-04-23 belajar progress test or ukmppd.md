@@ -173,13 +173,13 @@ menurut saya, diagnosis ini (F34.1) lebih tepat dibandingkan F32.00 (episode dep
 sehingga, balik ke pilihan jawaban, yang paling tepat adalah D. distimia. (lagipula memang tidak ada pilihan depresi ringan tanpa gejala somatik. kalau ada pilihan itu, nah lebih ambigulah, tapi untungnya soalnya bagus sehingga menghindari itu.)
 
 ## no. 21, DV
-![[Pasted image 20260425155629.png]]
-dx: skabies.
-PERDOSKI:
-![[Pasted image 20260425155714.png]]
-- yg 1 hari aja biasanya diulang 1 pekan, 8 jam. = permetrin 5%, lindane (gameksan) 1%
-- yg 3 hari berturut2 pasti 8 jam = sulfur 5-10%, krotamiton 10%.
-- yg paling lama = 24 jam = benzil benzoat (namanya paling panjang)
+- skabies ![[Pasted image 20260425155629.png]] ^18325f
+	- dx: skabies.
+	- PERDOSKI: ^19aae9
+		- ![[Pasted image 20260425155714.png]]
+		- yg 1 hari aja biasanya diulang 1 pekan, 8 jam. = permetrin 5%, lindane (gameksan) 1%
+		- yg 3 hari berturut2 pasti 8 jam = sulfur 5-10%, krotamiton 10%.
+		- yg paling lama = 24 jam = benzil benzoat (namanya paling panjang)
 
 ## no. 30, anak (blm yakin)
 ![[Pasted image 20260425160632.png]]
@@ -195,9 +195,6 @@ awalnya berpikir karena baru diberikan 1x diazepam rektal, maka step berikutnya 
 
 ##  no. 146, THT hidung
 
-![[Pasted image 20260424155140.png]]
-
-![[Pasted image 20260424155155.png]]
-
-- membedakan kapan pake ekspektoran dan mukolitik?
-  ![[Pasted image 20260424155132.png]] ^becc76
+- ispa ![[Pasted image 20260424155140.png]] ^dcfd54
+	- ![[Pasted image 20260424155155.png]]
+	- membedakan kapan pake ekspektoran dan mukolitik? ![[Pasted image 20260424155132.png]] ^becc76

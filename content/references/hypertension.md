@@ -19,6 +19,10 @@
 read pedoman hipertensi di fktp p. 8-...
 ## ukur TD
 see: [[blood pressure]]
+
+![[Pasted image 20260521202258.png]] (AHA 2025)
+![[Pasted image 20260521203354.png]]
+![[Pasted image 20260521203401.png]]
 ## anamnesis
 see p. 13, also:
 ![[Pasted image 20250427185927.png]]
@@ -58,6 +62,15 @@ also: [[WHO cardiovascular disease risk chart]]
 #### protokol pengobatan farmakologis
 p. 35
 ![[Pasted image 20250427190427.png]]
+
+bandingkan dg 2025 AHA/...
+![[Pasted image 20260521201909.png]] (2025 AHA/...)
+![[Pasted image 20260521202010.png]]
+![[Pasted image 20260521202119.png]]
+![[Pasted image 20260521202159.png]]
+
+
+
 #### kontraindikasi dan efek samping pengobatan
 p. 39
 ![[Pasted image 20250427190456.png]]

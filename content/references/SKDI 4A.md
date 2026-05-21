@@ -1,2 +1,160 @@
 
 ![[tingkat keterampilan (kemampuan) SNPPDI or SKDI#^a355a7]]
+
+# belajar
+- [[otitis eksterna]]
+- [[skabies]]
+- [[ISPA]] --> obat amannya pc aja semua
+	- mukolitik
+		- [[ambroxol]]
+		- [[bromhexine hcl]]
+		- [[acetylcysteine]]
+	- ekspektoran
+		- [[glyceryl guaiacolate (guaifenesin)]]
+	- dekongestan
+		- [[pseudoephedrine]]
+		- [[triprolidine hcl]]
+		- tremenza = pseudo + trip
+	- [[cetirizine]]
+	- [[CTM]]
+- [ ] dosis anak
+	- [[dexamethasone]]
+- [[nyeri kepala primer]]
+	- [[TTH]]
+	- [[migraine]]
+	- [[cluster headache]]
+- mual
+	- [[domperidone]]
+	- [[metoclopramide]]
+- [ ] fokus sediaan dan frekuensi obat.
+	- [[ranitidine]]
+	- [[omeprazole]]
+	- [[paracetamol]]
+- hipertensi first encounter
+	- [[hypertension]] -> summary dari AHA 2025:
+		- penegakan diagnosis = AHA 2025: minimal 2x pengukuran dg jarak 1 menit per kunjungan, pada minimal 2 kunjungan yg berbeda (tdk ada ketentuan jarak waktunya) dan diperoleh tensi di atas normal.
+			- cutoff AHA 2025 -> normal <120/80, elevated 120-129 / <80; stage I: 130-139 / 80-89; stage II: >= 140 / >= 90.
+		- kapan mulai diberi obat:
+			- utk stage I boleh mulai monoterapi dg tiazid, ARB/ACEi, CCB
+				- menurut guideline FKTP 2024 kemenkes, yg paling umum yakni CCB berupa amlodipin dosis awal 5 mg, evaluasi dalam 1 bulan (jd minum dulu 1 bulan 1x5 mg tiap hari), bila belum turun brti naikkan dosis jadi 10, klo dlm 1 bulan blm turun jg naik ke kombinasi 2 obat dg amlo tetep di 10.
+			- utk stage II direkomendasikan kombinasi 2 obat dg tiazid, ARB/ACEi, CCB
+				- menurut guideline FKTP 2024 kemenkes, yg dipake CCB amlo + ACEi lisinopril, dosis awal amlo 10 lisi 10. evaluasi 1 bulan klo blm turun naikkan dosis jadi amlo 10 lisi 20. 1 bln lagi klo blm naik jd kombinasi 3 obat: amlo 10, lisi 20, HCT 25 (tiazid); 1 bln lg kl blm amlo 10 lisi 20 HCT 50, klo 1 bln blm jg dan tdk ada kendala kepatuhan/teknis, baru rujuk FKTRL.
+- [[infeksi saluran kemih (ISK)]] (sistitis)
+	- pielo sama pria/wanita, bedanya durasi 7-10 hari ok.
+- edema paru misal acute decompensated HF dengan edem paru kardiogenik
+	- tx awal furosemid 20-40 mg IV bolus; IV utk kondisi akut/darurat; oral utk maintenance spt konteks rajal/kontrol poli
+- [[hyperthyroidism]] -> [[thyrotoxicosis]]
+- [[GERD]] --> kuncinya rasa terbakar, regurgitasi; klo pd malam hari krn posisi tidur refluks. bedanya sm dispep either begah atau dominan nyeri (bukan terbakar)
+- [[dengue fever]]
+	- kriteria awal DHF:
+		- Hct meningkat ≥ 20%
+		- Hct ≥ 45%
+		- efusi pleura; asites; ronki basah (jika salah satu dari 3 ada aja, maka positif kebocoran plasma)
+	- grading DHF:
+		- grade 1: blm ada perdarahan spontan, jd rumpel leede +
+		- grade 2: perdarahan spontan, ptekie tanpa rumpel leede, gusi berdarah mimisan etc
+		- grade 3: pre syok -> <90/60, pulsasi lemah cepat, dsb., **tekanan nadi (PP) ≤ 20 mmHg**
+		- grade 4: syok -> tensi nadi tdk teraba...
+	- tx:
+		- grade I dan II: IV kristaloid 7 cc/kgbb/jam
+		- grade III: iv kristaloid 10-20 cc/kgbb/jam
+		- grade IV: iv kristaloid 20 cc/kgbb/15-30 menit (guyur)
+- [[croup]] (eh tp croup ga masuk skdi; klo pertusis emg 4A cm kan udh ada vaksin DTP juga jd memang ga sebanyak itu kali ya kasusnya)
+	- [[croup vs pertussis]]
+- duh tubuh vagina
+	- [[vaginitis]]
+	- [[servisitis]]
+- [[duh tubuh uretra pria or uretritis]]
+- [[asthma]]
+	- eksaserbasi ringan-sedang (dewasa, dewasa muda, anak 6-11 tahun)
+		- SABA inhalasi, 4-10 puff setiap 20 menit dengan total 3 dosis; bila membaik setelah 1 jam, tidak perlu SABA lagi. bila menetap atau kambuh, SABA bervariasi 4-10 puff per 3-4 jam hingga 6-10 puff per 1-2 jam atau lebih sering.
+			- SABA inhal 4 puff setara nebules **2.5 mg** (bisa diencerkan dalam NaCl 0.9% 2cc)
+		- ICS-formoterol lebih ideal dibandingkan SABA; maks total 12 inhalasi dalam 24 jam.
+		- suplementasi oksigen: target SpO2 93-95% (atau ≥94% pada anak 6-11 th). SpO2 jangan melebih 96% pada dewasa.
+- [[hyperuricemia-gout arthritis]]
+	- akut: kolkisin 1 mg dosis awal -> 0.5 mg setelah 1 jam -> evaluasi dalam 12 jam kemudian apabila masih nyeri berikan 0.5 mg per 8 jam hingga nyeri reda atau maksimal 6 mg (total 12 tablet sejak dosis pertama) berturut-turut telah dikonsumsi.
+	- penurun au:
+		- alopurinol dosis awal 1x100 mg -> evaluasi 2-4 minggu -> bila belum tercapai target, naikkan misal per 100 mg jadi 1x200 mg dst., dosis maks 800 mg.
+		- febuxostat 1x40 mg -> evaluasi 2-4 minggu -> bila blm tercapai target, naikkan mgkn per 40 mg? maks 120 mg.
+- apendisitis akut (chatgpt)
+	- AB perioperatif: seftri + metronidazol utk cover gram negatif dan anaerob.
+- ACS
+	- terapi awal
+		- aspirin LD 160-320 mg sesegera mungkin saat SKA tegak.
+		- oksigen hanya bila <90%
+		- [ ] nitrat (ISDN) SL 5 mg (bisa diulang 3x? dalam waktu...?)
+		- fokus itu dulu weh
+- diare akut anak [[diare akut]]
+	- zinc cut off: 6 bln. < 6 bln 10 mg, ≥ 6 bln 20 mg.
+	- [ ] detail cairan per kg bb nantilah ya
+- diare basiler/shigellosis (WHO AWARE)
+	- dewasa
+		- kolera
+			- 1st line:
+				- **azitromisin 1g oral dosis tunggal (klo tetra sm kuinolon mulai resisten)**
+				- **doksisiklin 300 mg oral dosis tunggal ATAU 2x100 mg (per 12 jam) selama 3 hari**
+			- 2nd line: siprofloksasin 1g oral dosis tunggal
+		- in general (non-kolera)
+			- 1st line: **sipro 500 mg tiap 12 jam oral selama 3 hari**
+			- 2nd line:
+				- azitromisin oral, hari 1 500 mg tiap 24 jam; hari 2-4 250 mg tiap 24 jam. total durasi pengobatan 4 hari. (azitro terutama klo resistensi sipro)
+				- sefiksim 400 mg per 24 jam oral selama 3 hari
+				- kotri 960 mg per 12 jam oral selama 5 hari
+				- seftri 1g per 24 jam iv/im selama 3 hari
+		- amuba (or kalo antibiotik di atas ga mempan2 dan/atau diare lebih kronis, cenderung ke parasit tuh)
+			- -> gada di WHO AWARE tapi di PPK metro 3x500 mg selama 7 hari. klo di catetan ukdi corner: amuba dewasa metro 3x500, anak metro 30 mg/kgbb (kayanya bagi 3 dosis; krn dosis per kali IDAI 7.5 - 10 mg/kgbb); balantidiasis sama cuma ada tambahan tetra 4x500 mg (dewasa); kalo giardiasis metro 3x250 mg dewasa, 15 mg/kgbb anak (intinya setengahnya), tp biar gampang brti ambillah **3x500 mg patok rata semua parasit (ato klo anak brti yg 7.5 - 10 mg/kgbb/kali, 3x beri)**
+	- anak
+		- kolera
+			- 1st line: **azitro 20mg/kg oral dosis tunggal**
+			- 2nd line:
+				- sipro 15 mg/kg oral dosis tunggal -> eh tp gmn kontraindikasi pd anak
+				- doksisiklin oral dosis tunggal
+					- <45 kg (< 12 tahun): 2-4mg/kg
+					- >45 kg (> 12 tahun): 300 mg
+		- non-kolera
+			- 1st line: sipro 15 mg/kg per 12 jam oral ![[Pasted image 20260521232046.png]]
+			- 2nd line:
+				- azitro 10 mg/kg/dosis per 24 jam oral selama 4 hari
+				- **sefiksim 10 mg/kg/dosis per 24 jam oral selama 5 hari**
+				- kotri 20+4 per 12 jam oral selama 5 hari ![[Pasted image 20260521232139.png]]
+				- seftri 80 mg/kg/dosis per 24 jam iv/im selama 3 hari
+- 
+- [[typhoid fever]] (WHO AWARE)
+	- dewasa
+		- 1st line (risiko rendah resisten kuinolon): sipro 500 mg per 12 jam oral; durasi 7 hr (ringan) atau 10 hari (berat), that bila membaik secara klinis dan pasien tidak demam selama 48 jam setelah durasi tsb.
+		- 2nd line (risiko tinggi kuinolon)
+			- kasus ringan: azitro 1g 1 kali pada hari pertama, lalu 500 mg per 24 jam oral. durasi ngikut di atas
+			- kasus berat: seftri 2g per 24 jam iv. durasi ngikut di atas.
+	- anak (durasi ngikut di atas)
+		- 1st line: sipro 15 mg/kg/dosis per 12 jam oral ![[Pasted image 20260521232839.png]]
+		- 2nd line: 
+			- ringan: azitro 20mg/kg/dosis per 24 jam oral
+			- berat: seftri 80 mg/kg/dosis per 24 jam iv
+- [ ] [[rinitis alergi]]
+- [[B02 herpes zoster (cacar air)]] (PPK 2017)
+	- dewasa: 5x800 mg/hari selama 7 hari
+	- anak: 4x20 mg/kgbb (dosis maks 800 mg) selama 7 hari
+- [[extrapyramidal syndrome (EPS)]]
+	- PPK:
+		- tremor, kekakuan, akinesia: [[triheksifenidil]] 2-4 x 2mg
+		- distonia akut: inj. [[diazepam]] atau difenhidramin
+		- akatisia (gelisah, gabisa diem): [[propranolol]] 2-3 x 10-20 mg.
+- [ ] TB
+	- regimen OAT apa si yg klasik sebutannya: 2RHZE/4RH
+- BPH SKDI 2.
+- psikiatri yg 4A
+	- gangguan somatoform
+		- di PPK cm gini: ![[Pasted image 20260521234934.png]]
+		- klo ukdi corner:
+			- antidepresan SSRI, pilihan:
+				- fluoxetine 20-40 mg
+					- MIMS: klo ada depresi, 1x20 mg/hari, bisa single dose ato terbagi juga sbnrnya. eval 3-4 minggu, titrasi; max dose 60 mg. durasi at least 6 bln.
+				- sertralin 50-100 mg
+	- insomnia
+	- intok akut zat psikoaktif (3B)
+	- tp most key diagnoses 3A sih artinya ada tx awal jg.
+		- gangguan campuran kecemasan dan depresi: ![[Pasted image 20260521235436.png]]
+- mata
+	- konjungtivitis
+	- blefaritis
+	- 
