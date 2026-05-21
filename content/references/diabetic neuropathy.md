@@ -15,6 +15,9 @@ base source: Harrison
 	- [[hypertriglyceridemia]]
 	- [[hypertension]]
 
+# diagnosis
+![[2026-05-06 AC FM#^cc26f3]]
+
 # treatment
 - prevention via glycemic control
 - tx is less than satisfactory

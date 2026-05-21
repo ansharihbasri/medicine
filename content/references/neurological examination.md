@@ -81,6 +81,8 @@ Status Neurologis:
     - Ekstremitas bawah
         - Kanan: atrofi, hipotonus, kekuatan motorik 1
         - Kiri: atrofi, hipotonus, kekuatan motorik 2
+- Pemeriksaan Sensorik:
+	- ...
 - Refleks fisiologis
     - Bisep (sulit dinilai/+)
     - Triceps (++/+)
