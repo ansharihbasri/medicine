@@ -9,6 +9,9 @@ dosis anak:
 package insert:
 - dewasa 2-4 tablet (200-400 mg) tiap 4 jam (6x beri)
 
+klinik GM cilamaya:
+- 50 mg/kg BB 4x sehari
+
 https://www.honestdocs.id/glyceryl-guaiacolate
 - < 2 th: 12 mg/kg/hari bagi 6 dosis
 - 2-5 th: 6 x 50-100 mg
