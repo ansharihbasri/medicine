@@ -63,6 +63,12 @@ summary obat anak
 	- [[cetirizine]]
 	- [[CTM]]
 - [ ] [[rinitis alergi]]
+- sinusitis epos 2020
+	- sinusitis akut (< 12 minggu):
+		- acute viral rhinosinusitis: antibiotik no, nasal steroid no, antihistamine limited benit hy pd hari 1-2 treatment tp tdk selanjutnya, dekongestan dosis multipel mungkin berdampak positif sedikit thd keluhan subjektif tp kurang bukti terkait sediaan oral vs nasalnya, pct ditemukan beneficial utk nasal congestion dan rinore tp tdk utk batuk, bersin, atau nyeri tenggorok; nsaid direkom utk nyeri dan bersin, meski tdk utk batuk atau nasal discharge; vit c bs dipertimbangkan; regular moderate intensity exercise bs prevent; 
+		- acute bacterial rhinosinusitis (krit: ≥ 3 of: discoloured discharge, severe unilateral dominance facial pain, high fever > 38, double sickening or raised ESR/CRP. rekomendasi: antibiotik, amox 3x500 durasi 5-10 hari. AB pada anak masih kurang evidence yg mendukung.
+		- sinusitis post viral (> 10 hari atau memburuk setelah 5 hari, tp total masih < 12 hari): antibiotik no, nasal steroid reduce total symptoms score but small effect. avoid oral steroid. AH tdk rekom utk post viral ARS dan ABRS. dekongestan cant advise.
+	- sinusitis kronis (≥ 12 minggu): nasal steroid long term rekomend, meski tdk ada advise delivery method ataupun dosis
 ## mulut
 - tonsilitis/faringitis (in this case sama tx nya)
 	- ukdi corner: amoks 1st line universal utk THT. 
@@ -106,9 +112,22 @@ summary obat anak
 - [[GERD]] --> kuncinya rasa terbakar, regurgitasi; klo pd malam hari krn posisi tidur refluks. bedanya sm dispep either begah atau dominan nyeri (bukan terbakar)
 	- [[omeprazole]] PPK: dosis tinggi 2x20 mg (untuk PPI test), ato klo dosis rendah brti 1x20mg rumatan (tergantung kondisi sih, titrasi gt kan)
 	- [[ranitidine]] PPK: 2x150 mg bila PPI tidak ada
+- dispepsia second asian consensus report on functional dyspepsia 2025:
+	- PPI may be continued for those with symptom benefit but should be discontinued if lack of response after 12 weeks. (less robust evidence for asian)
+	- H2 receptor antagonist may be considered. results show particularly may be mote effective on asian compared to western population
+	- prokinetics may be effective in some FD patients regardless of subtype. but more robust RCT is needed to fully elucidate effect. 
+	- fundic relaxant drug may be effective in improving FD esp. PDS. e.g. acotiamide
 ## genitourinari
 - [[infeksi saluran kemih (ISK)]] (sistitis)
 	- pielo sama pria/wanita, bedanya durasi 7-10 hari ok.
+	- sistitis akut pnpk 2025
+		- nonkomplikata (wanita tdk hamil): kotri 2x960 @ 3 hari / cipro 2x250 atau 1x500 @ 3 hari / amox 3x500 @ 7 hari / cefixime 1x400 @ 7 hari
+		- bumil: amoks 3x500 @ 3 hari / cefixime 1x400 @ 3 hari 
+		- pria: kotri 2x960 @ min. 7 hari / cipro 2x250 atau 1x500 @ minimal 7 hari
+	- pielonefritis pnpk 2025
+		- wanita tdk hamil: cipro 2x500 atau 1x1000 @ 7 hari / kotri 2x960 @ 7-14 hari / amox 3x500 @ 14 hari / cefixime 1x400 @ 14 hari
+		- bumil: penicillin atau cephalosporin, durasi tdk tertera jd asumsi sama, so: amox 3x500 @ 14 hari / cefixime 1x400 @ 14 hari
+		- pria ga disebutkan, mgkn ngikut wanita
 - BPH SKDI 2.
 ## dermatovenereologi
 - [[B05 measles (rubeola or morbili or campak)]]
@@ -200,6 +219,13 @@ summary obat anak
 	- penurun au:
 		- alopurinol dosis awal 1x100 mg -> evaluasi 2-4 minggu -> bila belum tercapai target, naikkan misal per 100 mg jadi 1x200 mg dst., dosis maks 800 mg.
 		- febuxostat 1x40 mg -> evaluasi 2-4 minggu -> bila blm tercapai target, naikkan mgkn per 40 mg? maks 120 mg.
+- diabetes perkeni 2021
+	- hba1c < 7.5% saat diperiksa: monoterapi. bila dlm 3 bulan blm capai < 7%, tambah jadi 2 obat.
+	- ≥ 7.5% saat diperiksa awal: kombinasi 2 obat (misal plg umum metformin + glimepiride). bila blm capai < 7% dlm 3 bln, tambah jd 3 obat. klo udh 3 obat blm juga capai < 7% dlm 3 bln, tambah insulin atau intensifikasi insulin bila sblmnya sdh.
+		- metformin dosis awal 1x500 mg (alodok), glime dosis awal 1x1 mg (alodok)
+	- > 9% saat periksa awal:
+		- tanpa gejala klinis: komb 2 obat atau 3 obat
+		- dg gejala klinis: insulin +- obat lain
 ## psikiatri
 - [[extrapyramidal syndrome (EPS)]]
 	- PPK:
