@@ -318,6 +318,8 @@ summary obat anak
 	- AB perioperatif: seftri + metronidazol utk cover gram negatif dan anaerob.
 # obgyn
 - [ ] preeklampsi
+- [[perdarahan per vaginam]]
+- [[ppk obgyn rshs 2021]]
 # pediatri
 - [[kejang demam]]
 ## misc
