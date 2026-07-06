@@ -121,3 +121,9 @@
 - [ ] restriksi cairan
 - [ ] foto toraks
 - [ ] DVT
+- [ ] aritmia
+
+- [ ] ekg normal
+- [ ] ekg chamber enlargment
+- [ ] ekg iskemia
+- [ ] ekg aritmia
