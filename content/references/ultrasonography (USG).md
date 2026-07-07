@@ -6,4 +6,31 @@
 - [[fetal number_amnionicity_and chorionicity of multifetal gestations (ultrasound)]]
 - [[fetal anatomy assessment (ultrasound) including calvarium_nuchal region_ventral wall cord insertion_presence of limbs]]
 - [[maternal uterus_adnexa_cul-de-sac evaluation (ultrasound)]]
-- 
+
+# isuog
+- [[crown-rump length (CRL)]] should be used for gestational age determination (and EDD) when CRL is between 45-84 mm, or at 10+0 to 13+6 weeks gestation based on LMP. below that, delay until about that recommended range. beyond that, [[head circumference (HC)]] can be used as it becomes slightly more precise than [[biparietal diameter (BPD)]].
+- ISUOG: is LMP reliable? if no, preg dating exclusively from USG; if yes, change EDD (from LMP determination to USG determination) only if difference is > 5-7 days (if less than that, keep the original LMP dating.)
+	- but think it thru as well, since big discrepancies can also imply things like trisomy something that cause fetus much smaller than normal, etc.
+	- record in detail, both LMP and USG in antenatal care record: ![[Pasted image 20260706214430.png]]
+	- CRL formula recommended: Robinson. (in the machine)
+- head
+	- ![[Pasted image 20260706215249.png]]
+	- falx should always be midline; either there is no falx or it's not straight midline, in the latter case it's likely the probe position is incorrect
+- neck
+	- ![[Pasted image 20260706215638.png]]
+- face
+	- ![[Pasted image 20260706215730.png]]
+- spine
+	- ![[Pasted image 20260706215753.png]]
+- chest
+	- ![[Pasted image 20260706215812.png]]
+- heart
+	- ![[Pasted image 20260706215835.png]]
+- abdomen
+	- ![[Pasted image 20260706215954.png]]
+- abdominal wall
+	- ![[Pasted image 20260706220040.png]]
+- ext
+	- ![[Pasted image 20260706220049.png]]
+- ac
+	- ![[Pasted image 20260707075534.png]]

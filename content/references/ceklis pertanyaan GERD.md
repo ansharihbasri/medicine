@@ -131,7 +131,7 @@ base source: Harrison, PGI Gastro 2022
 		- [[clubbed fingers]] <- ([[pulmonary fibrosis]] <- manifestasi ekstraesofageal)
 
 # usulan pp
-- [[electrocardiography (ECG or EKG)]] <- (dd [[angina pectoris (chest pain of CAD)]]), esp elderly
+- [[electrocardiography (ECG or EKG) (dr miftah)]] <- (dd [[angina pectoris (chest pain of CAD)]]), esp elderly
 - [[PPI test]]
 - [[endoskopi saluran cerna bagian atas]] <- indikasi: alarm symptoms (see [[ceklis pertanyaan GERD#^ad1503|above]]), atau [[PPI test]] inadekuat (see: [[PPI test]])
 - other/advanced tests:

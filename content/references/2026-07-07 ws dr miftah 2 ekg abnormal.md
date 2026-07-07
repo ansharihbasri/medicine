@@ -1,0 +1,138 @@
+EKG abnormal yg umum:
+- chamber enlargement
+	- dilatasi vs hipertrofi -> sama2 kardiomegali, tp gtw besar di chamber atau ototnya
+	- cara tau ventrikel kanan vs kiri gmn di ekg?
+		- cek dari axis.
+		- tp kriteria utama bkn dari axis, tp dari perhitungan.
+			- kriteria LVH
+				- yg plg penting: sokolow-lyon > 35 = S V1/V2 + R v5/v6 > 35. pilih V1 atau V2 yg paling dalem. V6V5 juga gt.
+					- contoh: V1 5.5 KB (27) + V5 2.5 KB (12) = 39 brti masuk 
+			- kriteria RVH
+				- yg plg penting: R/S V1 > 1. jd visual aja bandingin R sm S nya lebih tinggi ga
+				- atau S persistent > 5 di V6 -> S yg ttp masih dalem; normalnya S kan makin ilang seiring beranjak ke V6. klo tetep gede brti itu masuk kriteria.
+		- AV node masuk his bundle, bb, purk
+		- 
+	- SA node di atrium kanan -> menyebar via serabut otot
+		- P wave dibagi 2: part pertama RA, part kedua LA. jd klo pembesaran di RA, jd setengah P pertama jd nonjol lebih gitu. jd klo dilatasi, listrik makin byk, voltase makin tinggi. krn listriknya bkn jadi makin panjang tp makin byk. klo LAE, P jd lebih panjang krn jadi lebih jauh; dan jd ada dua gitu kepisah (notch)
+			- cutoff -> P normalnya tinggi amplitudo maks 0.25 (2.5 kotak kecil). jd RAE klo >2.5 kk/0.25 mV. dulu disebutnya P pulmonal krn biasanya krn penyakit paru, PH, jadi RAE.
+			- durasi P normal 3 kk (0.12 s). klo > dari itu brti LAE, ato P mitral. krn biasanya ditemukan di mitral stenosis
+				- kriteria lain: P terminal force > 1 kk hanya di V1 krn daerah septal. dari P bifasik.
+			- bisa diliat di lead manapun. I sampe aVF, biasanya sama2 panjangnya cm paling jelas lead II.
+	- 
+- iskemia, infark, injury
+	- nyeri gabisa ditunjuk krn meski yg bermasalah di satu titik, se regio yg kena iskemi
+		- iskemi = imbalance supply demand. klo di jantung > 20 menit iskemi, jadi infark. klo di otak 5 menit.
+			- syarat:
+				- signifikan:
+					- ST dep, kalo ≥ 0.5 mm (1/2 kk)
+					- T inversi, kalo > 1 mm pada prominent R wave (R/S > 1)
+				- kontiguus:
+					- I, aVL lateral
+					- II, III, avF inferior
+					- v1 v2 septal
+					- v3 v4 ante
+					- v5, v6 lateral
+					- avR gada temen jd skip
+					- khusus utk limb lead, kalo misal V1-V5, anteroseptal lateral (meski cuma V5 yg lateral). jd yg penting ngurut angkanya
+		- infark = nekrosis
+			- syarat
+				- signifikan:
+					- ST elevasi (injury atau infark baru) ≥ 1 mm kecuali di lead V2-V3, krn di lead tersebut orang normal jg bisa ST elevasi.
+						- V2, V3
+							- laki2 < 40 -> ≥ 2.5 mm
+							- laki2 > 40 -> ≥ 2 mm
+							- wanita -> ≥ 1 mm
+					- q patologis di V2-V3 ≥ 0.02 s, atau QS complex di lead V2-V3. klo di lead lain ≥ 0.03 s (kira2 1 kotak lebih dikit) dan dalamnya ≥ 1 mm (gampangnya, 1 ke samping 1 ke bawah kotak kecil)
+		- injury = iskemi hampir infark (antara bs jadi iskemia ato infark)
+			- st elevasi
+	- yg diliat qrs complex, st segmen, t wave. liat di semua lead
+		- yg diliat Q nya aja
+	- syarat disebut infark/iskemi
+		- (1) signifikan
+		- (2) continuous
+- aritmia (disritmia)
+	- ritme = asal impuls
+		- knp sinus jadi pacemaker -> krn sinus firing rate (60-100x/m) plg cepet
+		- atrial muscle 50-60x/m
+		- av node + his bubdle (junctional) 40-50 x/m
+		- ventrikular <40 x/m
+			- bundle branch = 1% dari jantung (99%nya otot) yg specialized cell sbg penghantar listrik. jd listrik yg lewat situ arusnya cepet.
+			- vs klo listrik lewat otot, lambat, jadi makanya P rada lambat/landai, sementara QRS tajem cepet.
+			- ⭐️ eh gini, klo ventrikular sumbernya, nyebarnya lewat otot dl sampe ketemu jalur konduksi, makanya qrsnya lebar. tp klo supraventrikular dia semua ujungnya qrsnya pasti lewat jalur konduksi tadi jadi qrs sempit. again: klo ventrikular qrsnya jadi lebar.
+	- supraventrikular = SA, atrial, AV; ventricular = ventricular
+	- klo atrial lebih cepet dari sinus -> jd atrial rhythm. klo junctional lebih cepet dari sinus, jd junctional rhythm. ventricular rhythm jg gitu. jd rhythm itu dari mana dia berasal "(source) rhythm"
+	- kbykn takiaritmia/ bradiaritmia
+	- ⭐️ cepet = takikardi, lambat = bradikardi; sempit qrs = supra; lebar = ventri (plg byk di soal: svt, vt)
+	- lain2:
+		- atrial fibrilasi -> iregulerly ireguler (ireguler dan gada polanya jg). p bisa keliat bisa ga. yg penting qrs ireguler. ⭐️ klo ireguler kemungkinan besar afib.
+		- atrial flutter -> bisa reguler/ireg; ada saw tooth appearance (gel T spt gergaji)
+		- junctiojnal rhythm gada P nya
+		- ventricular rhythm qrsnya lebar
+		- ventricular fibrilation -> qrs chaotic gabisa keliat
+		- torsade de pointes -> VT krn cepet dan lebar (qrsnya berubah2)
+	- bradikardi -> gaharus tau; krn di acls gada baca ekgnya, yg penting tau bradikardi aja, krn penanganannya sama aja. klo taki harus diliat bedanya.
+		- av block: deg 123
+			- deg 1 = pr interval memanjang (> 0.20 detik)
+			- deg 2 = drop beat (QRS tiba2 ilang)
+				- tipe 1 mobitz -> + PR makin panjang sblm qrs hilang
+				- tipe 2 mobitz -> PR interval tetep, baru tiba2 qrs hilang
+			- deg 3 = P dan QRS ga nyambung, jalan sendiri2
+			- tingkat keparahan sesuai urutan.
+	- other:
+		- extrasystole (qrs di luar yg normal nyempil). tinggal liat lebar/sempit: klo lebar = ventricular extrasystole; klo sempit = sv extrasystole
+			- ventricular extrasystole (VES)
+				- klo bentuknya beda, brti jadi 2 sumber yg berbeda, jd dari ventrikular tapi dari titik ventrikel yg berbeda -> multifocal ventricular extrasystole
+				- coupled PVC/extrasystole (occurs in pairs)
+				- triplet PVC/extrasystole
+				- bigeminal PVC (every other beat is PVC) (selang seling)
+				- R on T (jd T wavenya kepotong sama QRS baru) -> cepet2 kasi tau dokter krn bisa VT, cardiac arrest
+			- atrial extrasystole
+			- ventricular asystole
+- 
+
+- klo axis 0 normal
+
+- "sinus rhythm, right axis deviation, right atrial enlargement, right ventricular hypertrophy"
+
+contoh2 lat soal
+- sinus, LAD, LAE
+- sinus, RAD, RVH, 
+	- (p normal, LVH gada)
+- sinus, axis normal, LVH, LAE
+	- gada RVH, p ga lebih dari 3 kk durasi (di lead III tryt lebih)
+
+- liat 2 kotak dari j point ke samping utk nentuin up/down sloping
+
+soal 
+- q? gada. ST?
+	- ST dep II, III, aVF; V5, V6 -> iskemi inferior, lateral
+	- ST elev aVL; V1, V2, V3, V4, -> infark anteroseptal
+	- infark anteroseptal, iskemi inferolateral
+	- ⭐️ tips; cb ngurut bacanya dri I II III dst dst
+	- ⭐️ nyarinya jg ngurut Q dulu dari awal sampe akhir, ST dari awal sampe akhir, T dari awal sampe akhir
+- q gada, ST 
+	- dep I aVL (lateral),V234 (anteroseptal)
+	- elev II III avf (inferior)
+	- dx: STEMI inferior (NSTEMI gitu2nya gausah disebut lagi)
+- elev II III avf, infark inferior
+	- dep V234 iskemia tp anteroseptal
+		- dx STEMI inferior (tp klo infark baru pure st elev aja; klo infark lama dlm beberapa hari jd q pato tapi st elevnya masi menetap; klo makin lama nanti q pato aja stnya normal lg)
+	- q pato 2 3 avf = infark lama
+- dep I II III avf inferior ; 3456 anterolateral
+	- elev 
+		- q pato V1, 
+			- NSTEMI infero anterolateral
+- dep v23 (tp krit? ga msk), v456 anterolateral
+	- elev
+	-  t inversi iskemi I avl II avf v23456 lateral, inferior, anteroseptal lateral
+		- ekg: iskemia anterolateral, infark inferior anteroseptal lateral
+		- dx: infark inferior anteroseptal lateral
+		- jawaban benar: iskemi inferior anteroseptal lateral
+
+- 
+
+- old infark doang ga msk ACS
+
+- [ ] RSR' BBB
+
+- ireguler itung 30 kotak besar
