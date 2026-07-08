@@ -1,0 +1,85 @@
+
+- manajemen aritmia
+	- dibagi
+		- taki
+			- > 100x/m. yg gangguan ≥ 150x/m
+				- HR > 150 -> tanda2 tdk stabil sama kaya bradi
+					- hemo tdk stabil
+						- tx: kardioversi (tx kejut listrik) (cek dosis joule dsb)
+							- 
+					- hemo stabil
+						- cek EKG -> (qrs lebar/sempit? reguler/ireg?)
+							- VT antiaritmik infusion
+								- adenosin first dose 6 gm rapid iv push, follow w ns fluid; second dose 12 mg if required
+								- antiaritmik infusion for stable wide qrs takikardi procainamide iv dose
+								- amiodarone iv dose
+							- SVT -> vagal manuver adenosin b blocker ccb
+								- adenosin iv dose first dose 6 mg rapid push, follow w ns fluid, 2nd dose 12 mg if required
+								- sotalol iv dose 
+							- ireg hampir pasti afib -> kaya SVT (klo bingung. meski ada )
+					- kardioversi bs obat bs listrik; listrik risiko arrest tp lebih cepet krn instan, sementara obat nunggu bbrp jam
+			- contoh kasus
+				- l 60 th, gelisah, n 200, regular, rr 30x, spo2 92%
+					- ekg vt
+						- tx:
+							- IV line, oksigen gausah, monitor
+							- kardioversi
+				- 
+		- bradi
+			- HR < 60 x/m. yg ekstrem = berpotensi menimbulkan gejala gg hemodinamik, i.e. < 50 x/m (ACLS 2025). tp blm tentu ada gejala jg.
+			- HR < 50
+				- hemodinamik stabil -> tx: monitoring
+					- ato bs sarankan ekg
+				- hemodinamik tdk stabil (gangguan)
+					- tanda:
+						- status mental perubahan apa pun (penurunan tingkat kesadaran, penurunan kualitas i.e. delirium, pingsan transien)
+						- iskemik chest discomfort
+						- AHF
+							- edema paru (sesak napas)
+						- hipotensi (TDS <90, atau MAP <65)
+						- tanda syok (akral dingin, urin < 0.5cc/kgbb/jam)
+					- tx:
+						- atropine IV dose (1 mg iv bolus yg skrg, dl 0.5. 1 ampul = 0.25, jd 4 ampul) dapat diulang per 3-5 menit, max 3 mg
+							- if ineffective (setelah 3 mg max)
+								- transcutaneous pacing
+								- dopamine iv infus 2-20 mcg/kg/min -> 15 menit observasi (cek onset of actionnya) -> klo dopamin udh max, mau on top of that ditambah epi boleh.
+									- AE: VT
+								- epinefrin IV infusion 2-10 mcg/min -> klo udh dopa + epi maks, lanjut terus perlu TCP/expert konsul/rujuk ke RS lain
+									- AE: VT
+								- otherwise konsul
+						- target HR ≥ 50
+							- klo dah ≥ 50 masih gasadar jg? cari penyebab lainnya
+			- contoh soal
+				- laki2 60 th, IGD, KU lemah badan -> GCS 15. sejak 2 hari, makan biasa, minum biasa, bs gerak tp lemes, gada demam, terus2an, gada mual muntah, gada bab cair, gada riw, muncul tiba2, gada nyeri dada, gada jatuh, gada pingsan, semua badan, gada kel lain, gada obat, rpk (-)
+					- 80/60, 35x/m, 20x/m lemah reguler, T normal, 88%, akral dingin, CRT >2 s, CA (-/-), rhonki (-/-), jantung normal, abdo normal, edem tungkai (-)
+						- EKG -> bradikardi
+						- GDS ->
+						- elektrolit
+						- AGD
+					- tx
+						- IV line, oksigen, monitor (apapun gawat darurat 3 ini)
+						- atropin 1 mg IV bolus -> 5 menit kemudian -> TD 80/60, 35
+						- atropin dosis kedua 1 mg IV bolus -> 5 menit -> 80/60, HR 35
+						- atropin ketiga -> 5 menit -> 80/60, HR 35
+						- dopamine 5 mcg/kg/min -> 15 menit -> HR 40x/m, 80/60, akral dingin
+						- dopamin naik jd 10 mcg/kg/min -> 15 menit -> HR 45x, 85/65, akral dingin
+						- dopamin jd 15 mcg/kg/min -> 15 menit -> HR 55x, 90/60, akral hangat
+						- dah stabil brti transfer ICU. di ICU nnt dokter ICU yg ngatur nurunin dosis dll (krn nurunin dosis hrs lebih hati2)
+
+- RBBB
+	- klo ada LBBB, nnt arusnya yg dari kanan muter dulu baru nyampe ke kiri and vice versa
+		- klo bloknya komplit -> jd QRSnya lebar krn butuh waktu lebih lama utk nyampe ke sisi yg lain
+		- klo blok parsial -> masih ada yg lewat dikit
+	- klo RBBB -> yg berdampak brti di lead sebelah kanan, brti V1 V2 (krn septal) jd V1 V2 QRS-nya jadi RSR' krn yg kiri udh QRS dulu, baru yg sisi lainnya nyusul bikin QRS lagi di R' dan jadi lebar. ato bs juga RSR'nya nyatu jd satu QRS tp lebar krn merge gt
+		- klo yg inkomplet, QRSnya masih sempit cm masih ada yg nyusul krn diperlambat jd RSR' tapi tajem
+	- klo LBBB yg berdampak di V5 V6, gambaran sama spt RBBB di atas
+	- klo < 0.12 s inkomplet, > 0.12 s komplet.
+
+- trivia
+	- limb lead ekg capitnya gada orientasi khusus
+	- klo isoelektrik melengkoy karena ada gerakan pas direkam, misal napas dalem pasiennya, jd suruh still
+
+
+- skills
+	- cek nadi BHD 5-10 detik
+	- [ ] baca dosis joule kardioversi
