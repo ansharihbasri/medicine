@@ -1,5 +1,5 @@
 
-- [[SKDI 4A]]
+- [[SKDI 4A v2]]
 - more systemic inflammation than [[J00 acute nasopharyngitis (common cold) (acute rhinitis)]]
 # etiology
 (PPK p. 236)
