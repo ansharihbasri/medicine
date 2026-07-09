@@ -1,0 +1,181 @@
+
+- skabies
+	- keyword: gatal **malam hari**
+	- bkn cm keluarga tapi kelompok sumbernya juga
+	- serentak itu sulit pada praktiknya krn mahal jg jadinya -> intinya tp harus
+		- ato bisa jg takutnya ga dipake jg
+		- jd akhirnya yg penting px nya dulu ajalah
+		- jd hrs ada jemput bola misal dg pimpinan asrama dsb utk sponsor juga
+		- jd identify hambatannya mana spesifiknya, apakah biaya, ato dmn
+		- alternatif yg murahnya salep 2-4 (di fitzpatrick presipitatum 10%)
+			- idealnya 3 hari jd abis mandi pake lagi gt bkn malem aja
+			- tp klo anak2 gabisa krn efek samping asam salisilat -> ?
+	- [ ] 2 dari 4 tanda kardinal. 4??
+- herpes zoster (bkn zooster)
+	- [ ] laporkan jg dermatomnya di mana (torakal, servikal, fasialis, lumbal, ...) cek jg patokan2nya
+		- dx: "herpes zoster torakalis dextra" dsb.
+		- [ ] patokan: smpe payudara T4, umbilikus T10, servikal sampe mana...
+	- menular? ya, tp jadi varisela pd yg blm pernah kena. airborne. jd klo kena herpes zoster jg karena ngurus org herpes zoster, bkn ketularan tp imun turun krn capek jd reaktivasi riwayat varisela dulunya
+	- indikasi rawat herpes zoster? -> yg oftalmikus (komplikasi) (satu2nya indikasi rawat herpes zoster)
+	- dermatom herpes zoster beda2 menunjukkan apa brti? -> 
+	- virus masuk mukosa/konj -> masuk ke aliran darah dan limfatik jadi viremia primer (varisela), dan masuk juga ke ujung saraf dan masuk ke ganglionnya, shg blm semua tereradikasi dan sebagian dorman di ganglion itu. nanti reaktivasi saat imun drop. jadi manifestasi (bisa nyeri, panas, (prodromal) lalu lesi di dermatom yg terkait)
+	- bs nyebrang dermatom/jd bilateral, itu komplikasi; jd klo imunnya drop misal hiv, aids gt2. klo org hiv/aids, kemoterapi, dll variselanya bisa berkali2 
+	- valasiklovir bs 3x1000 mg (1 tabnya 500)
+	- lulusan unpad tdk boleh berikan topikal asiklovir -> krn tdk efektif dan logikanya jg kan virusnya di ganglion bkn diluar, klo topikal kan cm sampe dermis aja. klo sistemik kan lebih cepet ke saraf.
+		- klo varisela primer aja juga kan generalized, gimana ngasi topikalnya — jd varisela primer juga jgn kasi salep.
+- jamur
+	- keyword: gatal saat **berkeringat**. knp saat berkeringat? ... 
+- SP
+	- tn. deden, gatal2 borok di area ketiak badan sama sekitar mulut juga, sejak hampir 2 mgg, terasa terus menerus, awalnya merah2 dulu trs kegaruk2 tanpa sadar
+		- ddx:
+			- tinea
+			- skabies
+			- derma ato
+			- impetigo
+	- tn. deden, nyeri BAK, sejak 1 mgg, darah (-), semakin kental, kadang2 keluar sendiri, warna kencing awal bening sekarang2 aga putih kaya nanah, pancaran biasa tp kadang2 keluar sendiri gabisa ketahan dikit2, terakhir hub seksual 2 mgg yll, sdh menikah, 2 mgg yll dinas ke luar kota jd jajan. baru pertama kali gini. nyeri perut bawah gada. hub seksual tanpa pengaman.
+		- anam masih kurang, jgn ragu2: biodata hrs lengkap (nama alamat usia menikah pekerjaan pendidikan), klo anak2 tanya pekerjaan dan pendidikan ortu, 
+		- pemfis: 
+			- [ ] KGB (pembesaran ga), suprapubis (nyari telur kutu, ulkus dll lesi), penis (batang deskripsikan sirkumsisi ga, ada lesi ga; kepala penis: preputium dibuka klo ga disunat, kepala penisnya liat ostium OUE di mana, ada edema ga, kemerahan, korona spt apa, lesi kulit ada ga), skrotum (simetris raba, edema, lesi; bs dd orkitis, epididimitis dll), perineum, perianal
+				- 
+		- ppx: pewarnaan gram dari 
+		- ddx:
+			- uretritis gonore (ms masuk 1 mgg)
+				- tx: 
+					- R/ Sefiksim 200 mg tab No. II
+					  S. 1 dd tab 2
+					- R/ Doksisiklin 100 mg tab No. XIV
+					  S. 2 dd tab 1 selama 7 hari
+				- tx termasuk non gonore jg kenapa? krn klo periksa (1) gram nyari diplokokus (gonore dapet, pmn), 1 lagi sediaan basah nacl (nyari trikomonas cari pergerakannya), dan klo di wanita KOH (vaginosis). nah klo non gonore gabisa keliatan kan di gram tp harus PCR, jadi kalo gada PCR tdk bisa singkirkan yg klamidosis (non gonore). jd idealnya klo ada PCR bisa singkirkan klamidia.
+				- [ ] klo ada komplikasi sefiksimnya jadi gmn? -> 
+			- uretritis non-gonore (klo 2 mgg lebih utama ini)
+				- klo dari timeline cocok non gonore gausah gonore tx
+- kasus: tukak/borok kelamin
+	- anam: identitas (...), sejak kapan, awalnya gmn, nyeri ada ga, gatal ga, duh tubuh?; riw seksual (dg siapa, terakhir kapan, pengaman ga) rpd,
+		- kemungkinan besar ini pasien LSL, harus pikirkan baik mengaku ato ga. hrs tanyakan, jgn gaenak (bilang hrs mengobati pengobatannya jg)
+		- cara seksnya gmn, kelamin-kelamin, oral, anal (bagaimana cara bapak melakukan hub seksual)
+	- pemfis: kaya tadi di atas KGB pubis penis zakar perianal anal
+	- [ ] penunjang: gram, PDRL, TPHA, tzanck smear pake giemsa (pd lesi vesikobulosa, hrs lakukan ini, utk melihat reaksi virus atau penyakit bula yg lain, misal sel datia), dark field microscope (sifilis)
+	- ddx ulkus kelamin:
+		- [ ] chancroid
+			- bs nyeri
+			- Hemofilus ducreyi
+		- sifilis primer?
+			- ga nyeri
+			- T. pallidum
+		- herpes genital
+			- bs nyeri
+			- kecil2 berkelompok seringnya di kepala penis
+			- HSV-2 plg sering -> serologis
+	- tx chancroid:
+		- ![[Pasted image 20260709095406.png]]
+	- [ ] edukasi komunikasi IMS: ABCD abstinence (tdk melakukan hub seksual berisiko, ato jgn dl sampe sembuh, ato at least tdk berganti2 pasangan), be faithful (1 partner saja), condom, don't do drugs
+- 34 th bintil2 berisi air sejak 3 hari
+	- ppx:
+		- tzanck smear dg giemsa
+			- [ ] interpretasi? sel datia
+	- dx: herpes zoster ...
+	- ddx
+		- herpes zoster servikal (?)
+			- anam: prodromal? (brp lama prodromal 1-2 mgg yll ada ga nyeri2 di lengan, demam, sblm timbul lesi kulit)
+			- 
+		- impetigo bulosa
+			- stafilo dan strep beta hemo
+			- 
+		- derma atopik
+		- papular urtika?
+		- dermatitis venenata (venom)
+			- anam: ada digigit serangga? (tp serangga apa yg dimaksud? tomcat, ... jd gimana -> ngarah ke kerjanya dmn, di sawah, tempat tinggal dekat kebun/sawah, abis dari mana ...)
+				- klo tomcat/serangga brp hari? 3 hari ga? akut, cepet paling bbrp jam yll.
+	- tx:
+		- asiklovir 5x800 7 hari
+- w 38 th bercak putih tangan kiri sejak 5 bln ll
+	- ddx
+		- pityriasis versi -> tp lebih ke punggung si jd ngga
+		- [ ] hipopigmentasi pasca inflamasi
+		- vitiligo (makula depigmentasi)
+		- kusta
+			- anam: hipo/anestesi? lemah otot, kehilangan sensasi di lengan? deformitas? dan paling penting jg lahir dimana, besar dimana, istri orang mana, kerja dimana (utk ngincer daerah endemis kusta/area2 kantong kusta (?))
+	- ppx: ASK di lesi kulit dan cuping telinga, lutut — apa persamaannya area itu
+		- MB
+- anak l 8 th kebotakan sejak 5 bln
+	- ddx:
+		- tinea kapitis
+			- anam: gatal?
+			- ada bbrp variasi bdsr derajat berat klinis:
+				- grey patch (keabu2an jd rapuh2 aja)
+				- black dots
+				- kerion (ada bisul, infeksi/inflamasinya) -> ada demam, nyeri, bisul ga
+				- valvus (basah, bau dsb. kaya bau tikus got)
+			- penyebab paling sering pada anak karena apa? kontak dg kucing/anjing ato dari anak2 yg lain
+				- anam: punyakah hewan peliharaan kucing/anjing? kucingnya ada botak2 gitu juga ga? dari anak2 yg lain gmn? (penularannya gmn: lewat topi, sisir, pulang dari salon)
+					- [ ] spora tahan hidup di benda2 brp lama...?
+		- [ ] psoriasis
+		- alopecia areata (pitak) (hal 259)
+			- autoimun lokal di reseptor rambut gitu
+				- anam: riwayat keluarga serupa?
+	- tx:
+		- sampo
+		- sistemik
+	- [ ] yg wood's light nya berpendar paling sering apa penyebabnya: 
+	- [ ] KOH 10% skin scraping dan rambut (cara?). bkn pewarnaan, tp apa si sebetulnya?
+- w 32 th p1a0 keputihan
+	- ddx
+		- bv
+			- pake sabun pembersih
+		- triko
+			- 
+		- kandido
+			- 
+		- servisitis gonore
+		- servisitis klamido
+		- [ ] servisitis fisiologis?
+			- klo laki2 ada sesuatu selain sperma dan kencing pasti ims; klo perempuan hati2 krn ada lubang kencing, ada lubang vagina, dan ke dalem lagi ada lubang rahim jd bisa macem2, fisiologis justru nomor 1, ni kan abis partus.
+			- [ ] duh tubuh fisiologis vs patologis
+				- fisiologis (tidak berbau, tdk mengganggu)
+					- hilang menstruasi suka ada keputihan
+					- saat ovulasi bs ada
+					- saat terangsang
+					- kehamilan
+				- duh tubuh patologis yg non-infeksi:
+					- stres
+					- corpus alienum jd IUD
+					- keganasan
+				- duh tubuh infeksi
+					- non-ims
+						- bv
+						- kandida
+					- ims
+						- triko
+						- gonore
+						- klamido
+	- ppx: gram, KOH, nacl (triko)
+		- clue cells (sel epitel yg tertutup oleh bakteri, Gardnerella vaginalis)
+	- tx: metro
+- 25 th bercak siku dan lutut 1 bln
+	- 
+	- ddx:
+		- psoriasis vulgaris
+			- 
+		- dermatitis numularis
+			- 
+		- liken simplex kronis (neuroderma) (klo yg tebel)
+			- 
+		- tinea
+- 19 th bruntus2 terasa nyeri di wajah
+	- ddx:
+		- acne sampai derajat sedang hrs bisa dok umum
+			- ringan sampe tuntas
+			- sedang klo 3 bln blm perbaikan rujuk
+	- ddx:
+		- acne
+		- folikulitis gram negatif
+		- [ ] rosacea
+- pas osce klo abis liat pemfis ada pertanyaan/dd lagi, harus anam lagi tambahan gpp
+
+- pr:
+	- identifikasi bdsr gambar yg baik
+	- PP sesuai modul/guideline
+	- dosis dan sediaan obat hapalin
+
+- pemfis kuku ditulisnya tetep masuk status dermato (bs "tampak ... di digiti ..." gitu aja cukup) disebut sekilas di ekstremitas jg bs
+- 

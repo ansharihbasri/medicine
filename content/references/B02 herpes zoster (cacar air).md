@@ -19,7 +19,7 @@ PPK PERDOSKI 2017
 
 # etiopatogenesis
 - infeksi primer dulu oleh [[Varicella zoster virus (VZV) (chickenpox)]] -> trs jadi laten di radiks dorsalis sensoris ganglion -> reaktivasi
-- transmission: 
+- transmission: klo menularkannya jd varisela pada yg blm pernah kena varisela
 - inkubasi 7-12 hari
 
 

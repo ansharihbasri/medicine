@@ -142,6 +142,12 @@ summary obat anak
 		  R/ vitamin A 200.000 IU kaps No. II
 		  S. 1 dd kaps I selama 2 hari
 - [[skabies]]
+	- dx definitif: mikroskopis positif (skin scraping/adhesive tape)
+	- dx presumtif: bila ditemukan trias berikut:
+		- ditemukan lesi skabies berupa papula eritema, vesikel, atau nodul eritema dengan/tanpa kanalikuli pada daerah predileksi
+		- riw. adanya gatal seluruh tubuh dan lebih berat pada malam hari
+		- terdapat sakit serupa pd anggota keluarga lainnya yang serumah
+	- ddx: [[L20 atopic eczema or atopic dermatitis]], [[contact dermatitis]], [[insect bite]], [[papular urticaria]], [[L08.0 pyoderma (ecthyma) (pioderma or ektima)]], [[miliaria]], ...
 - [[B02 herpes zoster (cacar air)]] (PPK 2017)
 	- dewasa: 5x800 mg/hari selama 7 hari
 	- anak: 4x20 mg/kgbb (dosis maks 800 mg) selama 7 hari
@@ -179,6 +185,10 @@ summary obat anak
 			  R/ klindamisin 300 mg kaps No. XXI
 			  S 3 dd kaps I selama 7 hari
 			- doksisiklin 2x100 mg/hari
+- [[B00 herpes simplex]]
+	- tx
+		- ![[Pasted image 20260709080215.png]]
+		- 
 - duh tubuh vagina
 	- [[vaginitis]]
 	- [[servisitis]]
@@ -242,6 +252,13 @@ summary obat anak
 	- [[sifilis primer]]
 		- lesi: ulkus durum dasar bersih, sebagian besar soliter, bulat, indurasi pada tepi, tidak nyeri (35% kasus ada nyeri); predileksi daerah genital, perianal, anal. jika tdk diterapi, menetap 1-6 mgg dan dapat hilang spontan; jika diterapi sembuh dlm 1-2 mgg tanpa jaringan parut.
 	- [[sifilis laten]] (...)
+	- tx
+		- ![[Pasted image 20260709075923.png]]
+- [[kusta]]
+	- ![[Pasted image 20260709075547.png]]
+	- ![[Pasted image 20260709075558.png]]
+- [[pityriasis rosea]]
+	- keywords: [[herald patch]], collarete, christmas tree
 ## hematoimunologi
 ## endokrin
 - [[hyperthyroidism]] -> [[thyrotoxicosis]]
