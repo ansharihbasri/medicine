@@ -184,6 +184,7 @@ summary obat anak
 	- [[servisitis]]
 - [[duh tubuh uretra pria or uretritis]]
 - dermatofitosis (buku unpad)
+	- keyword: ga bisa pake lampu wood ya dermatofit. anular tepi aktif + tengah bersih (central clearing), bedain sama dermatitis numularis yg anular jg tapi tengah masih merah ga clearing dan bersifat basah/eksudatif, versus juga psoriasis yg berupa plak tebal + sisik putih keperakan + siku/lutut.
 	- tinea kapitis dan barbae: antifungal sistemik; topikal hanya adjuvant.
 		- topikal adjuvant:
 			- selenium sulfida 1% dan 2.5%
@@ -211,6 +212,36 @@ summary obat anak
 			  anak: terbinafin 3-6 mg/kgbb/hari selama 2 minggu
 			  itrakonazol 5mg/kg/hari selama 1 minggu
 			  griseofulvin ultramicrosize 10-20mg/kg/hari selama 2-4 minggu
+- [[B36.0 pityriasis or tinea versicolor]] -> 1st line topikal.
+	- keywords: bercak putih, punggung; KOH 10% yeast pseudohifa (krn malassezia is yeast), lampu wood kuning keemasan; overgrowth yeast pada kulit normal bukan makan keratin sehingga bercak halus spt tepung bukan anular tepi menonjol/central clearing.
+	- tx:
+		- **sampo** zinc pyrithione atau **selenium sulfida 2.5%** utk area yg terkena, diamkan 7-10 menit, gunakan 3-4x seminggu selama 3-4 minggu
+		- gol. azol: krim bifonazol, klotrimazol, ketokonazol, mikonazol, ekonazol, sertakonazol, sulkonazol, tiokonazol—tiap hari selama 2-3 minggu
+		- sampo ketokonazol 2% pada area kelainan kulit, diamkan 5 menit, bilas. gunakan 2-3 kali seminggu selama 2-3 minggu.
+- [[pityriasis alba]]
+	- keywords: hipopigmentasi, batas kurang tegas, skuama halus, sering pada anak/remaja, predileksi wajah
+- [[vitiligo]]
+	- keywords: lampu wood putih terang/lebih jelas fluoresensi (lampu wood membantu melihat area kehilangan melanin). patomekanisme: autoimun -> limfosit T menyerang melanosit -> melanosit hilang -> kehilangan pigmen
+- [[psoriasis]]
+	- keywords: autoimun, lesi kulit simetris, predileksi ekstensor (siku, lutut), batas tegas, plak skuama keperakan berlapis2, [[Auspitz sign]] (bintik2 perdarahan bila skuama diangkat, diagnostik thd psoriasis); ddx derma numular (tengah plak eritem juga tp ga sampe skuama keperakan), tinea korporis (tengah bersih/central clearing), sifilis sekunder
+	- tx umum: hindari faktor pencetus
+	- tx khusus:
+		- <10% luas permukaan tubuh -> topikal dan fototerapi
+		- sedang-berat yg >10% luas pt -> topikal, fototerapi, sistemik
+		- topikal 1st line: pelembap, KS topikal, analog vit D; 2nd line: asam salisilat, ditranol, terazoten, preparat tar
+			- KS topikal: poten atau superpoten 2x sehari; potensi sedang dan lemah bisa utk lesi di wajah dan intertriginosa. perbaikan dlm 2-4 mgg, lalu pemakaian intermiten
+				- mometasone, betamethasone, clobetasol
+- [[sifilis]]
+	- [[Treponema pallidum]] -> masuk lewat luka kecil di kulit -> bakteri menempel ke fibronektin dan komponen ekstraseluler, epitel, fibroblas, endotel -> inflamasi, proliferasi, vakuolisasi, edema -> memblok vaskularisasi ke daerah inflamasi -> nekrosis -> lesi ulkus
+		- penularan via kontak kulit/mukosa dengan kulit/mukosa penderita, umumnya ketika koitus vaginal, anal, atau orogenital. transmisi nonseksual bisa via: pertukaran jarum suntik pengguna napza, transfusi darah, kecelakaan kerja petugas lab/nakes. penularan hy dpt terjadi pada stadium primer, sekunder, laten dini.
+	- [[sifilis sekunder]] dan laten terjadi karena kegagalan respon imun tubuh dlm eradikasi T pallidum subsp pallidum
+		- kelainan kulit 4-10 mgg pasca sifilis primer; umumnya simetris, meliputi ekstremitas dan batang tubuh. lesi: makulopapular (50-70%), papular (12%), makular (10%), anular papular (6-14%). lesi kulit di telapak tangan dan kaki sering dikelilingi skuama putih tipis berbentuk cincin a.k.a. Biette's collarete
+		- lesi kulit dapat juga berupa: [[condyloma lata]], [[patchy alopecia]]
+		- lesi dapat hilang tanpa terapi dlm 3 bln
+	- sifilis tersier: imun lemah sehingga bakteri terus ada -> inflamasi granulomatosa kronik
+	- [[sifilis primer]]
+		- lesi: ulkus durum dasar bersih, sebagian besar soliter, bulat, indurasi pada tepi, tidak nyeri (35% kasus ada nyeri); predileksi daerah genital, perianal, anal. jika tdk diterapi, menetap 1-6 mgg dan dapat hilang spontan; jika diterapi sembuh dlm 1-2 mgg tanpa jaringan parut.
+	- [[sifilis laten]] (...)
 ## hematoimunologi
 ## endokrin
 - [[hyperthyroidism]] -> [[thyrotoxicosis]]
