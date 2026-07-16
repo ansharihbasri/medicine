@@ -372,3 +372,39 @@ pendekatan diagnosis dan update tx akut abdomen
 - 1-8 1 trauma
 - 10-17 2 burn
 - 18-25 3 akut abdo
+
+
+
+trauma
+
+- urin output 1 jam swtelah dipasang biar bkn urin inisial
+- angulus ludovici, antara manubrium dan korpus' disitu kosta 2. turun2 ke bawah
+
+
+akut abdomen
+
+- peritonitis lokal (di regio tertentu) vs difusa
+-- dx peritonitis difusa e.c. susp perforasi gaster dd.. ..
+- lab: darah lengkap: tanda inflamasi: leukosit ato leukopenia
+- ngt, puasa, infus, oksigen, urine kateter
+- klo susp perforasi gaster brti ronsennya toraks, nyari pneumoperitoneum di kanan
+- obat: antibiotik, ppi, antinyeri
+- cito vs ga? ->  boey score cek tu, skor 1 aja 8%, brti cito. kurang dr 24 jam hrs op. 2% di kedokteran tu tinggi mortalitas.
+- kapan disebut ileus dari anam pemfis klo gbs bab kentut? klo perut kembung (dan pemfis2 BU dsb), klo perut datar aja brti normal
+
+
+burn injury
+
+- indikasi resus >20% tbsa pd dewasa
+- indikasi ranap sama kaya rujuk yg di catatan
+- klo udh lewat 1 jam masuk igdnya, brti yg pertama dalam 7 jam biar total 8 jam
+- pake RL biasanya
+- kl kurang dari 20% dosis maintenance
+- klo udh minum misal 1L sblm masuk igd, brti yg dosis 8 jam pertama kurangi 1L itu
+- kl masuk udh lewat 10 jam brti gmn? brti totalnya dibagi sisa waktu yg ada misal rumusnya 5000 cc total, brti 5000 cc dalam 14 jam itu. jd ga dibagi 2 lagi
+- pasang urin kateter
+- analgetik apa aja yg tersedia asalkan ga alergi, biasanya morfin disini krn sakit banget
+- lab: urinalisis gds fungsi ginjal hati
+- tube: kateter, ngt. observasi tiap jam. klo urin output di atas target, nah brti cairan per jam kurangi 10%. klo kurang naikkan 10%. lajunya.
+-- tp hrs cek riw gagal ginjal ga nanti takutnya edem paru, makanya liat fungsi ginjal. klo aman masuk aja terus
+- dok umum yg penting obatnya analgetik, salep luka (?) silver sulfa...
