@@ -1,0 +1,374 @@
+
+initial assessment emergency life support for trauma
+- ATLS didesain utk multipel trauma; klo single trauma ga seribet itu; tp kt jg gatau px mungkin ada trauma yg lain -> jd ATLS tetap terpakai/selalu asumsikan pasien multipel trauma
+- urutan
+	- rapid primary survey + resuscitation
+		- ...
+		- sblm airway, perdarahan balut tekan dulu tangani (jgn nunggu C) jd ada yg ngedab ada yg mulai airway
+		- A
+			- head tilt jgn dl sampe cervical clear di penunjang; tp chin lift aja bole/ jaw thrust, cross finger, cek dg denger suara napas, plg gampang: **pertama ajak ngomong dulu** (klo teriak2 kesakitan ato fonasi jelas pasti airway clear; klo ada **suara napas tambahan** nah cek; klo tdk bersuara, diajak ngomong ga respon baru cek dengarkan suara napas tambahan ada ga)
+				- jenis suara napas tambahan (krn akan berbeda teknik mengatasi clear airwaynya)
+					- **gurgling** -> sumbatan cairan -> suction -> klo setelah beres suction masih gurgling -> intubasi biar definitif airway
+						- jgn di jaw thrust nnt airnya masuk/aspirasi
+					- **snoring** -> lidah jatuh ke belakang -> jaw thrust krn lidah ikut keangkat jg -> klo dilepas jadi ngorok lagi, support dengan OPA (ato ETT klo yg definitif; tp klo OPA hanya px tdk sadar)
+			- + c spine control/protection -> collar brace (**3 indikasi**: ada jejas di atas klavikula, trauma yg melewati servikal, pasien yg tdk sadar krn curiga ada trauma di kepala meski tdk terlihat)
+		- B
+			- gerak napas dinding dada simetris ga, paradoxal movement (pd flail chest), jejas (klo ada luka terbuka dan ada open pneumo bisa lihat sucking chest wound bahkan bisa terdengar suara udara keluar masuk di wound)
+				- klo asimetris, kanan tertinggal misal -> 
+					- perkusi:
+						- [ ] hemato dull -> pasang chest tube torakostomi utk cek masif (**inisial ≥ 1500ml; > 200 ml / selama 2-4 jam** ATLS 10) atau tidak (dr tovan: per 1 jam selama 3 jam berturut2)
+							- klo masif hematotoraks -> bs liat TD dan nadi utk syok
+							- [ ] knp harus bedain masif vs ga? krn **torakostomi vs torakotomi** -> apa indikasi torakotomi? utk hentikan perdarahannya krn gabisa berhenti sendiri jd harus dibelek
+							- masif hemotoraks bs jg **tanda2 syok**
+						- pneumo hipersonor -> bedain tension vs simple pneumotoraks dengan: cek 3: **deviasi trakea** ada ga, **JVP** terisi penuh/ngembang/nonjol ga, dan **hipotensi** (krn tension neken IVC jd ga masuk ke jantung)
+							- ya tiga2nya -> tension -> needle decom utk sementara -> chest tube torakostomi lalu cabut needle
+								- needle decom sbnrnya bisa di mana aja tp yg paling aman yg ICS 4-5 AAL itu dsb
+							- ngga -> simple pneumo -> lgsg chest tube torakostomi
+						- open pneumo -> plaster 3 sisi -> chest tube torakostomi & jahit luka biar udaranya keluar dari chest tube aja
+					- bs konfirm auskultasi tp pneumo vs hemato sama2 VBS menurun
+						- sekalian auskultasi jantung (bunyi menjauh ga)
+			- **yg dicari** di trauma: tension pneumotoraks, hematotoraks masif, open pneumotoraks, kardiak tamponad, flail chest, kontusio paru
+				- flail chest dan kontusi paru tdk mengancam nyawa
+					- flail chest sakit napasnya jd mungkin berpengaruh jg
+					- kontusio kan edem jadi pertukaran udara jelek, mgkn perlu ventilasi mekanik juga sampe nunggu perfusi oksigen baik
+			- [ ] **6 lethal** di primary survey?
+			- + ventilasi: suplementasi O2 via **NRM 12 LPM** utk px trauma. pasang adjunct alat saturasi oksigen. klo SpO2 blm tercapai2 juga mungkin perlu ventilasi mekanik
+		- C
+			- cek tensi, nadi, pasang monitor (kan ada EKG jg)
+			- + hemorrhage control (evaluasi yg balut tekan tadi pastikan sdh terkontrol)
+				- ada perdarahan di dalam: toraks (yg tadi hematotoraks), abdomen, pelvis
+					- [ ] abdomen dan pelvis cek via **USG FAST/extended FAST (abdomen, toraks)** -> 
+						- klo nyeri dan defans peritonitis mgkn blm terjadi butuh waktu
+						- FAST + -> **grading hemoragik syok**
+			- permissive resus (MAP 65)
+		- D
+			- mini neurologi test -> **cek 3:** GCS, diameter pupil + reflek cahaya, motorik yg bisa ato minimal rangsang nyeri
+		- E
+			- buka semua baju pasien utk cari yg lain
+			- klo stabil boleh log roll utk liat posterior + spinal
+			+ environ control (jaga temp jgn hipotermi)
+		- ATLS didesain utk fasilitas lengkap dan 2-3 dokter lengkap (jd ada leader di airway, ada yg fokus di B, di C, dst.) jd sebetulnya berjalan simultan ABCDE ini. klo cuma sendiri ya berurutan
+	- adjuncts to primary survey/resus
+	- detailed secondary survey
+		- anam AMPLE
+		- pemfis head to toe
+		- "tubes and fingers in every orifice"
+		- complete neuro exam
+		- special diagnostic test (ronsen, CT, ...)
+		- reevaluation
+	- adjuncts
+	- evaluation
+	- transfer to definitive care
+- [ ] preparation prehospital system
+	- transport guideline/protocol
+	- online medical direction
+	- mobilization of resources
+	- periodic review of care
+	- closest appropriate facility
+	- -> cek: di PKM, cari tahu RS rujukannya ke mana aja, jarak, fasilitasnya apa aja, spesialis yg tersedia apa
+- standard precautions
+	- pake dl sblm ke pasien: cap, gown, gloves, mask, shoe covers, goggles/face shields (minimal masker dan gloves)
+
+
+luka bakar
+- wound healing
+	- 1. inflamasi (hperemia, vasodilatasi, migrasi sel inflamasi) -> segera setelah luka, sekitar 3 hari
+	- 2. proliferasi/granulasi (prolif fibroblas, jaringan granulasi, kontraksi luka) -> sampe 21 hari
+		- prolif epitelialisasi
+	- 3. maturasi (remodeling kolagen) -> bisa berbulan2, sampe setahun bahkan
+- jackson's model
+	- zona hiperemia -> (plg superfisial)
+	- zona stasis -> perfusi berkurang tp potentially salvageable
+	- zona koagulasi/nekrotik -> ireversibel
+- burn depth
+	- dulu grade 1, 2a/b, 3
+	- skrg: (healing = sembuh sendiri; klo no brti harus operatif)
+		- epidermal = 1
+			- warna: red
+			- blister: no
+			- CRT: present
+			- sensasi: present
+			- healing: yes
+		- superfisial dermal (epidermolisis, melepuh) = 2a
+			- warna: pale pink
+			- blister: present
+			- CRT: present
+			- sensasi: painful (banget) krn plg byk end nerve sini
+			- healing: yes
+		- mid dermal (udh ada kelenjar sebaseus, folikel dll) = 2a
+			- warna: dark pink
+			- blister: present
+			- CRT: sluggish
+			- sensasi: +/-
+			- healing: usually
+		- deep dermal (sampe folikel, kelenjar dll lebih komplet tp dermis belum lewat dermis) = 2b
+			- warna: blotchy red/merah disertai bercak kecokelatan
+			- blister: +/-
+			- CRT: absent
+			- sensasi: absent
+			- healing: no
+		- full thickness (melewati dermis) = 3
+			- warna: white
+			- blister: no
+			- CRT: absent
+			- sensasi: absent
+			- healing: no
+- burn extent
+	- rule of nine
+		- wajah 4.5%, kepala blkg 4.5%
+		- badan depan aja 18%; depan blkg 36% (toraks + abdo)
+		- tangan depan blkg 9, depan aja 4.5
+		- kaki depan blkg 1 kaki 18%, depan aja 9%
+	- palmar method -> telapak tangan pasien; 1 telapak = 1%
+- manajemen
+	- first aid:
+		- wound cooling: minimum 20 minutes, running tap water (irigasi) <- klo api/air panas
+			- biar ga jadi zona nekrotik
+			- klo > 3 jam udh ga bermanfaat
+	- emergency management of severe burns (EMSB) (look and do)
+		- primary survey
+			- A:
+				- look: bisa ngomong ga, serek ga, ngorok ga (kaya ATLS pokoknya); ada luka bakar wajah/airway ga (biasanya yg kekunci di ruangan api)
+					- klo ga clear (meski sadar tapi ga clear) -> intubasi
+				- do: c spine pasang collar brace (krn gatau bs aja ledakan bom dia jatuh dsb)
+			- B: 
+				- look: IPPA (bedanya di luka bakar: ada **ga luka bakar/eschar melingkar sedada**, itu pasti paru2 gabisa ngembang krn kejerat)
+				- do: NRM 15 LPM
+			- C
+				- look: tensi, nadi, CRT (**sentral di karotis dan perifer di radialis**), perdarahan aktif. ada **eschar (full thickness burn) melingkar** di tangan bisa iskemia distal
+					- klo ada eschar melingkar posiskan di atas/elevasi di atas jantung
+				- hemorrhage control + IV akses **2 jalur** dan tidak pada luka bakar (klo tangan luka bakar brti di kaki dsb)
+					- asal netes kristaloid
+			- D
+				- GCS, pupil diameter + reflek cahaya -> bedanya: **luka bakar gaperlu GCS yg pake angkat tangan dsb krn lama, jadi AVPU aja**
+			- E
+				- buka semua baju pasien + log roll
+				- cek TBSA
+				- **selimutin pastiin hangat** jgn hipotermi krn barrier kulit rusak
+		- FATP (fluid, analgesia, test, tubes)
+			- fluid
+			- analgesia (morfin)
+			- tests
+				- lengkap
+				- kimia: agd, laktat
+				- listrik: ekg
+				- urinalisis krn takut rhabdomyolisis jd otot2 berdarah bs masuk ke urin gabisa disaring ginjal
+			- tubes
+				- intubasi
+				- iv line
+				- NGT klo butuh
+				- urin kateter utk pantau cairan terutama yg luas2 besar
+		- secondary survey
+			- ample
+			- head to toe
+				- escharotomy utk yg eschar melingkar/menjerat tadi
+			- **tetanus**
+				- sesuai aturan TT krn luka bakar yg dalam bisa entry tetanus
+			- documentation and transfer
+			- support
+	- kapan dirujuk dari puskes
+		- SPAM
+			- size
+				- >10% tbsa
+				- > 5% tbsa child
+				- >5% tbsa full thickness
+			- person
+				- preexisting illness/komorbid (punya sakit jantung, diabetes, dsb.)
+				- pregnancy (bbrp obat luka bakar, termasuk salep, bs kontraindikasi pd kehamilan)
+				- extremes of age (anak kecil, lansia)
+			- area
+				- face/hands/feet/perineum/major joints -> efek komplikasi lebih banyak, takut kontraktur juga nnt jd gabisa gerak
+				- circumferential (limb or chest)
+				- lungs (inhalasi)
+			- mechanism
+				- chemical (krn lama2 bisa membakar terus secara kimia) / electrical (ngebakar dari dalem)
+				- major trauma (bom, ...)
+				- non-accidental (misal kecurigaan KDRT, ...)
+	- electrical injury
+		- bdsr voltage
+			- low (<1000 V)
+				- skin: local entrance and exit wound
+				- deep tissue
+				- cardia aritmia:
+			- [ ] high (>1000 V)
+				- skin: ...
+			- [ ] lightning
+				- ...
+		- resus:
+			- rhabdomyolisis warna urinnya kaya teh cokelat -> jd any urine discoloration increase infusion rate.
+			- maintain urine output 1-2 ml/kg/hr pada dewasa (klo non listrik cuma 0.5-1 ml), or > 2 mg/kg/hr in children
+			- [ ] high voltage injury involving limbs -> kompartemen sindrom -> fasiotomi (itu otomatis ato harus kompartemen dl?)
+				- [ ] jawaban: 5P kompartemen sindrom: pale piulseless, ... -> cek dl ini, jgn nunggu kontraksi.
+	- chemical burn
+		- [ ] classif
+		- tissue damage as direct result of exposure
+			- tipe agen
+			- strength and concentration of agent
+			- quantity of agent
+			- manner and duration of skin/mucosa contact
+			- extent of penetration into tissue
+			- mechanism of action
+		- irigasi bisa sampe 30 menit klo kimia dan listrik
+		- manajemen:
+			- contaminated clothing removed
+			- dry chemicals carefully brushed off and disposed of in suitable receptacles
+			- mechanically washing chemical away as well as diluting with copious amounts of water minimum 30 menit
+			- litmus paper on skin indicate asam atau basa
+				- menentukan prognosis kulit
+			- irigation may need to continue for an hour for some alkali
+	- inhalation injury
+		- suspect in facial burns, any evenr relating terkurung, ledakan
+		- klasif
+			- airway injury above laring (edema/obstruksi) -> suara serek, bau jelaga
+			- airway injury below laring (airway & parenchymal lung injury) -> biasanya ga ketauan, ato sesek,
+			- systemic poisoning (cell hypoxia) -> lgsg aritmia dsb
+				- cyanide bluish
+				- CO cherry red bintik2
+		- manajemen
+			- intubasi aja yakin ga yakin inhalasi injury krn klo keburu bengkak susah ett
+			- oksigen 15 lpm NRM
+		- obseravsi (burns to mouth, nose, faring, singed nasal hairs, sooty sputum, breathing difficulty increased rate, effort: PCH, tracheal tug, indrawing, aksesoris muscle)
+		- listen for productive cough, hoarse, brassy cough, croup-like breathing, change of voice, inspiratory stridor
+- klo multipel tulis aja dx nya "superficial - full thickness burn injury, ...% TBSA"
+- rujuk ke klo gada bedah plastik, bedah umum
+- [ ] rumus cairan modified parkland (konstantanya 3, klo dulu 3-4 -> 3 x TBSA x BB dibagi 2, yg setengah pertama habis di 8 jam, kedua di 16 jam)
+- klo ke IGD puskes, cairan masuk dl ato nanti aja di IGD RS
+	- yg penting primary survey dulu aman abis tu rujuk
+	- klo jarak puskes ke RS jauh, balut dulu luka setelah prim survey aman. wrap kasa biasa kering lukanya abis dibalur antibiotik kaya cling wrap. ato salep silver sulfadiazin (?)
+	- klo gbs intub banget nih
+- jgn sampe overload cairan jadi jangan sampe overestimasi cairan krn takut edem paru
+- AB oral? -> kasi.
+- [ ] late onset vs early onset upper/lower airway inhalation trauma?
+	- gpt: cedera saluran napas bawah biasanya berkembang setelah beberapa jam hingga 24–72 jam.
+
+
+akut abdomen karena trauma
+- seorang laki2 21 th korban tawuran ditemukan tdk sadar dibawa ke RS.
+	- XABCDE (X = external bleeding/exsanguinating, tp jgn kelamaan juga ke airway)
+		- X: turniket klo ekstremitas sampai perdarahan berhenti
+		- A: posisikan kepala, bersihkan benda mulut, panggil (klo bs jawab jelas, airway bagus)
+			- AVPU hanya respon rangsang nyeri
+			- intubasi
+				- preoksigenasi
+				- 1 org pegang leher/posisi kepala pasien utk hindari pergerakan; pegang dari bawah leher aga leher tetap inline
+				- 1 org siapkan alat2 intub
+		- B:
+			- ada jejas toraks kiri anterior (brti trauma tumpul toraks kiri)
+			- inspeksi: gerakan tertinggal, hematom
+			- palpasi: raba, rasakan emfisema subkutis (krepitasi); klo sadar dan kooperatif suruh ngomong cek vokal fremitus bs tidak ada pada yg cedera
+			- perkusi: hipersonor (bergema) pneumo, dullness hemotoraks
+			- auskultasi: pneumotoraks/hemato jadi redup/hilang
+			- abis toraks ke abdo:
+				- I: datar? cedera? ekskoriasi? hematom? bulging?
+				- Palpasi: distensi, lembut/tegang, defans
+					- defans vs nyeri tekan? klo defans seperti papan keras banget, klo cuma nyeri tekan masih lembut
+				- Perkusi: klo liver normalnya dull. klo trauma kemungkinannya 2 di abdo: **perdarahan** (biasanya disertai syok, nadi cepet td rendah, abdo cembung, perkusi dull) atau **peritonitis** (defans, BU hilang)
+				- Auskultasi: BU klo tdk cedera abdomen, klo cedera biasanya lgsg paralitik jd BU tdk terdengar, 
+		- perdarahan intraabdomen klo cukup byk > 1 L biasanya keliat distensi. tp tdk semua terlihat, bisa dikit2 dl. tensi jg masih blm syok misal. memastikan gmn? -> USG FAST (focused abdo sonography for trauma)
+			- di 3 kompartemen: **kanan hepatorenal** (antara liver dan ginjal kanan ada space ga, normalnya gencetan tp klo ada space brti bisa ada darah situ), **kiri splenorenal** (normalnya nempel klo ada space mungkin pendarahan), **suprapubis** (VU sama sekitarnya biasanya nempel, klo ada jarak bs pendarahan)
+			- FAST harus dari waktu ke waktu dilakukan ulang. klo berprogres, tanda2 syok jg bisa berprogres
+		- C: 
+			- rekomendasi penanganan sirkulasi?
+			- begitu diduga ada pendarahan intraabdo (pastikan FAST) -> beri **asam tranex 500 mg**, transfusi packed RBC trombosit dan fresh frozen plasma **1:1:1** (cek **Hb** klo turun jauh misal <6, pesen 4:4:4 gitu misal) (tp di indo susah minta FFP dan trombosit)
+				- alternatif: fresh whole blood
+				- klo adanya PRC aja jg gpp yg penting ada yg menggantikan
+				- klo darah blm ada, masukin kristaloid dl aja utk awal. kristaloid hangatkan jgn sampe hipotermi
+- gpt:
+	- step ladder appearance atau herringbone pattern khas small bowel obstruction (dilatasi beberapa loop usus halus)
+		- kalo large bowel, tampakan dilatasi kolon perifer berbentuk haustra
+	- metallic sound/high pitched khas obstruksi mekanik
+		- ileus paralitik dilatasi usus difus (usus halus dan kolon), suara usus menurun atau tidak ada, bukan suara metalik
+	- Charcot triad 
+
+
+
+pendekatan diagnosis dan update tx akut abdomen
+- definisi akut abdomen? -> presentasi klinis berupa tanda dan gejala nyeri abdomen yang umumnya membutuhkan penanganan berupa tindakan operasi darurat
+- etiologi:
+	- non-bedah (obat dan ipd)
+		- endokrin dan metabolik
+		- hematologik
+		- racun dan obat2an
+	- bedah
+		- hemoragik
+		- infeksi
+		- perforasi
+		- obstruksi
+		- iskemik
+	- gampangnya:
+		- bedah: bedain aja peritonitis atau ileus?
+			- peritonitis
+			- ileus
+				- obstruktif
+					- BU meningkat/metalik sound karena gerakan ususnya maksa melawan obstruksinya
+					- bisa ga obstruktif jadi BU hilang? bisa jg krn intinya ususnya lelah
+				- paralitik
+					- BU gada (krn fungsinya stop)
+- patofisiologi:
+	- referred pain
+		- nyeri refer ke punggung kanan atas <- kole
+- anam:
+	- nyeri (SOCRATES)
+		- C: terus menerus/hilang timbul (klo hilang timbul organ berongga, klo terus menerus bukan organ rongga)
+		- R: menjalar (organ apa)
+		- A: demam, ikterus, mual muntah BAB flatus kembung, BAB darah, spt kotoran kambing, melena -> nyari etiologi/organ
+		- T: 
+		- E: memperburuk/ringan
+		- S: severity/skala nyeri -> VAS (1-10)
+- pemfis:
+	- TTV -> syok/ga
+		- syok sepsis
+		- [ ] syok hipovolemik -> ileus bisa jadi gangguan elektrolit jd syok hipovolemik
+	- I: datar/cembung, tanda2 khas, gambaran kontur usus dan gambaran peristaltik usus
+	- A: BU naik turun gada metalik, 
+	- P: nyeri tekan, defans
+	- P: hipertimpanik
+- penunjang:
+	- darah rutin
+	- bukan BNO (klo itu ureter kandung kemih ginjal)
+	- foto polos abdomen 3 posisi: datar (supine), tegak, lateral (left lateral decubitus)
+	- USG
+- dx
+	- ulu hati perforasi gaster, pankreatitis
+	- kanan kolesistitis/koleliti/abses hepar
+	- bawah: app, KET, 
+- tanda2 khas
+	- cullen sign & grey turner sign yg udah nekrotik
+	- trias pankreatitis:
+		- ...
+		- nyeri ulu hati
+		- penunjang
+	- rovsing: tdk khas tdk selalu di app
+		- teken di kiri kontra mcburney tp nyeri di kanan
+	- obturator: tdk khas jg app. tp klo positif pada app, brti app menyentuh ke muskulus obturator krn posisi app bisa macem2.
+	- psoas: tdk khas jg app. menandakan aja app nya kena psoas muscle
+- lab
+	- elektrolit: ileus
+	- hepatitis: Hbsag, anti-HAV, anti-HCV
+	- diagnostic peritoneal lavage udh ga dipake krn udah ada USG FAST
+- ronsen
+	- pneumoperitoneum krn perforasi organ berongga, plg sering gaster krn paling deket
+	- klo udara di rongga sebelah kiri normal krn = lambung
+	- bedain ronsen ileus obs sm para? -> klo paralitik gangguan fungsi brti seluruh usus distens sampe ke rektum; klo cuma sebagian brti obstruksi
+- tatalaksana
+	- suplementasi o2
+	- none per oral (NPO): puasa (dekompresi)
+	- NGT (dekompresi)
+	- IV access + cross match blood type -> cek darah
+	- koreksi abnormalitas cairan dan elektrolit
+	- urine kateter (dekompresi juga)
+	- medikamentosa
+	- konsul dokte bedah
+- ileus usus besar paling sering karena? -> massa -> tumor rektum
+- summary: akut abdo
+	- medical
+	- surgical (hrs op cito)
+		- dekompresi (liat tx)
+		- foto 3 posisi
+		- NGT
+		- ...
+- ileus letak rendah vs tinggi
+
+- 1-8 1 trauma
+- 10-17 2 burn
+- 18-25 3 akut abdo
