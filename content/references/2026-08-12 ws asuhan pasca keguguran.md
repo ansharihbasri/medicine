@@ -1,0 +1,405 @@
+
+# konsep asuhan pasca keguguran yang komprehensif (dr dini hidayat)
+- asuhan pasca keguguran bukan pelayanan aborsi, tp utk menurunkan angka kesakitan ibu pasca keguguran. bs emergensi/terencana yg ramah perempuan.
+- definisi keguguran: berakhirnya kehamilan sblm janin mampu hidup yakni ketika usia kehamilan belum capai 20 mgg atau berat janin <500 gr
+- klasifikasi bdsr proses terjadi:
+	- keguguran spontan (pengeluaran janin berjalan sendiri tanpa intervensi apa pun)
+		- 
+	- keguguran diinduksi
+		- ![[Pasted image 20260812090916.png]]
+		- indikasi:
+			- kedaruratan medis
+			- kehamilan akibat perkosaan
+- klasifikasi klinis
+	- ada tidaknya proses persalinan (keluarnya jaringan kehamilan)
+		- iminens
+			- akan dipertahankan, konservatif, krn janin masih di dalam.
+		- insipiens
+			- hampir sama dengan inkomplit tapi pembukaan blm banyak. jd janin masih ada di dalem jd ekspektatif, klo gabisa keluar ya operatif. tp klo jadi AB iminen kita konservatif. itu namanya ekspektatif.
+		- inkomplit
+			- terminasi krn gabisa dipertahankan (biasanya tinggal plasenta tersisa)
+		- komplit
+			- tdk ada tx khusus krn udah keluar semua.
+	- missed (hanya bisa dx dari usg). dr umum tdk bisa mendiagnosis ini, jadi kalau curiga harus rujuk spog utk diagnosis akhir
+		- bisa terminasi induksi atau kalau bersisa nanti jadi inkomplit maka ditindak operatif
+	- septik/infeksiosa (bisa jenis keguguran mana aja yg di atas tadi, tp disertai tanda infeksi)
+	- habitualis (berulang lebih dari 3x, apa pun jenis abortusnya)
+	- ![[Pasted image 20260812091214.png]] (gambar insipiens sm inkomplet kebalik ya)
+- penegakan dx bisa oleh dr atau bidan. bidan bs tegakkan abortus dari tanda2 klinis, dokter juga gitu tp punya kewenangan utk konfirmasi dg USG.
+	- bdsr anam pemfis
+	- bdsr penunjang bila bantu tegakkan dx + tx. namun USG bukan syarat mutlak; klo anam pemfis saja sudah jelas tdk perlu USG.
+- ruang lingkup APK + definisi formal
+	- ![[Pasted image 20260812091534.png]]
+	- jadi APK meliputi yg dimerahin aja itu. selebihnya bukan termasuk APK.
+- prinsip layanan APK komprehensif
+	- definisi ![[Pasted image 20260812091805.png]]
+	- ![[Pasted image 20260812091900.png]]
+	- intinya kalau menghadapi keguguran, pendekatan personal + holistik.
+	- pelayanan obstetri neonatal emergensi dasar (PONED), PONEK
+	- komponen: ![[Pasted image 20260812092311.png]]
+- hak perempuan: pilihan, kualitas, akses ![[Pasted image 20260812092718.png]]
+	- pilihan: kuret, medikamentosa, ...
+	- kualitas yg sama tdk membedakan pembiayaan
+	- ...
+- sifat layanan, sikap & perilaku nakes ![[Pasted image 20260812092916.png]]
+- kolaborasi interprofesi
+	- jenis nakes, jenjang faskes
+- layanan APK di FKTP dan FKTRL
+	- ![[Pasted image 20260812093707.png]]
+	- klo FKTP = PONED, FKTRL PONEK
+	- [ ] emon UNFPE/WHO, sinyal fungsi
+		- [ ] FKTP 12 sinyal fungsi, FKTRL
+			- salah satu sinyal fungsi = tx evakuasi sisa kehamilan emergensi
+	- jenis layanan ![[Pasted image 20260812093947.png]]
+
+..........
+
+# etika dan patient safety (dr hadi susiarno)
+- prinsip etika komunikasi pasien
+	- veracity/kejujuran -> jujur, akurat, objektif, komprehensif
+	- confidentiality/menjaga kerahasiaan pasien -> informasi pasien hanya dapat dibagikan dengan mereka yg terlibat dalam pelayanan. TERMASUK rekan dokter lain dsb di luar kepentingan diskusi/konsul utk kepentingan pasien. klo sekadar ngegosip gaboleh. tdk etis. kecuali yg menular seksual, misal hrs disampaikan ke suaminya gt (klo yg bs membahayakan publik, maka ini exception, hrs dibongkar meski dengan demikian hak pasien dilanggar)
+	- fidelity -> setia, menepati janji, mendahulukan pasien
+	- privacy -> pemeriksaan/tindakan di tempat tertutup yg memadai, dsb.
+- kelalaian terhadap etika medis dikatakan apabila terdapat empat aspek:
+	- duty: tidak melakukan kewajiban profesinya
+	- derelection of duty: melakukan tapi disertai penyimpangan dari kewajiban/standar
+	- direct causation: tindakan secara langsung mengakibatkan kerugian yg ditimbulkan
+	- damage: terjadinya kerugian.
+- gugat = perdata = ganti rugi = uang. pidana = penjara.
+- kl ada damage, ada derelection of duty, tapi tanpa direct causation -> gabisa dituntut.
+- sanksi etika medis
+	- nasihat
+	- peringatan lisan
+	- peringatan tertulis
+	- pembinaan perilaku
+	- pendidikan ulang
+	- pencabutan dari keanggotaan
+- insiden keselamatan pasien
+	- kejadian tidak diharapkan (KTD)
+		- kejadian yg menyebabkan cedera akibat suatu tindakan atau tidak melakukan tindakan, bukan akibat kondisi dasar pasien
+	- kejadian nyaris cedera (KNC)
+		- insiden yang timbul tidak/belum terjadi ke pasien sehingga tidak terjadi cedera
+	- kejadian tidak cedera (KTC)
+		- insiden yang sudah terjadi ke pasien namun tidak menimbulkan suatu dampak atau dampak yang timbul lebih ringan dari yang seharusnya
+	- kejadian potensial cedera (KPC)
+		- kondisi yg sangat memiliki potensi menyebabkan cedera namun tidak/blm terjadi insiden
+	- kejadian sentinel
+		- KTD yg menyebabkan kematian atau cedera yang sudah diduga/tidak dapat diterima
+- insiden yg tidak dapat dicegah relatif sedikit dibandingkan yang dapat dicegah
+- tindakan keselamatan pasien 5 moments of medication safety ![[Pasted image 20260812104510.png]]
+	- starting:
+		- perhatikan nama obat
+		- risiko dan efek samping
+		- alternatif obat yg lebih tepat/baik?
+		- melaporkan alergi dan kondisi medis terkait
+		- cara penyimpanan obat
+	- taking
+		- kapan dan berapa banyak dosis yg harus dikonsumsi
+		- cara konsumsi obat
+		- apakah ada makanan/minuman yg memengaruhi obat
+		- bagaimana bila dosis yang lewat
+		- bagaimana bila efek samping obat timbul
+	- adding
+		- apakah obat lain memang diperlukan?
+		- informasi mengenai obat lain yg sudah dikonsumsi pasien
+		- apakah obat yg ditambahkan dapat memengaruhi obat lainnya
+		- bagaimana bila terdapat interaksi
+		- apakah pasien dapat mengonsumsi/memakai beberapa jenis obat?
+	- reviewing
+		- daftar obat2an yg dikonsumsi
+		- hingga berapa lama obat harus dikonsumsi
+		- apakah ada pengobatan yg seharusnya sudah tidak dikonsumsi lagi
+		- kontrol obat2an yg digunakan/dikonsumsi pasien
+	- stopping
+		- kapan pengobatan dihentikan
+		- apakah semua obat dihentikan secara langsung?
+		- bagaimana bila pasien kehabisan obat?
+		- bila hendak menghentikan obat karena efek samping, bagaimana caranya?
+		- apa yg harus dilakukan dengan sisa atau obat yg kadaluarsa?
+- kebijakan kespro terkait apk, kompetensi dan kewenangan profesi ![[Pasted image 20260812110046.png]]
+	- kebijakan APK: peserta harus mampu menjelaskan kebijakan APK
+	- kompetensi dan kewenangan profesi dalam APK: peserta mampu menjelaskan kompetensi dan kewenangan profesi dalam pelayanan APK
+- dasar hukum ![[Pasted image 20260812110151.png]]
+	- yg udh disatukan: UU kesehatan no 17 th 2023; menyatukan 11 UU jadi 1 (omnibus law).
+	- ![[Pasted image 20260812110345.png]]
+	- ![[Pasted image 20260812110407.png]]
+- kompetensi dr umum
+	- ![[Pasted image 20260812110925.png]]
+	- ![[Pasted image 20260812111147.png]]
+	- ![[Pasted image 20260812111417.png]]
+	- ![[Pasted image 20260812111823.png]]
+	- [ ] pertanyaan: jadi insipiens kalo stabil langsung rujuk atau harus tetep sampe tuntas di FKTP? kan di skdi 2024 tadi jadi kompetensi 4
+		- punten dok, nama saya anshari, izin bertanya dok, tadi dikatakan pada abortus insipiens, bila kondisi stabil maka dirujuk ke faskes yang lebih lengkap, sementara tadi sempat ada slide yang menyebutkan menurut SKDI 2024 abortus insipiens juga sudah menjadi kompetensi 4. jadi, apakah sebaiknya tetap dirujuk atau harus dituntaskan di FKTP ya dok? -> tergantung. **klo susah, jauh dirujuk dsb maka jadi 4. kalo jarak deket, gampang dsb nah jadi 3B. jangan cari masalah**
+			- [ ] ⭐️ intinya cek abortus inkom sm insip jadinya gmn yg terbaru
+	- ![[Pasted image 20260812112241.png]]
+	- ![[Pasted image 20260812112410.png]]
+	- ![[Pasted image 20260812112500.png]]
+	- ![[Pasted image 20260812112638.png]]
+	- ![[Pasted image 20260812112648.png]]
+	- ![[Pasted image 20260812112823.png]]
+	- ![[Pasted image 20260812112843.png]]
+	- ![[Pasted image 20260812112919.png]]
+
+....................
+
+# konseling APK
+- definisi: suatu interaksi terstruktur dimana perempuan yg mengalami keguguran secara sukarela menerima dukungan emosional dan panduan dari tenaga terlatih, di sebuah lingkungan yang kondusif untuk bertukar pikiran, perasaan, dan pandangan secara terbuka untuk mengambil keputusan atau mengatasi masalah yang dihadapi
+- tujuan konseling:
+	- ![[Pasted image 20260812131008.png]]
+	- bantu ambil keputusan
+	- berikan dukungan psikososial
+	- bantu rencana kehamilan selanjutnya
+- kapan melakukan konseling?
+	- ![[Pasted image 20260812131110.png]]
+	- sebelum dan sesudah menerima tx medis
+- ⭐️ langkah konseling pratindakan
+	- ![[Pasted image 20260812131204.png]]
+	- SPIKES
+		- setting, bangun hubungan (sejajar, tdk dihalangi meja, ruangan privat, )
+		- jelaskan kondisi medis
+		- bantu ambil pilihan
+		- bantu pengambilan pilihan tx medis (mengeksplor lebih dalam pilihan yg dipilih)
+		- gali rencana kehamilan berikutnya dan kebutuhan kontrasepsi
+		- minta informed consent
+- ⭐️ langkah konseling pasca tindakan
+	- ![[Pasted image 20260812131446.png]]
+	- jelaskan kondisi medis (pastikan bahasa awamnya sesuai, dsb.)
+	- berikan dukungan psikososial (apakah ini kehamilan yg sangat diinginkan? atau sebaliknya? ada sampe ke dukun gitu2?)
+	- gali rencana kehamilan berikutnya dan kebutuhan kontrasepsi (klo bisa pulang dari faskes udah punya KB)
+	- tutup sesi
+- prinsip konseling
+	- komunikasi efektif (jgn 1 arah aja, pertanyaan terbuka, ...)
+	- hormati privasi dan kerahasiaan
+	- gali perasaan dan pikiran
+	- terima pandangan dan perasaan pasien, norma masyarakat
+	- mengenali kebutuhan dan pertimbangan pasien
+	- sediakan info dan bantu aplikasikan info dalam penuhi kebutuhan dan keinginannya
+	- dukung pasien ambil keputusan sendiri dan bertindak atas dasar keputusan tsb
+	- bantu rujuk ke layanan yg dibutuhkan
+- kemampuan yg harus dimiliki konselor
+	- komunikasi non verbal yg efektif
+		- penuh perhatian: dengar dg baik
+			- dengar aktif:
+				- berikan semangat secara verbal
+				- nada suara tepat
+				- paraphrasing
+				- refleksi terhadap perasaan -> tp jangan sok tau jg, hanya menyimpulkan aja
+		- bahasa tubuh: santai dan menerima, berhadapan langsung dengan klien, agak condong ke klien
+		- bahasa tubuh yg memberi semangat, angguk kepala
+		- ekspresi wajah menunjukkan ketertarikan, penerimaan, perhatian
+		- fokus penuh pada pasien
+- ⭐️ konseling dengan teknik GATHER atau SATU TUJU
+	- Greeting/Sapa, selamat pagi, perkenalkan saya..., 
+	- Ask, apa yg ibu tau tentang penyakit ini, apa yg ibu udh ketahui tentang kondisi ini, apakah sudah tahu nama diagnosisnya, ...
+		- biasakan jgn sebatas pertanyaan tertutup ceklis anamnesis. "selamat pagi bu ada yg bisa dibantu, bisa diceritakan perdarahannya seperti apa, ..." -> baru klo ada yg kurang didetailin dengan pertanyaan tertutup ![[Pasted image 20260812132852.png]]
+		- bisa jg address perasaan guilty
+		- cara menanyakan hal yg sensitif ![[Pasted image 20260812133010.png]]
+		- ![[Pasted image 20260812133026.png]]
+	- Tell, ceritakan abortus itu blabla, penanganannya bisa kuretase atau obat dulu, blabla
+		- ![[Pasted image 20260812133311.png]]
+		- metode evakuasi ![[Pasted image 20260812133416.png]]
+			- klo blinded ovum kitanya masih ragu2 tunggu lagi 2 minggu baru periksa lagi; klo pasiennya yg ragu, 1 minggu lagi
+			- medikamentosa: misoprostol, ...
+			- AVM aspirasi vakum manual, kt sudah tinggalkan kuretase tajam
+		- KB ![[Pasted image 20260812133529.png]]
+			- ![[Pasted image 20260812133553.png]]
+				- yg bisa langsung: IUD, kecuali pada mola yg bisa dipake cuma kondom selama 3 bulan sampe siklus haid teratur baru bisa pake pil kombinasi krn kita harus pantau beta HCG
+				- ![[Pasted image 20260812134032.png]]
+					- secara umum IUD bisa langsung trim berapa jg aja
+				- ![[Pasted image 20260812134158.png]]
+					- suntik bs langsung mulai; klo implan jangka panjang jd harus sesuai dg kebutuhan
+				- ![[Pasted image 20260812134320.png]]
+			- kapan KB bisa digunakan pasca keguguran ![[Pasted image 20260812133659.png]]
+			- tdk ada literatur terkait kapan boleh hamil lagi, beda2 yg bilangnya. yg lebih populer sebenrnya kapan aja you ready.
+		- masalah psikososial ![[Pasted image 20260812134433.png]]
+			- jgn pulangkan pasien tanpa jelas tahu dia pulang/lanjut ke mana (perlu ke psikolog/psikiater ga, perlu ke dinas sosial ga, shelter aman ga)
+	- Help, bantu memilih jelasin dulu semua pilihan secara superfisial: kalo kuret, nanti risikonya blabla komplikasinya blabla, klo obat bagaimana, ... kontrasepsi: klo IUD blabla,...
+		- membantu memilih metode evak ![[Pasted image 20260812134617.png]]
+			- klo pake obat lebih panjang, ada mules, keguguran spontan ada perdarahan, ...
+			- klo AVM dg alat, akan dibius/tidak,
+			- klo dg obat misalnya nanti diberikan analgetik juga, klo dg AVM bisa analgetik lokal atau total
+			- keamanan efek samping misoprostol: nyeri perut hebat, perdarahan banyak, syok; komplikasi AVM bisa perforasi, ...
+		- membantu pilih KB ![[Pasted image 20260812134746.png]]
+		- metode KLOP ![[Pasted image 20260812134814.png]]
+			- klo gamau hamil lagi -> sterilisasi
+			- klo masih mau menyusui -> ... (yg aman)
+			- ada kerja sama dg suami? -> kondom
+			- KB yg tidak bisa ditoleransi? misal klo pake IUD perdarahannya banyak bgt dsb jadi ga ditawarin lagi
+			- adakah penyakit khusus saat ini? jantung, dsb.? ...
+	- Explain, setelah dipilih, jelasin lagi yg dipilihnya lebih dalam, demonstrasikan, ...
+	- Return: rencana kunjungan ulang
+		- kuret cek lagi belum tentu bersih,...
+		- obat perlu pantau juga, ...
+- klo emosi pasien ekstrim, fokus tenangkan dl aja, take time di step setting-nya, kasi ruangan, kasi minum, biarkan nangis dulu, dsb.
+	- kata2 yg dihindari: yg membuat pasien menjaga jarak, misal "saya tau perasaan ibu" (langsung aja jd "ibu sangat kehilangan yah"). hindari memotong kalimat, "saya sudah tahu", ... klo pun mau menghentikan jg dipotong tp diarahkan/dialihkan
+- [ ] ⭐️ review all about kontrasepsi
+
+# kegawatdaruratan maternal dan perdarahan trim 1 (dr windi)
+- biasanya kasus obgyn sering kali dg emergensi
+- penyebab kematian maternal paling banyak:
+	- perdarahan
+	- hipertensi
+	- infeksi
+- konsep dasar penanganan kegawatdaruratan maternal
+	- ![[Pasted image 20260812140224.png]]
+- definisi ![[Pasted image 20260812140326.png]]
+	- ![[Pasted image 20260812140417.png]]
+- algotirma ![[Pasted image 20260812140438.png]]
+	- ![[Pasted image 20260812140533.png]]
+	- penilaian awal ![[Pasted image 20260812140615.png]]
+	- ![[Pasted image 20260812140721.png]]
+	- ![[Pasted image 20260812140756.png]]
+	- ibu hamil dg pingsan ![[Pasted image 20260812141007.png]]
+
+## perdarahan TM 1
+- abortus
+	- klo perdarahan di atas 13 minggu disebut jg abortus, tp di TM 1 tetep kita dd abortus
+	- etio:
+		- kelainan plasenta
+		- kelainan pertumbuhan hasil konsepsi
+		- faktor ibu biasanya di atas 13 minggu. klo yg <13 minggu yg lain2 tadi
+		- ![[Pasted image 20260812142925.png]]
+		- 
+	- missed = tdk berkembang lebih dari 8 minggu
+	- pikirkan abortus pada:
+		- ![[Pasted image 20260812142824.png]]
+		- ![[Pasted image 20260812142832.png]]
+	- menilai adanya penyulit ![[Pasted image 20260812142957.png]]
+- KET
+	- bisa di ismus, servik, peritoneum, ... paling sering di tuba di ampulanya
+	- ![[Pasted image 20260812143104.png]]
+	- terganggu = klo ruptur; ato abortus tuba = mengeluarkan darah
+		- klo udh ruptur perdarahan lebih banyak dari abortus. darahnya masuk ke rongga abdo
+		- ⭐️ reaksi areastel (?) -> ooh jd darahnya kaya mens, keluar dari uterus. jadi bukan dari janinnya. makanya ektopik lebih khas nyeri perutnya
+	- tanda gejala ![[Pasted image 20260812143132.png]]
+		- terlambat haid, perdarahan per vag, nyeri perut unilateral
+		- nyeri goyang porsio, jepit porsio dengan 2 jari, ke kanan kiri hingga adnexa ikut tergoyang, itu akan nyeri klo ada ektopik disana
+	- ![[Pasted image 20260812143427.png]]
+		- rahim membesar krn hamil tp tdk sesuai usia kehamilan
+		- klo defans brti udh ada rangsang perito
+	- ![[Pasted image 20260812143612.png]]
+		- kavum doglas menonjol krn terisi darah akibat itu tadi ruptur
+- mola
+	- trofoblastik
+	- DNA 46XO bisa sebabkan ini
+	- ![[Pasted image 20260812143702.png]]
+	- ada mola komplet, inkomplet/parsial
+	- jd klo keluar jaringan, bisa abortus bisa mola;
+		- bedain jaringan vs bekuan darah? klo bekuan darah dipegang/remas hancur gada sisa. klo menetap jaringan.
+
+- skenario
+	- ![[Pasted image 20260812143856.png]]
+		- yg pertama dilakukan?
+			- tanya HPHT -> mens terakhir sekitar 25 juni
+				- ke 25 juli 1 bulan, sampe ke 25 agustus 2 bulan. kalo kali 4 1/3 berarti 8 minggu 4-5 hari. tp skrg tgl 12 berarti kurang 1 minggu. ya sekitar 7-8 minggu.
+			- G1P0A0
+			- disertai nyeri ga? -> ada dikit
+				- unilateral/bilateral? -> bagian bawah aja
+			- pendarahan sebanyak apa? -> hari ini flek2 saja, warna merah segar
+			- gumpalan jaringan keluar? tdk ada
+				- tanyanya: gumpalan seperti telor ikan utk mola.
+			- sampe sini abortus. krn tdk terlalu nyeri, perdarahan dikit.
+			- pemfis:
+				- ABC -> aman
+				- TTV 120/80, 88, 22, afebris
+				- perut:
+					- supel tidak, cembung, pekak samping pindah, nyeri tekan, defans -> tdk ada semua
+					- TFU hanya teraba membesar dikit saja
+				- yg khas utk ibu dengan darah? posisinya litotomi -> inspekulo, cek perdarahannya dari mana apakah dari dalem ato ginek -> hasilnya: porsio licin, tampak keluar darah dari OUE, tdk ada massa
+				- nyeri goyang porsio tdk ada, mulut rahim tertutup atau terbuka. -> hasil: tertutup
+				- sejauh ini: iminens. misal dd KET karena blm lakukan USG. 
+				- konfirmasi lewat? USG. klo usia 7-8 minggu udh keliat belum kantong kehamilan? wajib terlihat. klo didiagnosis iminens dan terlihat janin di USG, berarti tegak.
+					- klo gada kantong kehamilan -> nah hati2 ini KET. hrs rujuk spog.
+			- yg boleh dilakukan dr umum: klo abortus inkomplet.
+				- klo pembukaan tdk ada jaringan -> insipiens
+					- bs AVM
+
+# tatalaksana klinis kasus keguguran (dr ayu)
+- abortus inkomplet secara SKDI sekarang udah 4 brti boleh dilakukan dr umum, tp macem2 kan tadi pilihan2nya; klo pake tindakan liat risk benefitnya dan di faskesnya ga mampu brti rujuk aja. krn gawat tapi tidak darurat. klo tdk ada tanda2 infeksi mah masih aman gt.
+- [ ] biuku panduan cek buku merah yg dr dini hidayat, pedoman asuhan pasca keguguran di FKTP
+- yg paling susah kasus abortus itu nentuin porsionya di mana (kebuka ga, ada jaringan ga, ...)
+- asesmen kasus keguguran
+	- sepaket ada obgyn, dr umum, bidan.
+	- yg pertama tx kegawatdaruratan dulu ABC. lalu sekunder. -> dr umum.
+		- ![[Pasted image 20260812152355.png]]
+		- hati2 klo "pasang di atas harus pasang di bawah" -> jd jangan sampe infus tanpa kateter.
+		- ![[Pasted image 20260812152718.png]]
+		- ![[Pasted image 20260812152728.png]]
+	- 2nd survey anam pemfis dll boleh penunjang juga utk cari tipe keguguran dan tx
+	- dukungan emosional ![[Pasted image 20260812152958.png]]
+	- penegakan diagnosis
+		- ![[Pasted image 20260812153221.png]]
+			- anam
+			- pemfis head to toe
+			- [ ] posisi uterus antefleksi dll.
+			- PENTING JG: tanda2 berkas kekerasan fisik
+			- abdo ![[Pasted image 20260812153610.png]]
+			- panggul ![[Pasted image 20260812153632.png]]
+				- inspeksi dalam pake spekulum (mulut rahim buka/tutup, terlihat ada jaringan/tdk) ![[Pasted image 20260812153709.png]]
+				- palpasi -> bimanual ![[Pasted image 20260812153721.png]]
+					- selalu dari luar sampe ke dalem, jgn sampe keluar masuk krn ga yakin. jadi 1 sweep berurutan kecek semua
+						- kavum douglas di bawah, klo terisi pas di inspekulo aja keliatan kehitaman/keunguan.
+				- penunjang di buku merah cuma 2: HIV, Hb.
+					- tp klo memungkinkan: tripel eliminasi, HBsAg, sifilis dll. tanda2 infeksi brti leukositosis. klo perdarahan banyak cross match, gt. TAPI sesuai kebutuhan dari pemeriksaan di IGD, dan udah dilakukan di IGD juga. ![[Pasted image 20260812153953.png]]
+			- klasif ![[Pasted image 20260812153959.png]]
+	- konseling
+		- ...
+		- bs hamil 10-14 hari; boleh hamil 3-6 bulan
+	- metode evak
+		- medikamentosa
+		- kuret
+			- tajam -> skrg udh ga
+			- vakum -> kompetensi 3B
+
+## panduan demonstrasi alat AVM
+- ![[Pasted image 20260812154556.png]]
+- [ ] minimal udah kebayang penggunaannya ⭐️
+- alat ![[Pasted image 20260812154632.png]]
+- tindakan ![[Pasted image 20260812154722.png]]
+	- tdk harus di OK, bisa di VK, dengan anes lokal. tp tgtg peraturan RS.
+- fakta fitur AVM
+	- ![[Pasted image 20260812154758.png]]
+	- indikasi ![[Pasted image 20260812154807.png]]
+		- abortus inkomplet di atas 13 minggu. ini yg utk dr umum.
+	- ![[Pasted image 20260812154834.png]]
+	- ![[Pasted image 20260812154857.png]]
+		- yg harus steril yg mana? kanulnya aja krn yg masuk ke uterus. aspirator cukup bersih.
+	- ukuran kanul ![[Pasted image 20260812154942.png]]
+		- sekitar 6,7,8 standarnya di 11-12 minggu
+		- gunakan yg terbesar yg bisa masuk
+	- ![[Pasted image 20260812155004.png]]
+	- ![[Pasted image 20260812155006.png]]
+	- cara bongkar ![[Pasted image 20260812155023.png]]
+		- ![[Pasted image 20260812155030.png]]
+		- ![[Pasted image 20260812155050.png]]
+		- ![[Pasted image 20260812155110.png]]
+		- ![[Pasted image 20260812155122.png]]
+		- ![[Pasted image 20260812155126.png]]
+		- ![[Pasted image 20260812155132.png]]
+		- ![[Pasted image 20260812155135.png]]
+		- ![[Pasted image 20260812155149.png]]
+		- ![[Pasted image 20260812155210.png]]
+		- cek daya hisap ![[Pasted image 20260812155214.png]]
+		- memeriksa gagal vakum ![[Pasted image 20260812155226.png]]
+		- ![[Pasted image 20260812155252.png]]
+		- kapan bisa dipakai ulang ![[Pasted image 20260812155305.png]]
+		- ganti jika ![[Pasted image 20260812155325.png]]
+		- ganti kanul jika ![[Pasted image 20260812155336.png]]
+		- warning selama prosedur ![[Pasted image 20260812155358.png]]
+			- vagal jd mo muntah
+	- pemrosesan alat ![[Pasted image 20260812155420.png]]
+		- ![[Pasted image 20260812155425.png]]
+		- ![[Pasted image 20260812155431.png]]
+		- ![[Pasted image 20260812155440.png]]
+		- ![[Pasted image 20260812155443.png]]
+		- ![[Pasted image 20260812155511.png]]
+		- ![[Pasted image 20260812155518.png]]
+		- ![[Pasted image 20260812155522.png]]
+		- ![[Pasted image 20260812155525.png]]
+			- sdh tidak pake klorin krn korosif
+		- ![[Pasted image 20260812155543.png]]
+		- ![[Pasted image 20260812155555.png]]
+		- ![[Pasted image 20260812155611.png]]
+		- ![[Pasted image 20260812155616.png]]
+		- ![[Pasted image 20260812155621.png]]
+
