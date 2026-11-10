@@ -37,12 +37,18 @@ Bates 1340/2145
 ![[hip pathology and examination#^67029c]]
 
 # [[FABER (Patrick) test]]
+
+^705a3e
+
 Bates p. 1344/2145
 ![[Pasted image 20250501131102.png]]
 ![[Pasted image 20250501131200.png]]
 also see [FIFA video](https://www.youtube.com/watch?v=0QAdoOYmsJk) from 3:38 ![[Pasted image 20250501131407.png]]
 check for stiffness (try adding pressure) / pain
 ## [[contra-Patrick test]]
+
+^7e92d3
+
 opposite of [[FABER (Patrick) test]] i.e. internal rotation and adduction (instead of external rotation and abduction)
 [YouTube](https://www.youtube.com/watch?v=7EDRQbg24_4) ![[Pasted image 20250501131747.png]]
 ## [[FADIR test]] <- [[femoroacetabular impingement (FAI)]]

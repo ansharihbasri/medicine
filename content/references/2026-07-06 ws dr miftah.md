@@ -26,7 +26,7 @@
 	- III: patokannya sm kek 2 tp jd: udh kerasa pas: < 1 flight; jalan < 100 meter ...
 	- IV: at rest
 - esc 2023:
-	- initial tx: MONA. klo cpg dl sebelum 2012 krn dl gada pilihan lain; skrg ada yg lebih bagus, tp bukan ranah dok umum. kecuali klo ppk rumah sakit memang wajib cpg, maka ikuti
+	- initial tx: MONA. klo cpg dl sebelum 2012 krn dl gada pilihan lain; skrg ada yg lebih bagus, tp bukan ranah dok umum. kecuali klo ppk rumah sakit memang wajib cpg, maka ikuti ^e3f210
 		- morfin 5-10 mg iv jk px nyeri dan/atau gelisah (lanjut konsul aja gausah pengulangannya)
 			- I: (1) klo tdk mempang dg nitrat setelah 3x pemberian dg selang 5 menit per nitrat, klo berkurang tp tdk signifikan jd indikasi morfin. (2) klo px gelisah, bole morfin tanpa nitrat, krn penenang jg
 			- KI: (-) tp hati2 aja klo dosis tinggi bs depresi napas
@@ -90,17 +90,20 @@
 
 # HF
 - AHF
-	- s/sx
+	- s/sx ^249b79
 		- framingham = sejak taun 60an; tp guideline udh ga pake lg, tp pake s/sx:
 		- (cek tabel s/sxnya)
+			- gallop S3
+			- ...
 		- fokus di s/sx jgn terlalu ke pemfis utk dok umum
 	- -> dx bdsr anam pemfis
-	- 4 skenario AHF
+	- 4 skenario AHF ^ecd076
 		- acute decompensated HF (ADHF) <- yg paling penting
 			- mechanism: LV dysfx, retensi cairan
 			- main cause of sx: fluid accu
 			- bs efusi, bisa rales/rhonki di interstisial
-		- acute pulmonary edema
+		- acute pulmonary edema <- left-sided HF makanya back up ke pulmo
+			- AI: biasanya hyperacute (itungan menit-jam), marked hypertensive BP (e.g. 220/120), not necessarily a/w peripheral edema
 		- isolated right ven failure
 		- cardiogenic shock
 - CHF

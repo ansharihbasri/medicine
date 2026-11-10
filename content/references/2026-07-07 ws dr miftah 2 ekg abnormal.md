@@ -26,7 +26,7 @@ EKG abnormal yg umum:
 				- signifikan:
 					- ST dep, kalo ≥ 0.5 mm (1/2 kk)
 					- T inversi, kalo > 1 mm pada prominent R wave (R/S > 1)
-				- kontiguus:
+				- kontiguus: ^a3777f
 					- I, aVL lateral
 					- II, III, avF inferior
 					- v1 v2 septal

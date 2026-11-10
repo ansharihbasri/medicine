@@ -1,0 +1,71 @@
+
+- + fluoroscopy masukin kontras untuk liat tract
+- anatomi normal dg usia --> krn bisa beda 
+- usg gbs liat ruang berongga, ato yg terhalang tulang (?) dsb
+- 4 densitas usg
+	- anekoik: udara, tulang, isi cairan
+		- tulang ada putih dl bawahnya gelap
+		- klo gelap trs kaya lurus terus -> udara
+		- gelap di bawahnya ada struktur organ, brti cairan
+	- hipoekoik
+	- isoekoik
+	- hiperekoik
+- ct
+	- [ ] perdarahan
+		- epidural
+		- subdural
+		- araknoid
+	- hidrosefalus
+		- [ ] hidrosefalus komunikans
+		- [ ] hidrosefalus non-komunikans
+- usg
+	- apendiks
+		- variasi: [![Usus Buntu - Retrosekal - Pasokan Arteri - Apendisitis - TeachMeAnatomy](https://teachmeanatomy.info/wp-content/uploads/Positions-of-the-Appendix1.png)![Usus Buntu - Retrosekal - Pasokan Arteri - Apendisitis - TeachMeAnatomy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXm9AcGduxrGf7RfSUcaj7Orc7eiyawCV2WjuQKuF-A&s=10)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftranslate.google.com%2Ftranslate%3Fu%3Dhttps%3A%2F%2Fteachmeanatomy.info%2Fabdomen%2Fgi-tract%2Fappendix%2F%26hl%3Did%26sl%3Den%26tl%3Did%26client%3Dimgs&ved=0CBgQjRxqFwoTCMiyuIv3yZYDFQAAAAAdAAAAABA3&opi=89978449)
+		- [![Positions of the vermiform appendix. | Download Scientific Diagram](https://www.researchgate.net/publication/283892767/figure/fig1/AS:669062975721480@1536528452435/Positions-of-the-vermiform-appendix.png)![Positions of the vermiform appendix. | Download Scientific Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTP_dDKoVJFnhkFe7HrHwK6bu-HkehOBGalCEWORWsA&s=10)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FPositions-of-the-vermiform-appendix_fig1_283892767&ved=0CBYQjRxqFwoTCJDR55_3yZYDFQAAAAAdAAAAABA3&opi=89978449)
+		- apendiks bisa juga yg aneh2 misal di deket hepar, di sisi kiri, di bawah VU, dsb. jd harus usg kontras (?)
+- pneumotoraks
+	- gambaran lusen avaskuler
+	- ct keliatan open vs close, klo xray ga
+	- belum tentu mediastinum bergeser (ato belum keliatan jelas) --> jadi fokus cek pleural line nya
+	- pada neonatus: ada garis normal skin fold, bedain dg pneumotoraks [![🩺CXR Skin fold vs Pneumothorax](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyh0P0M7e6u30qa-bPRxa7TpmkuCc7wiiMk4WwZI7ZgcojYTSSsTnN-Of9&s=10)![🩺CXR Skin fold vs Pneumothorax](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEIrjs2jUgwmOexkqpOvWWZUCr8XWBDGMT3Vn2rQYYg&s=10)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FCaduceusMedical%2Fposts%2F4736910489666652%2F&ved=0CBYQjRxqFwoTCOjj9O_4yZYDFQAAAAAdAAAAABA3&opi=89978449)
+	- klo **skin fold** masih vaskuler, dan ada gradasi item ke putihnya
+	- bedain juga **kardiomegali** sm pneumotoraks
+- aortic dissection
+	- lebih ke ct scan bagusnya
+	- tp bisa keliatan klo ada aneurisma (menggembung) di aortic knobnya -> gembung itu bisa aorta ato massa.
+	- bedain massa vs aortic knob (klo aorta gembungnya turun lagi ke bawah)
+- anatomi toraks
+	- esofagus lurus
+	- bronkus
+		- ada bulet2an kecil2 multipel di hilus -> bisa TB. BB ga naik.
+- cardiac tamponade 
+	- bentuk jadi kaya kendi, bukan hanya membesar
+- PIS
+	- ICH
+		- IVH: di ventrikel
+		- ICH
+		- di pons:
+			- perdarahan pons sm ventrikel 4 yg suka bingung
+- pneumoperitoneum
+	- tandanya byk tp klo pake tanda2 itu malah susah
+	- [ ] klo yg tiduran itu yg 13 tanda itu, karena udara ga keliatan
+	- klo cuma 1 di kanan bisa juga lambung inversus di kanan
+	- foto miring 
+	- klo usus yg gede ileus obs jadi udara 
+- obs usus 
+	- letak tinggi vs letak rendah
+- fraktur
+	- jenis2 obllik dll
+	- greenstick hati2 di anak kecil gt
+- [ ] x ray massa
+- massa mediastinum dd massa paru primer di rontgen toraks
+	- klo massa mediastinum, massanya mendorong pelapis mediastinum, jd bagian yg dorong ke parunya, sudut ga runcing.
+	- klo massa primer misal paru lebih runcing krn langsung neken paru dan ada jari2nya krn menyebar
+- pneumotoraks pada tb jadi lokal per lobus
+- [ ] batwing sign edema paru 2/3
+- hernia usus bisa naik ke toraks
+- [ ] metastasis pulmonal -> cannonball sign
+
+- [ ] tulisan baca ronsen
+
+- [ ] efusi pleura
