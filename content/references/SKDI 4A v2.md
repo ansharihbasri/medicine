@@ -109,6 +109,9 @@ summary obat anak
 	- fokus itu dulu weh
 		- also see: ![[2026-07-06 ws dr miftah#^e3f210]]
 			- but then: "We reviewed the role of drugs used for the management of ACS represented by the MONA mnemonic. To summarize, morphine is of limited value because its use is shown to be associated with increased mortality in patients with NSTEMI; oxygen therapy needs to be administered with caution and should be administered preferably in patients with an oxygen saturation ≤ 90%, because it may precipitate recurrent MI; nitrates show excellent analgesic effect but must not be used systemically; and aspirin must be used in all patients except in those with contraindications to its use" (https://pmc.ncbi.nlm.nih.gov/articles/PMC5866121/)
+### RVH LVH
+- ![[2026-07-07 ws dr miftah 2 ekg abnormal#^70f362]]
+- ![[2026-07-07 ws dr miftah 2 ekg abnormal#^ef736d]]
 ### HF
 - AHF
 	- ![[2026-07-06 ws dr miftah#^ecd076]]
@@ -119,23 +122,25 @@ summary obat anak
 ### penyakit katup jantung
 - review lokasi katup: ics 2 kanan = aortic (kan arahnya menjorok ke sana), ics 2 kiri = pulmonal, ics 5 parasternal kiri = trikuspid, apeks = mitral
 - murmur sistolik
-	- mitral stenosis
-	- aortic insuf
-- murmur diastolik
 	- mitral insuf
 	- aortic stenosis
+- murmur diastolik
+	- mitral stenosis
+	- aortic insuf
 ### PJB
 - asianotik
 	- VSD = murmur pansistol
 	- ASD = wide fix splitting S2
 	- PDA = murmur kontinyu
+		- anam yg penting:
+			- sulit naik BB -> failure to thrive
 	- koarktasio aorta = TD ekstremitas atas > bawah, krn penyempitan aorta menyebabkan yg sblm penyempitan tersupply sementara yg setelahnya berkurang/tidak. tanda = 3 sign, i.e. lekukan koarktasio dan cembungan aorta sblm dan setelahnya membentuk kaya angka 3
 - sianotik
 	- ToF (PROV)
-	- Pulmonal stenosis
-	- RVH
-	- Overriding aorta
-	- VSD
+		- Pulmonal stenosis
+		- RVH
+		- Overriding aorta
+		- VSD
 	- TGA = tukar posisi aorta dan pulmo artery
 	- Eisenmenger sx = komplikasi, makanya asianotik jd sianotik
 ### demam rematik akut
@@ -186,8 +191,9 @@ summary obat anak
 			- SVT: gelombang P tdk jelas
 			- sinus taki: P QRS jelas
 			- atrial flutter: saw tooth
+				- P nya banyak QRS dikit tajem
 	- QRS lebar
-		- ireguler: ventricular fib
+		- ireguler: ventricular fib -> gada QRS gajelas
 		- reguler: ventricular taki
 - tx
 	- tentukan stabil/tdk stabil, SAHAM ada salah satu = tdk stabil
@@ -213,8 +219,8 @@ summary obat anak
 		- kardioversi rendah 50-100 J: reguler (SVT, a. flutter; VT lgsg 100 J
 		- kardioversi tinggi 120-200 J: ireguler (a. fib)
 		- defib: v fib
-		- [ ] bifasik 120-200 J
-		- [ ] monofasik 360 J
+			- [ ] bifasik 120-200 J
+			- [ ] monofasik 360 J
 ### cardiac arrest = penkes + nadi tdk teraba
 - shockable
 	- VT tanpa nadi
@@ -484,7 +490,7 @@ summary obat anak
 	- tx
 		- awal/nonspesifik: 1. pct, 2. nsaid
 		- tepat/spesifik: "sumargot"
-			1. sumatriptan 200 mg/hari
+			1. sumatriptan 200 mg/hari (dosis awal 50? sumber: soal kompre aug 2026)
 			2. ergotamin 6mg/hari
 		- profilaksis: "PoASa"
 			1. propranolol (b blocker) 40-240mg
@@ -1141,6 +1147,96 @@ summary obat anak
 ## bedah
 - apendisitis akut (chatgpt)
 	- AB perioperatif: seftri + metronidazol utk cover gram negatif dan anaerob.
+### fraktur
+- fraktur ekstremitas, ronsennya "rule of 2": 2 sisi (kanan kiri/yg fraktur dan yg normal); 2 waktu (sblm dan sesudah terapi); 2 sendi (misal fraktur humerus berarti fotonya melewati sendi bahu dan siku)
+- klasifikasi fraktur terbuka Gustilo-Anderson
+	- luka <1 cm = grade I
+	- luka 1-10 cm = grade II
+	- luka >10 cm atau ada kerusakan jaringan luas = grade III
+		- bone expose (-) = 3A
+		- bone expose (+)
+			- gg NVD (-) = 3B
+			- gg NVD (+) = 3C
+			- \* gg NVD (neurovaskular distal) = pulsasi hilang, CRT lambat, kelainan saraf, ...
+#### fraktur radius distal
+- (-) dislok ulna distal
+	- Colles = dinner fork deformity = angulasi ke dorsal
+	- Smith = garden spade deformity = angulasi ke ventral
+- (+) dislok ulna = Galeazzi
+#### fraktur ulna proximal
+- ... + dislok radius proximal (radial head) = Monteggia
+#### fraktur mandibula
+- = maloklusi pasca trauma, pp: (1) panoramik, (2) CT scan; tx awal: imobilisasi (wire), definitif: fiksasi internal (ORIF)
+#### fraktur tertutup femur
+- = resusitasi ABCDE, prinsip 4R: (1) recognition (dx), (2) reduction (mengembalikan alignment), (3) retention (imobilisasi, splint), (4) rehabilitation. farmako: analgetik, AB sefalosporin, TT & ATS; rujuk ke RS utama utk ORIF (tepat).
+- prinsip pembidaian: (1) PMS (periksa pulse, motorik, sensorik) sblm bidai, (2) mengukur panjang bidai (melewati 2 sendi), (3) PMS setelah bidai
+- [ ] fraktur klavikula
+#### komplikasi fraktur
+- early (<24 jam setelah fraktur)
+	- sindroma kompartemen (acute limb ischemia)
+		- etio: fraktur tertutup, luka bakar, hambatan mekanik/gips yg terlalu ketat.
+		- dx 5P: pain, pallor, pulseless, paresthesia, paralysis
+		- tx: godlen period 6 jam
+			- ≤ 6 jam: rujuk untuk... fraktur tertutup -> fasiotomi; luka bakar -> eskarotomi; hambatan mekanik -> lepas
+			- > 6 jam: amputasi
+	- cedera nervus
+		- eks. superior = plexus brachial ("OM KU DR")
+			- OM = obstetric hand (jari telunjuk tengah gbs plantarfleksi) <- n. medianus
+			- KU = claw hand (jari kelingking manis gbs dorsofleksi) <- n. ulnaris
+			- DR = drop hand (sulit dorsofleksi) <- n. radialis
+		- eks. inferior = plexus femoral ("TiKa PeDe")
+			- TiKa = n. tibialis posterior -> claw foot 
+			- PeDe = n. perineal communis -> drop foot (sulit dorsofleksi, jalan seperti menyeret)
+		- 
+- late
+	- nyeri +
+		- delayed union (telat menyatu) = kalau > 8 mgg post terapi tapi kalus tetap minimal -> garis fraktur +, krepitasi +
+			- kalus = jaringan yg terbentuk di sekitar situs fraktur yang menstabilisasi fragmen dan memulai proses penyembuhan. bisa berupa serabut2 halus di antara garis fraktur.
+	- nyeri (-)
+		- non-union (tidak menyatu) = garis fraktur +, krepitasi +, pseudoartrosis (spt ada sendi palsu), ujung2 tulang atrofi/sklerosis
+		- mal-union (menyatu tdk sempurna) = garis fraktur -, krepitasi -, deformitas/shortening/angulasi/...
+#### fraktur maksila = foto Waters
+- LeFort
+	- I: fraktur di maksila horizontal -> floating palatum
+	- II: fraktur di nasofrontalis -> berbentuk piramid -> floating maksila
+	- III: di orbita (ato lebih lengkapnya, melalui garis nasofrontal, maksilofrontal, zigomatikofrontal) -> buta -> floating face
+- tx: ORIF
+### dislokasi
+- keluarnya kepala sendi dari tempatnya -> gg. mobilisasi, nyeri +, krepitasi (-)
+- panggul
+	- anterior -> caput femur berada di bawah acetabulum -> jd eksorotasi, abduksi
+	- posterior -> caput femur berada di atas acetabulium -> jd endorotasi, aduksi
+- bahu
+	- anterior -> half moon overlap -> eksorotasi, abduksi
+	- posterior -> lamp bulb appearance -> endorotasi, aduksi
+### sprain
+- grade I = regangan ligamen -> nyeri otot tungkai ringan, edema minimal, masih bisa jalan
+- grade II = robekan parsial -> nyeri otot tungkai sedang, edema minimal/sedang, jalan pincang
+- grade III = robekan total -> nyeri otot tungkai berat, edema berat, tdk bisa berjalan
+- pp: MRI/USG
+- tx: PRICE (protection, rest, ice, compression, elevasi); tepat = rujuk u/ repair
+#### cedera ligamen di lutut/knee joint
+- ![[Pasted image 20261112124752.png]]
+- cruciate ligament
+	- ACL -> [[Lachman test]], [[anterior draw test]], [[pivot shift test]] (ALOt)
+	- PCL -> [[posterior draw test]], [[posterior sag test]] (PeSag)
+	- LCL -> varus stres test (varus = var = far = lateral)
+	- MCL -> [[abduction (valgus) stress test]]
+- meniskus
+	- ligamen medial
+		- apley test = endorotasi
+		- mcmurray test = eksorotasi
+	- ligamen lateral
+		- apley test = eksorotasi
+		- mcmurray test = endorotasi
+	- ruptur meniskus bisa jg dengan [[Thessaly test]]
+- tx = rujuk u/ repair ligamen
+#### ruptur tendon achilles
+- gabisa plantarfleksi, jinjit, menginjak rem
+- nyeri +, gap di tendon +, edema pergelangan kaki
+- [[Thompson aka Simmonds test]] +
+- pp: (1) MRI, (2) USG
+- tx: operasi repair tendon
 # obgyn
 - [ ] preeklampsi
 - [[perdarahan per vaginam]]

@@ -4,10 +4,10 @@ EKG abnormal yg umum:
 	- cara tau ventrikel kanan vs kiri gmn di ekg?
 		- cek dari axis.
 		- tp kriteria utama bkn dari axis, tp dari perhitungan.
-			- kriteria LVH
+			- kriteria LVH ^ef736d
 				- yg plg penting: sokolow-lyon > 35 = S V1/V2 + R v5/v6 > 35. pilih V1 atau V2 yg paling dalem. V6V5 juga gt.
 					- contoh: V1 5.5 KB (27) + V5 2.5 KB (12) = 39 brti masuk 
-			- kriteria RVH
+			- kriteria RVH ^70f362
 				- yg plg penting: R/S V1 > 1. jd visual aja bandingin R sm S nya lebih tinggi ga
 				- atau S persistent > 5 di V6 -> S yg ttp masih dalem; normalnya S kan makin ilang seiring beranjak ke V6. klo tetep gede brti itu masuk kriteria.
 		- AV node masuk his bundle, bb, purk
