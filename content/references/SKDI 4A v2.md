@@ -255,14 +255,568 @@ summary obat anak
 ## respi
 - [[croup]] (eh tp croup ga masuk skdi; klo pertusis emg 4A cm kan udh ada vaksin DTP juga jd memang ga sebanyak itu kali ya kasusnya)
 	- [[croup vs pertussis]]
-- [[asthma]]
-	- eksaserbasi ringan-sedang (dewasa, dewasa muda, anak 6-11 tahun)
-		- SABA inhalasi, 4-10 puff setiap 20 menit dengan total 3 dosis; bila membaik setelah 1 jam, tidak perlu SABA lagi. bila menetap atau kambuh, SABA bervariasi 4-10 puff per 3-4 jam hingga 6-10 puff per 1-2 jam atau lebih sering.
-			- SABA inhal 4 puff setara nebules **2.5 mg** (bisa diencerkan dalam NaCl 0.9% 2cc)
-		- ICS-formoterol lebih ideal dibandingkan SABA; maks total 12 inhalasi dalam 24 jam.
-		- suplementasi oksigen: target SpO2 93-95% (atau ≥94% pada anak 6-11 th). SpO2 jangan melebih 96% pada dewasa.
-- [ ] TB
-	- regimen OAT apa si yg klasik sebutannya: 2RHZE/4RH
+### spirometri
+- nilai normal
+	- FVC (forced vital capacity) >80% --> kapasitas
+	- FEV1 >80% --> aliran
+	- FEV1/FVC >70%
+- penyakit paru obstruktif vs restriktif
+	- obs = saluran (aliran) bermasalah --> FEV1 turun
+	- res = parenkim (kapasitas) bermasalah --> FVC turun
+	- mix dua2nya bermasalah jd turun dua2nya
+### [[asthma]]
+- eksaserbasi ringan-sedang (dewasa, dewasa muda, anak 6-11 tahun)
+	- SABA inhalasi, 4-10 puff setiap 20 menit dengan total 3 dosis; bila membaik setelah 1 jam, tidak perlu SABA lagi. bila menetap atau kambuh, SABA bervariasi 4-10 puff per 3-4 jam hingga 6-10 puff per 1-2 jam atau lebih sering.
+		- SABA inhal 4 puff setara nebules **2.5 mg** (bisa diencerkan dalam NaCl 0.9% 2cc)
+	- ICS-formoterol lebih ideal dibandingkan SABA; maks total 12 inhalasi dalam 24 jam.
+	- suplementasi oksigen: target SpO2 93-95% (atau ≥94% pada anak 6-11 th). SpO2 jangan melebih 96% pada dewasa.
+- pp
+	- spirometri (FEV1, KVP, APE) --> gabisa pada emergensi krn lama/susah
+		- **FEV1 ≥12%** atau 200cc paska bronkodilator -> menunjukkan reversibilitas
+	- peak flow meter (APE) --> utk ringan-sedang; klo udh berat/ancam nyawa pakenya AGD
+		- peningkatan 60 lpm atau ≥20% paska bronkodilator
+- derajat asma (PDPI 2021 hal 34), bdsr gejala siang
+	- intermiten = bulanan (<1x/mgg)
+	- persisten ringan = mingguan (>1x/mgg)
+	- persisten sedang = harian (tiap hari)
+	- persisten berat = kontinyu 
+- derajat serangan asma (KEMENKES ASMA, 2008, hal 12)
+	- posisi, cara bicara, RR, nadi, mengi, retraksi
+		- ringan: terlentang, 1 kalimat, <20, <100, akhir ekspirasi paksa, retraksi -
+		- sedang: duduk, bbrp kata/frasa, 20-30, 100-120, akhir ekspirasi (biasa), retraksi +
+		- berat: tripod, kata per kata, >30, >120, inspirasi dan ekspirasi, retraksi +
+		- mengancam jiwa: bradikardi, torakoabdominal paradoksal, silent chest, penkes
+- derajat serangan asma update PDPI 2021
+	- intinya sama aja cuma ringan-sedang digabung. jadi:
+		- ringan-sedang: duduk, frasa, <30, 100-120, retraksi -, SpO2 <90-95
+		- berat: tripod, kata per kata, >30, >120, retraksi +, SpO2 <90
+- tx PDPI 2021 hal 39-50
+	- intermiten: dosis rendah ICS-formoterol prn (symbicort 160mcg/puff)
+	- persisten ringan: ICS 200-400 mcg/hari (2-4 puff)
+	- persisten sedang: kombinasi ICS 400-800 mcg/hari (4-8 puff) + LABA
+	- persisten berat: kombinasi ICS >800 mcg/hari (>8 puff) + LABA + salah satu dari: teofilin lepas lambat/leukotriene modifiers/KS oral
+- derajat kontrol asma GINA 2024 hal 78
+	- krit
+		- gejala harian >2x/mgg
+		- terbangun malam akibat asma
+		- penggunaan pelega >2x/mgg utk atasi gejala
+		- keterbatasan aktivitas karena asma
+	- derajat
+		- terkontrol baik = tdk ada 1 pun
+		- terkontrol sebagian = 1-2
+		- tdk terkontrol = 3-4
+	- GINA 2025
+		- uncontrolled asma = meliputi either or both of:
+			- gejala kontrol buruk (sering serangan/penggunaan pelega, keterbatasan aktivitas karena asma, serangan malam hingga terbangun)
+			- eksa sering (≥2x/thn) yg butuh OCS atau eksa berat ≥1x/thn yg butuh ranap
+		- difficult-to-treat asthma = asma tdk terkontrol walau sudah dengan tx dosis **ICS sedang-tinggi** + **kontroler lini 2** atau **OCS** ATAU **butuh terapi dosis tinggi** untuk menjaga agar gejala menjadi terkontrol dan mengurangi risiko eksaserbasi
+		- severe asthma = asma tdk terkontrol meski telah patuh thd **ICS-LABA dosis tinggi** dan modifikasi faktor risiko
+- tx eksa GINA 2004 hal 22
+	- ringan-sedang
+		- SABA 4-10 puff via MDI atau nebu 2.5-5 mg tiap 20 min selama 1 jam
+		- consider ipra brom (ga harus dari awal, bisa di yg nebu kedua ketiga dsb)
+		- controlled O2 -> jaga 93-95% (atau 94-98% pada anak)
+		- oral KS (prednison/prednisolon 40-50mg)
+	- berat
+		- SABA
+		- ipra brom standar dari awal sekalian (0.5 ml tiap 20 menit)
+		- controlled O2 (sama kek ringan-sedang)
+		- oral or IV KS (bisa MP 125mg)
+- obat2an
+	- SABA = salbu, terbu
+	- SAMA = ipra
+	- ICS = bude
+#### dump
+- klasifikasi asma
+	- bdsr derajat kendali
+		- kriteria:
+			- gejala asma siang hari >2x/mgg
+			- terbangun malam hari karena asma
+			- penggunaan obat pereda >2x/mgg
+			- keterbatasan aktivitas fisik karena gejala asma
+		- derajat:
+			- terkendali penuh = semua krit tidak ada
+			- terkendali sebagian = 1-2 krit
+			- tidak terkendali = 3-4 krit
+	- serangan/eksaserbasi
+		- ringan = sesak jika jalan, posisi bisa tidur telentang, 1 kalimat, nadi <100, RR <20, SpO2 >95%
+		- sedang = sesak jika berbicara, posisi harus duduk, beberapa kata, nadi 100-120, RR 20-30, SpO2 91-95%
+		- berat = sesak meski istirahat, posisi harus duduk, kata per kata, nadi >120, RR >30, SpO2 <90%
+	- ukdi corner:
+		- terkontrol
+			- mingguan
+				- intermiten = <1x/mgg, FEV1 >80%
+					- tx: obs + simto (saba), no kontroler
+				- persisten ringan = >1x/mgg tapi <1x/hari, FEV1 >80%
+					- tx: ICS
+			- harian
+				- persisten sedang = tiap hari, FEV1 60-80%
+					- tx: ICS + laba
+				- persisten berat = terus-menerus (24 jam), FEV1 <60%
+					- tx: ICS + laba + ks sistemik/teofilin/leukotrien
+		- status asmatikus = asma mengancam jiwa
+			- ancaman gagal napas: hemodinamik terganggu – TTV terganggu; wheezing (-) silent chest – otot napas lelah
+			- tx awal: O2 + saba + ipra brom + ks sistemik/inhal
+			- tx tepat: pasang ventilator
+		- klasif anak
+			- intermiten <6x/thn
+				- (-) kontroler
+			- persisten ringan >1x/bln
+				- ICS dosis rendah
+			- persisten sedang >1x/mgg
+				- ICS dosis rendah + laba
+			- persisten berat tiap hari
+				- ICS dosis sedang + laba
+### PPOK
+- batuk kronis, sputum produktif bisa sampe kuning/purulen saat eksaserbasi
+- pemfis: pursed lip breathing, tampilan pink puffer/blue bloater,barrel chest, rhonki/wheezing, ...
+	- blue bloater = chronic bronchitis -> batuk purulen produktif 3 bulan selama 2 th berturut2 (wat?)
+	- pink puffer = emphysema -> sela iga melebar, barrel chest, ...
+- pp
+	- spirometri
+		- FEV1 <80% prediksi
+		- FEV1/FVC <70% (GOLD), <75% (pneumobile Indonesia)
+		- uji bronkodilator: FEV1 paska bronko <80% prediksi
+	- xray
+		- corakan bronkovaskular = bronkitis kronik
+		- hiperinflasi, hiperlusen, sela iga melebar, diafragma mendatar, jantung menggantung (pendulum/teardrop) = emfisema
+- klasifikasi PPOK GOLD 2022 -> pada pasien dengan FEV1/FVC <70%:
+	- GOLD 1 (ringan): FEV1 ≥80%
+	- GOLD 2 (sedang): FEV1 50-80%
+	- GOLD 3 (berat): FEV1 30-50%
+	- GOLD 4 (sangat berat): FEV1 <30%
+- klasifikasi mMRC -> bdsr gejala (mnemo: **sesak** bawa **tangga**, **jalan jadi lambat** karena bawa **100** **baju**)
+	- derajat 0: hanya sesak saat aktivitas berat
+	- derajat 1: sulit napas ketika jalan jauh/menanjak
+	- derajat 2: jalan lebih pelan dari org seusianya karena sesak, atau harus berhenti jalan untuk nafas
+	- derajat 3: berhenti untuk nafas setelah jalan 100m
+	- derajat 4: sangat sulit bernapas utk meninggalkan rumah atau sesak saat berpakaian/lepas pakaian
+- tx PPOK stabil GOLD 2022
+	- 0-1 moderate exa (dlm 1 th) not leading to hospital admission
+		- mMRC 0-1, CAT <10 = group A
+			- --> a bronchodilator
+		- mMRC ≥2, CAT ≥10 = group B
+			- --> a LABA or LAMA
+	- ≥2 moderate exa or ≥1 leading to hospital admission
+		- mMRC 0-1, CAT <10 = group C
+			- --> LAMA
+		- mMRC ≥2, CAT ≥10 = group D
+			- LAMA
+			- or LAMA + LABA <-- consider if highly symptomatic (e.g. CAT >20)
+			- or ICS + LABA <-- consider if eos ≥300
+- tx PPOK stabil GOLD 2023
+	- intinya sama cuma bedanya grup C sama D jadi satu = group E. tx grup E =
+		- LABA + LAMA
+		- or LABA + LAMA + ICS jika eos ≥300
+- tx PPOK eksa
+	- gejala kardinal PPOK eksa = 1. sesak bertambah, 2. volume sputum bertambah, 3. purulensi sputum bertambah
+	- derajat
+		- mild = only 1/3 gejala kardinal
+			- no AB
+			- increase bronko, tx simto
+		- moderate or severe = 2-3/3 gejala kardinal
+			- simple COPD = no risk factors
+			- complicated COPD = ≥1 risk factors (age >65 y, FEV1 <50%, >3 exa/year)
+### TB
+- penyebaran: droplet
+- foto toraks
+	- TB aktif: kavitas >1, bayangan opak, pelebaran hilus (anak)
+	- TB inakfi: fibrotik, kalsifikasi, penebalan pleura (Schwarte sign)
+- gold standard: kultur sputum dengan media Lowenstein Jensen
+- alur diagnosis permenkes 2016
+	- terduga TB
+		- klo ada TCM, tes TCM
+			- MTB +, rif sensitif -> **TB terkonfirmasi bakteriologis** -> pengobatan TB lini 1
+			- MTB +, rif indeterminate -> ulangi TCM
+			- MTB +, rif resistance -> **TB RR** (rujuk)
+		- klo gada TCM tp adanya BTA, tes BTA
+			- klo salah satu dari sputum pagi dan/atau sewaktu ada yg + brti -> **TB terkonfirmasi bakteriologis** -> pengobatan TB lini 1
+			- klo keduanya negatif
+				- -> foto toraks
+					- gambaran mendukung TB -> **TB terkonfirmasi klinis** -> pengobatan TB lini 1
+					- tidak mendukung TB -> bukan TB; cari diagnosis lain
+				- atau kalau tdk bisa dirujuk utk pemeriksaan2 di atas, terapi antibiotika non-OAT
+					- bila ada perbaikan klinis -> bukan TB; cari dx lain
+					- tdk ada perbaikan klinis, ada faktor risiko TB, dan atas pertimbangan dokter -> **TB terkonfirmasi klinis** -> pengobatan TB lini 1
+- alur diagnosis SE Kemenkes 2021 hal 3
+	- terduga TB -> harus TCM
+		- no result, eror, invalid -> TCM ulang
+		- MTB negatif -> periksa radiologi/antibiotik spektrum luas
+			- abnormalitas paru mengarah TB/tdk ada perbaikan klinis -> pengobatan TB SO dengan OAT lini 1
+			- gambaran paru tampak normal/perbaikan klinis -> bukan TB
+		- MTB +, rif indeterminate -> TCM ulang dan sesuaikan pengobatan sesuai hasil
+		- MTB +, rif sensitif -> periksa uji kepekaan INH pada pasien dengan riwayat pengobatan sebelumnya
+			- resisten INH -> pengobatan TB monoresisten INH
+			- sensitif INH -> lanjutkan OAT lini 1
+		- MTB +, rif resisten -> rujuk
+			- pemeriksaan molekuler (LPA lini 2/TCM XDR dll) atau pemeriksaan paket standar uji kepekaan fenotipik
+				- sensitif thd obat gol fluorokuinolon -> pengobatan TB RO paduan jangka pendek
+				- resisten thd kuinolon -> pengobatan TB RO paduan individu
+- klasif TB
+	- bdsr riw pengobatan
+		- baru = belum pernah minum OAT atau sudah tapi <28 hari
+		- kambuh/relaps = sudah dinyatakan sembuh atau lengkap pengobatan, namun saat ini terdiagnosis TB kembali
+		- dropout/LTFU = sudah pernah minum OAT ≥1 bulan, tapi tidak minum obat 2 bulan berturut2
+			- interupsi pengobatan = klo ga minum obatnya <2 bulan
+		- gagal = BTA masih + meski sudah bulan 5 pengobatan, atau BTA - tapi foto toraks mendukung TB
+		- kronis/persisten = masih BTA + meski sudah dengan kategori 2
+	- bdsr status HIV
+	- bdsr resistensi OAT
+		- 1 obat
+			- rifampisin = resisten rifampisin
+			- selain rif = monoresisten
+		- 2 obat
+			- rifampisin + INH = multi drug res (MDR)
+			- rifampisin + selain INH = resisten rifampisin
+			- dua2nya selain rifampisin = poliresisten
+		- > 2 obat
+			- MDR + kuinolon (minimal 1) = pre-extensive drug res (pre-XDR)
+			- MDR + kuinolon (minimal 1) + OAT lini 2 injeksi (kanamisin, kapramisin, amikasin) = XDR
+- efek samping obat
+	- OAT lini 1 -> skrg disebut pengobatan TB SO menurut PDPI 2021
+		- I**N**H -> **n**europati perifer (kesemutan) -> kasi vit B6,12
+		- rif -> urin **merah**, anemia **hemo**litik, **r**uam kulit
+		- **p**irazinamid (Z) -> gout artritis (**pirau**), paling he**p**atotoksik
+		- streptomisin (S) -> gg. pendengaran & keseimbangan (mnemo: liang telinga bentuknya huruf S wkwk)
+		- **e**tambutol -> gg penglihatan: buta (**e**ye), ...
+	- OAT lini 2 -> ud gadipake lg sejak PDPI 2021
+		- tp nice to know: 2(HRZE)S/HRZE/5(HRE)
+- terapi OAT kategori 1 (2RHZE/4HR)
+	- indikasi: TB paru terkonfirmasi bakteriologis; TB paru terdiagnosis klinis; TB ekstraparu
+	- tahapan:
+		- intensif tiap hari RHZE (150/75/400/275) selama 8 mgg (2 bln)
+		- lanjutan tiap hari RH (150/75) selama 16 mgg (4 bln)
+	- bdsr BB (kg), RHZE -> RH
+		- 30-37 = 2 tablet 4KDT -> 2 tablet
+		- 38-54 = 3 tablet 4KDT -> 3 tablet
+		- 55-70 = 4 tablet 4KDT -> 4 tablet
+		- ≥71 = 5 tablet 4KDT -> 5 tablet
+- pemantauan pengobatan
+	- pasien baru 2RHZE/4RH -> bulan 2,5,6
+		- bulan 2 BTA + = tidak konversi -> tetap lanjutkan ke fase lanjutan tapi sambil di TCM utk uji kepekaan (evaluasi thd TB-RO)
+		- bulan 5,6 BTA + = gagal pengobatan
+- kondisi2 khusus
+	- ARV dan OAT
+		- PNPK HIV 2019 -> tunda ARV 2-8 mgg setelah mulai OAT dan dapat ditoleransi baik
+		- PERMENKES 2022 -> ARV sesegera mungkin dalam 2 minggu pertama OAT tanpa memandang nilai CD4. karena bila mulai bersamaan, bisa (1) hepatotoksik, (2) IRIS (beban sitokin) karena peningkatan respon imun akibat OAT dan ARV nya dobel2 gitu.
+			- kecuali TB meningitis, ARV tunda minimal 4 minggu (dan dimulai dalam 8 minggu) setelah OAT
+			- bila sebelumnya sudah minum ARV, maka OAT dapat langsung diminum; juga bila sebelumnya sudah minum OAT maka ARV dapat langsung diminum dan dipantau toleransinya
+	- OAT dan DM
+		- sama aja yg penting DM-nya terkontrol.
+		- bila gula darah tdk terkontrol, lama pengobatan diperpanjang sampai 9 bulan.
+		- rifampisin bisa mengurangi efektivitas sulfonilurea (glibenklamid, glimepirid, ...) -> mungkin perlu naik dosis atau ganti OAD
+		- efek samping OAT yg relevan: etambutol (penglihatan) dan INH (neuropati perifer) yg keduanya juga efek samping dari DM
+	- OAT dan bumil
+		- sama aja, kecuali gaboleh streptomisin karena bisa menembus barier plasenta menyebabkan permanen ototoksik
+	- OAT dan hepatitis akut
+		- tunda OAT sampai hepatitis sembuh -> sebaiknya rujuk (krn OAT kan hepatotoksik)
+	- drug-induced hepatitis (DIH) akibat OAT
+		- algoritma
+			- bila ada gejala klinis mual, muntah -> stop OAT
+			- bila ada gejala lainnya disertai peningkatan SGOT dan/atau SGPT >3x -> stop OAT
+			- bila tdk ada gejala, tapi
+				- bilirubin >2 atau SGOT, SGPT >5x lipat -> stop OAT
+				- SGOT, SGPT >3x -> lanjutkan OAT dengan pemantauan
+		- cara adjust OAT
+			- OAT yg di-stop = RHZ (yg hepatotoksik)
+			- jika setelah stop, lab kembali normal, reintroduce obat satu2 dg urutan R, H, Z -> masing2 dosis naik perlahan hingga full sambil constantly monitor lab
+			- bila rif tdk ditoleransi, gunakan 2HES/10HE
+			- bila INH tdk ditoleransi, gunakan 6-9RZE
+			- pada pasien ikterik dianjurkan tidak include pirazinamid dalam paduan obat
+- TB laten (kemenkes, petunjuk teknis ILTB 2020 hal 13)
+	- TST (skin test) dan IGRA +, tapi CXR dan dahak negatif
+	- berikan TPT utk cegah reaktivasi 
+	- kelompok risiko:
+		- ODHA org dg HIV/AIDS
+		- kontak serumah dg pasien TB terkonfirmasi bakteriologis:
+			- anak <5 th
+			- anak 5-14 th
+			- remaja dan dewasa
+		- pasien imunokompromais, warga binaan, pengguna narkoba suntik
+	- pilihan TPT: 3HP, 3HR, 6H (P = rifapentine)
+		- kontak serumah usia <2 th: 3HR, 6H
+		- kontak serumah usia 2-4 th: 3HP
+		- kontak serumah usia >5th: 3HP
+		- ODHA usia <2th: 3HR, 6H
+		- ODHA usia >2th: 3HP, 6H
+		- kelompok risiko lainnya: 3HP
+- TB ekstraparu
+	- limfadenitis TB
+		- cold abscess (ga nyeri, ga merah)
+		- pp: FNAB/biopsi kelenjar
+		- tx: OAT 6-12 bln
+	- meningitis TB
+		- gejala2 meningitis
+		- pp: kultur LCS
+		- tx: OAT 9-12 bln
+	- TB tulang, sendi
+		- cold abscess
+		- kultur MTB di cairan sinovial atau jaringan tulang
+		- OAT 9-12 bln
+- TB anak (kemenkes 2019, hal 103; kemenkes 2023, hal 31)
+	- BB turun/ga naik. batuk demam, tp keluhan2 lain ga seprominen TB dewasa
+	- TCM
+		- + -> TB anak terkonfirmasi bakteriologis -> terapi OAT
+		- - atau spesimen dahak susah didapat
+			- CXR dan/atau uji tuberkulin bisa -> sistem skoring
+				- skor ≥6 = TB anak klinis -> terapi OAT
+				- skor <6:
+					- tuberkulin + dan/atau kontak TB paru + = TB anak klinis -> terapi OAT
+					- tuberkulin - dan/atau kontak TB paru - -> observasi 2 mgg (sambil tx AB non-OAT)
+						- menetap = TB anak klinis
+						- menghilang = bukan TB
+			- CXR/tuberkulin gabisa
+				- kontak TB paru + = TB anak klinis -> terapi OAT
+				- kontak TB paru - / tdk jelas = observasi 2 mgg (sambil tx AB non-OAT)
+					- menetap = TB anak klinis -> terapi OAT
+					- menghilang = bukan TB
+	- skoring TB anak ![[Pasted image 20261114143317.png]]
+### pneumonia
+- infeksi parenkim
+- radang paru akibat non-mikroorganisme = pneumonitis
+- klinis: BSD - batuk sesak demam
+- pemfis: bagian tertinggal waktu napas, fremitus meningkat, perkusi redup, ronki, 
+- jenis
+	- bronkopneumonia
+		- bercak infiltrat pada lapang paru
+		- sering pada bayi dan ortu
+		- bakterial/viral
+	- pneumonia lobaris
+		- mengenai 1 lobus
+		- jarang pada bayi dan ortu
+		- sering bakterial
+	- pneumonia interstitial
+- klasifikasi
+	- CAP
+		- dari komunitas; bila di-ranap, dalam 48 jam pertama MRS
+	- HAP (hospital acquired)
+		- >48 jam pertama MRS, tanpa intub
+	- VAP (ventilator associated)
+		- 48 jam paska intubasi endotrakeal
+	- HCAP (healthcare associated)
+		- tdk ranap, tp riw kontak dg nakes (cuci darah, kemo, perawatan luka, ...)
+- etio
+	- CAP: gram +, strep pneumoniae
+	- nosokomial: gram -, Klebsiella pneumoniae, Pseudomonas aeruginosa
+	- pneumonia atipik: CLM chlamydia, legionella, mycoplasma (walking pneumonia = krn keliatan sehat2 aja)
+	- pneumonia aspirasi: bakteri anaerob (sputum berbau busuk)
+- diagnosis CAP (kemenkes pneumonia 2023, hal 10)
+	- wajib ada xray: infiltrat baru atau progresif + ≥ 2 gejala:
+		- batuk progresif
+		- perubahan karakter dahak/purulen
+		- suhu aksila ≥38 atau riwayat demam
+		- fisik: tanda konsolidasi, nafas bronkial, ronki
+		- lab: leukositosis ≥10k / leukopeni ≤4.5k
+- bdsr warna dahak
+	- hijau: Pseudomonas, Haemophilus
+	- rust/warna berkarat: S. pneumonia
+	- red currant jelly sputum (merah): Klebsiella pneumonia
+- radiologis
+	- CXR PA/lateral: infiltrat sampai konsolidasi dengan air bronchogram
+- derajat keparahan CAP
+	- CURB-65
+		- krit:
+			- confusion
+			- ureum >40mg/dL atau 7mmol/L
+			- RR ≥30
+			- BP <90 dan ≤60
+			- ≥65 tahun
+		- skor:
+			- 0-1 = rajal
+			- 2 = consider ranap
+			- 3 = ranap
+			- 4 = consider ICU
+- tx
+	- rajal
+		- sehat (tanpa komorbid): "ADA", pilih:
+			- amox 3x1g
+			- doxy 2x100mg
+			- azitro 500mg (H1) lanjut 1x250mg
+		- dg komorbid  (CKD, HF, DM, dll): pilih:
+			- kombinasi (A) dan (B)
+				- (A) amoxiclav 2x875/125mg ATAU sefalosporin
+				- (B) makrolid (azitro) ATAU doxy 2x100mg
+			- kuinolon monoterapi (levo, moxi, gemifloxacin)
+	- ranap
+		- CAP berat atau tidak berat, tanpa faktor risiko MRSA/pseudomonas -> mirip2 rajal komorbid tapi IV, misal:
+			- beta-laktam + makrolida (ceftri + azitro)
+			- monoterapi kuinolon
+			- beta-laktam + doxy
+		- dg faktor risiko lokal MRSA/pseudomonas:
+			- MRSA -> vankomisin
+			- pseudomonas -> piperasilin-tazobaktam atau sefepim
+		- suspek aspirasi (stroke, old age)
+			- metro terutama suspek abses, empiema
+#### pneumocystis jirovecii pneumonia
+- ciri khas batuk kering, pada pasien HIV lama
+### bronkitis
+- manifestasi mirip pneumoni/BP tapi lebih ada manif saluran napas atas jg faring hiperemis dll
+### bronkiektasis
+- dilatasi bronkus permanen, jd tdk elastis lagi, akibat infeksi berulang kaya TB; disertai inflamasi dinding bronkus dan parenkim paru sekitarnya
+- dilatasi patologis bronkus, obliterasi percabangan berikutnya, retensi sekret (krn sistem mukosilier tdk berfungsi lagi), inflamasi kronik pada jaringan setempat
+- klasif
+	- kongenital
+	- akuisita (inf berulang)
+- pemfis: ronki basah basal, clubbing finger (akibat hipoksia sbg kompensasi)
+- pp
+	- CXR: honey-comb app, tram-track line (kaya rel kereta)
+	- gold: high resolution CT (HRCT) = signet ring cell
+	- sputum 3 lapis (saking lama mengendapnya): busa, saliva/cairan jernih, pus/endapan
+- jenis bentuk bronkiektasis: normal, cylindrical/tubular (dilatasi sal napas), varicose (area konstriktif fokal disertai dilatasi sal napas), cystic/sakular (paling berat, kista ukuran besar, grape-like clusters)
+- tx
+	- stabil (suportif krn ireversibel): bronkodilator, mukolitik, KS inhal
+	- eksaserbasi: + AB
+		- pilihan AB: 7-10 hari
+			- ringan-sedang -> amox, kotri, azitro PO
+			- sedang-berat -> genta, tobra IV
+			- list overall:
+				- AB empiris: amoks 3x500-1g (atau amoksiklav 3x625), berikan hingga hasil kultur sputum keluar -> AB sesuai kultur
+					- alternatif: doxy 2x100, cipro 2x500-750
+				- AB spesifik:
+					- S. pneumoniae: amoks 3x500 14 hr
+					- H. influenzae: amoks 3x500mg atau 3x1g atau 2x3g — semua 14 hr
+					- Moraxella catarrhalis: amoksiklav 3x625mg 14 hr
+					- MSSA: flukloksasilin 4x500mg 14 hr
+					- MRSA: oral doksi 2x100mg 14 hr, IV vankomisin 2x1g 14 hr
+					- P. aeruginosa: cipro 2x500mg 14 hr, lebih parah 2x750mg 14 hr
+		- 4 dari 9 gejala eksa dg tanda:
+			- peningkatan jumlah sputum
+			- peningkatan sesak
+			- peningkatan batuk
+			- suhu >38
+			- peningkatan mengi
+			- malaise, lemah, lesu atau penurunan exercise tolerance
+			- penurunan fungsi paru
+			- perubahan CXR dg infiltrat
+			- perubahan suara napas
+	- fisioterapi dada (drainase postural)
+### efusi pleura
+- gejala utama = sesak, jika jumlah efusi banyak (>500mL).
+	- semakin sesak jika tidur miring ke arah sehat (karena paru yg sehat kegencet)
+		- in contrast to atelektasis (semakin sesak di sisi yg sakit)
+	- pemfis fremitus taktil menurun, tp perkusi redup
+- etio:
+	- transudative -> karena tekanan osmotik kapiler meningkat di sekitar pleura jadi plasma osmosis ke pleura.
+		- MARCH:
+			- Meig's syndrome
+			- albumine (low)
+			- renal failure
+			- cirrhosis/CCF
+			- heart failure/hypothyroidism
+	- exudative -> karena permeabilitas kapiler meningkat misal pada inflamasi/infeksi, shg pus dll bisa masuk ke pleura
+		- MYOPIA
+			- Malignancy (lung cancer, lymphoma)
+			- Yellow nail syndrome
+			- Oesophageal rupture
+			- Pancreatitis/PE
+			- Infection (pneumonia, TB)
+			- Autoimmune (SLE, RA, sarcoidosis)
+- pp
+	- CXR PA (keliatan klo udh byk) meniscus sign, ato right lateral decub biar lebih keliatan
+	- tes rivalta utk membedakan transudat vs eksudat; + pada eksudat.
+	- parasentesis cairan pleura (mengevaluasi pH, protein, LDH, kolesterol, glukosa)
+- Light's criteria -> utk bedain transudat vs eksudat jg: (mnemonya inget aja 5-6-7 merepresentasikan 50%, 60%, 70% mengacu ke 2/3 ish; klo eksudat kan ramai jd dia lebih dari itu semua)
+	- pleura : serum protein =
+		- < 0,5 -> transudat
+		- ≥ 0,5 -> eksudat
+	- pleural : serum LDH =
+		- < 0,6 transudat
+		- ≥ 0,6 eksudat
+	- pleural fluid LDH =
+		- < 2/3 upper limit or normal -> transudat
+		- > 2/3 upper limit or normal -> eksudat
+	- main causes =
+		- transudat: HF, cirrhosis, nephrotic sx, pulmo embolism
+		- eksudat: malignancy, pneumoni bakteri/iral, TB, ...
+- tx
+	- torakosentesis terapeutik bila px blm stabil, pada triangle of safety:
+		- ![[Pasted image 20261114171430.png]]
+	- water-sealed drainage (WSD) bila px stabil
+### abses paru
+- infeksi paru sampe nekrosis lalu supurasi (jd gejala bisa kek pneumoni)
+- etio
+	- bakteri aerob: strep, staph
+	- bakteri anaerob: peptostreptococcus, fusobacterium, prevotella, bacteroides ... (bakteri2 gigi)
+	- via:
+		- aspirasi dari sekresi oral (etio tersering) akibat gingivitis atau poor oral hygiene
+		- hematogen: suppurative thromboembolism
+		- endotracheal obstruction
+- "sakit gigi linda flu"
+	- sakit gigi = etio
+	- klindamisin 3x600mg IV (hari 1) lalu 4x150-300mg PO berikutnya; tx hingga resolusi pada foto toraks (3-6 mgg)
+		- bila tidak respons AB, drainase perkutan atau operatif
+	- air fluid level radiologisnya
+- pemfis: suara napas bronkial, amforik (kaya meniup botol kosong), ronki basah kasar, krepitasi
+- tx lain: suportif (hidrasi, diet, antipiretik), fisioterapi dada
+### aspirasi
+- masuk benda asing ke sal napas
+- manifestasi tgtg nyangkut dimana:
+	- laring: stridor
+	- trakea: audible slap, palpatory thud (akibat benda asingnya naik turun pas kita tarik buang napas)
+	- bronkus: suara napas menurun
+- pp: CXR, bronkoskopi
+### pneumokoniosis
+- menghirup partikel sesuatu jd inflamasi -> fibrosis -> scarring
+- klinis: mirip bgt pneumoni
+- inhalan - nama penyakit - exposure - karakteristik xray
+	- silika - silikosis - pabrik **besi**, baja, **keramik**, beton, timah putih - **egg shell calcification** (kaya nodul2 bentuk telur)
+	- asbestos - asbestosis - pemintalan asbes, pekerja galangan kapal - **pleural plaque** a.k.a. **ground glass app**
+	- kapas - bisinosis/Monday fever - pemintalan kapas, tekstil, gudang kapas - Monday disease (batuk dan sesak hari pertama kerja)
+		- (biasanya hari senin masuk kerja kerasa, besok2nya udh biasa tp pas libur weekend masuk lg senin kerasa lg)
+	- tebu - bagassosis - perkebunan tebu
+	- spora - farmer's lung - perkebunan
+	- batu bara - antrakosis/black lung dx - pekerja tambang batubara - focal and interstitial fibrosis / **nodul2 mirip egg shell tapi pada posterosuperior**
+	- berilium - beriliosis - pabrik seng (bentuk silikat) dan mangan
+### Ca paru
+- tumor ganas dari epitel bronkus (karsinoma bronkogenik)
+- RF paling sering: rokok
+- klinis: batuk berdarah, kronis, usia tua, nyeri dada, suara serak, BB turun, sesak, demam lama, bengkak/benjol leher
+	- (mirip TB paru), tp > 2 mgg meski dengan pengobatan standar (TB, pneumoni)
+- pp
+	- CXR massa opak
+	- CT kontras, MRI non-kontras
+	- gold: histopatologi
+- jenis
+	- non small-cell lung carcinoma
+		- 85% dari ca paru
+		- meliputi karsinoma sel skuamosa, adenokarsinoma, giant cell karsinoma...
+	- small cell lung carcinoma
+		- lebih progresif, lbh gampang nyebar, mudah kambung, kurang respons thd tx
+### tumor mediastinum
+- massa di rongga mediastinum bkn di paru
+- klinis mirip2 Ca paru
+	- bedanya **gada riw rokok** 
+- CXR sudut tumpul (klo Ca paru lancip) ![[Pasted image 20261114174721.png]]
+### analisa gas darah (AGD)
+- hafalin nilai normal
+	- pH 7.35 - 7.45
+		- < asidosis, > alkalosis.
+	- pCO2 35-45 (ingetnya ilangin aja 7 dari pH di atas)
+		- = asam
+	- HCO3- 22-26
+		- = basa
+	- (jarang keluar si tp) anion gap 3-11 mmol/L
+- step baca AGD: -> **intinya, tentuin dl asid/alkalosis dari PH. abistu liat mana di antara pCO2 vs HCO3- yg kira2 menyebabkan si asid/alkalosis itu; klo pCO2 brti respi, klo HCO3- brti meta; abistu tinggal liat apakah udah/blm terkompen parsial (krn klo full logikanya terkoreksi dong pH-nya) dg liat si lawannya.**
+	1. tentukan asidosis/alkalosis. -> pH
+	2. respiratorik/metabolik? lalu 3. tanpa atau dengan kompensasi parsial
+		- asidosis + pCO2 meningkat = respi
+			- HCO3- normal = tanpa kompensasi
+			- HCO3- naik = kompensasi parsial
+		- asidosis + HCO3- turun = meta
+			- pCO2 normal = tanpa kompensasi
+			- pCO2 turun = kompensasi parsial
+		- alkalosis + HCO3- naik = meta
+			- pCO2 normal = tanpa kompen
+			- pCO2 naik = kompen pars
+		- alkalosis + pCO2 turun = respi
+			- HCO3- normal = tanpa kompen
+			- HCO3- turun = kompen pars
+	- kalo asidosis tp pCO2 naik dan HCO3- turun, brti asidosis respi + meta **mixed**.
+- kondisi2 yg khas:
+	- asidosis respi = asma, PPOK
+	- alkalosis respi = hipertiroid
+	- asidosis meta = diare
+	- alkalosis meta = muntah berlebihan
 ## abdomen (GEH)
 - mual
 	- [[domperidone]]
@@ -1186,7 +1740,7 @@ summary obat anak
 			- DR = drop hand (sulit dorsofleksi) <- n. radialis
 		- eks. inferior = plexus femoral ("TiKa PeDe")
 			- TiKa = n. tibialis posterior -> claw foot 
-			- PeDe = n. perineal communis -> drop foot (sulit dorsofleksi, jalan seperti menyeret)
+			- PeDe = n. peroneal/fibular communis -> drop foot (sulit dorsofleksi, jalan seperti menyeret)
 		- 
 - late
 	- nyeri +
@@ -1222,14 +1776,10 @@ summary obat anak
 	- PCL -> [[posterior draw test]], [[posterior sag test]] (PeSag)
 	- LCL -> varus stres test (varus = var = far = lateral)
 	- MCL -> [[abduction (valgus) stress test]]
-- meniskus
-	- ligamen medial
-		- apley test = endorotasi
-		- mcmurray test = eksorotasi
-	- ligamen lateral
-		- apley test = eksorotasi
-		- mcmurray test = endorotasi
-	- ruptur meniskus bisa jg dengan [[Thessaly test]]
+- meniskus injury in nutshell
+	- apley sm mcmurray intinya menjepit meniskus dg kompresi aksial. bedanya apley posisi pronasi dg tibia tegak lurus ditekan ke bawah, vs mcmurray supinasi dan kompresinya on the air
+	- utk jepit lebih khusus meniskus medial, si kapsul bagian medial harus distretch agar ruangan sekitar meniskus semakin sempit, ini dicapai dengan valgus stres dan supaya lebih optimal + eksorotasi. jadi kalo nyeri pada eksorotasi + valgus stres brti yg cedera medial. begitu sebaliknya pada meniskus lateral, kapsul lateral distretch dengan varus stres dan endorotasi.
+	- thessaly jg sama cm kompresi aksialnya dg gravitasi sambil dia berdiri
 - tx = rujuk u/ repair ligamen
 #### ruptur tendon achilles
 - gabisa plantarfleksi, jinjit, menginjak rem
@@ -1237,6 +1787,91 @@ summary obat anak
 - [[Thompson aka Simmonds test]] +
 - pp: (1) MRI, (2) USG
 - tx: operasi repair tendon
+#### osteomyelitis
+- demam >38, nyeri +, eritem +, edema +
+- lab: leukositosis
+- etio: Staph au. (RF, riw ispa, fx terbuka)
+- klasif
+	- onset
+		- akut <2 mgg
+		- subakut 2mgg - 1 bln
+		- kronik >1 bln
+	- xray tulang --> gold: MRI
+		- akut: soft tissue swelling
+		- subakut:
+			- abses brodie -> abses intraoseus yg terisolir (walled off)
+		- kronik:
+			- sequestrum = dead, necrotic bone, dana ter-sekuestrasi dari blood supply jadi susah sembuh
+			- involucrum = lapisan tulang baru yg tumbuh di sekitar sequestrum
+			- kloaka (keliatan berlubang di tulangnya) -> bukaan/pori2 yg terbentuk di involukrum; memungkinkan pus/jaringan granulasi keluar/sbg drainase dari sequestrum
+	- tx
+		- resus cairan
+		- farmako: AB (sefalosporin), analgetik, antipiretik -> rujuk RS u/ debridement
+#### tenosinovitis de Quervain
+- etio: overuse/trauma pada pangkal jempol
+- pp: Finkelstein test ![[Pasted image 20261113071110.png]]
+- tx: imobilisasi -> bebat tekan; NSAID/analgetik adjuvan
+#### spondilosis/spondiloartrosis
+- = OA pada vertebra; osteofit, celah sendi hilang
+#### spondilolisis
+- cedera (fraktur/hancur) pada pars articulatio vertebra
+- foto: Scottie dog sign
+#### osteoporosis
+- pp awal: xray
+- klasif
+	- primer
+		- idiopatik, gg. hormonal, def estrogen, menopause
+			- tipe 1: menopause (perempuan doang)
+			- tipe 2: senilis >65 th (perempuan/laki)
+	- sekunder
+		- obat2an, steroid, penyakit (hiperparatiroid, hipoparatiroid)
+	- dx: asimtomatis, kifosis/skoliosis, rentan terjadi fraktur collum femur/colles/kompresi
+- pp tepat: BMD/dexa
+	- T score
+		- < -2.5 sd = osteoporosis
+		- -1 s/d -2.5 sd = osteopenia
+		- > -1 sd = normal
+- tx: rujuk; terapi:
+	1. bifosfonat 1mg/hari
+	2. kalsium 1000 mg + pro vit D
+#### keganasan pada tulang
+- massa pada tulang, nyeri, alarm sign + (bb turun, anemia)
+- RF: riw fraktur + dipijat
+- tipe
+	- osteosarkoma
+		- 10-30th
+		- Codmann triangle
+		- sunburst appearance
+	- osteokondroma
+		- cauliflower
+		- 30-50th
+	- kondrosarkoma
+		- pop corn app
+		- 30-50th
+	- Ewing sarkoma ("anak bawang")
+		- 5-20 th
+		- onion skinn appearance
+- tx: rujuk u operasi/kemo
+#### osteoartritis
+- etio: degeneratif, obesitas
+- sendi: unilateral, sendi besar, lutut/vertebra
+- signs
+	- [[Heberden sign]], [[Bouchard sign]]
+- dx: krepitasi +, ...
+- pp: foto lumbosakral/genu, penyempitan celah sendi, osteofit, sklerosis, kissing bone
+- tx awal/tepat: modifikasi gaya hidup (turun BB, olahraga (1) sepeda, (2) renang, fisioterapi strengthening)
+	- 1. pct 1000mg, 2. nsaid
+- tx definitif/gagal obat: rujuk operasi
+- klasif OA:
+	- 1: osteofit kecil
+	- 2: osteofit + jelas, sedikit penyempitan celah sendi
+	- 3: osteofit + multipel, penyempitan celah sendi +, sklerosis
+	- 4: osteofit luas +, penyempitan celah sendi +, sklerosis, kissing bone (celah sendi hilang)
+#### gout artritis
+- unlateral, sendi kecil, MTP 1
+- podagra (akut): inflamasi +, demam +/-
+- tofus (kronik): inflamasi -
+- interkritikal: lagi gada podagra/tofus
 # obgyn
 - [ ] preeklampsi
 - [[perdarahan per vaginam]]
