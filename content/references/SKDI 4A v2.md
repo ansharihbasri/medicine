@@ -829,6 +829,599 @@ summary obat anak
 	- H2 receptor antagonist may be considered. results show particularly may be mote effective on asian compared to western population
 	- prokinetics may be effective in some FD patients regardless of subtype. but more robust RCT is needed to fully elucidate effect. 
 	- fundic relaxant drug may be effective in improving FD esp. PDS. e.g. acotiamide
+### penyakit rongga mulut
+#### glositis atrofi
+- papil atrofi akibat inflamasi, tampak licin. eritem, nyeri.
+- etio: infeksi candida, SBHA; non-inf: anemia def besi/B12
+- tx: atasi penyebab dasar; oral hygiene chlorhexidine gluconate 0.2%
+#### median rhomboid glositis
+- eritem di foramen cecum (daerah aga ke pangkal lidah tengah), asimtomatik
+- RF: rokok, HIV, candida
+- tx: obs, atau penyebab dasar
+#### benign migratory glositis/geographic tongue
+- bercak merah dengan tepi putih meninggi (pulau), asimto
+- etio: psoriasis, atopi, kontrasepsi oral
+- tx: tdk perlu, hanya oral hygiene (chlorhexidine gluconate 0.2%)
+#### oral candidiasis
+- plak putih kekuningan dasar eritem kalo dikerok
+- C albicans
+- dd coated tongue (tifoid) -> klo dikerok tdk eritem
+- tx: **nistatin** drop kaya perdoski **4x sehari 4-6ml** (1 ml nya = 100k unit)
+#### leukoplakia
+- plak putih tdk bisa dikerok, lesi pra kanker
+- rokok, alkohol
+- tx: krioterapi, bedah eksisi
+#### eritroplakia
+- plak merah, gabisa dikerok, asimto
+- lesi prakanker
+- rokok, alkohol
+- tx: bedah eksisi
+#### karies gigi
+- lesi bs aktif/inaktif
+	- aktif = warna putih/coklat muda
+	- inaktif = warna coklat tua/item
+- streptokokus mutans memetabolisme gula jadi asam yg mendemineralisasi gigi
+- tx: gosok gigi fluoride, scaling, restorasi
+#### gingivitis
+- merah bengkak, klo digosok berdarah
+- bs jadi periodontitis jk tidak di-tx
+- RF: rokok, DM, hamil
+- tx: oral hygiene, gosok gigi, scaling
+#### stomatisis aftosa rekuren
+- ulkus soliter/multipel pada mukosa mulut.
+- sembuh dalam 1-2 mgg
+- etio: idiopatik, stres, trauma lokal, def besi, folat, alergi, HIV dll
+- klinis: lesi keabuan/keputihan dg halo eritem
+- bs jadi ulkus
+- mukosa labial, bukal
+- subtipe
+	- SAR minor = soliter <1 cm, sembuh <2 mgg
+	- mayor = soliter >1 cm, sembuh 2-6 mgg
+	- herpetiform = multipel 1-2 mm, bergerombol, sembuh bulanan
+- tx: mengurangi nyeri dan mempercepat sembuh
+	- hindari pencetus/obati etio
+	- jaga oral hygiene chlorhexidine gluconate 0.2%
+	- steroid topikal: triamcinolone asetonid orabase oint. 0.1% (keringkan ulkus dulu baru oleskan tipis pake cotton bud trs jgn makan) atau dexametason elixir gargling 0.5mg/5cc 2-3x sehari
+	- edu jgn stres, tidur cukup, hidrasi bagus
+- dd SAR
+	- herpangina = etio Coxsackievirus A, usia 3-10 th, predileksi palatum molle dan uvula, berbentuk vesikel. tx simto, rehidrasi cukup, self limiting 7-10 hr
+	- herpes labialis = HSV-1, lesi vesikular kecil rasa nyeri terbakar, tx: asiklovir 2x500mg atau 3x400mg 
+	- HFMD = etio Coxsackievirus A16, self lim, harus isolasi, rehidrasi + simto, sembuh dalam 7-10 hari
+	- cicatrial pemphygoid = autoimun pada antigen basal epitel, spt bula vesikel bisa pecah, tx steroid (triamcinolone)
+	- drug-induced mucocutaneous syndrome, rx HS tipe 2, vesikel di kulit dan mukosa. pada SJS ten, dll.
+### gaster
+#### akalasia
+- degenerasi pleksus auerbach/myenterikus -> kegagalan otot polos utk berelaksasi -> hipertoni -> LES tertutup
+- RF: autoimun, Chagas dx, sarkoidosis, ...
+- klinis: gbs nelen (disfagia), awalnya gbs yg padet2 tp lama2 yg lunak jg gitu; sampe nyeri dada/ulu hati. muntah menetes dari mulut klo bungkuk. BB turun, kurus
+- pp: awal esofagogram barium -> bird beak sign / rat tail sign (LESnya nyempit)
+	- endoskopi utk eksklusi malignansi
+	- gold std: manometri -> menilai tekanan/relaksasi LES (puasa dulu)
+- tx: obat2an relaksan LES: ISDN 5 mg 10-15 menit sblm makan bs menurunkan tekanan LES
+	- CCB, injeksi botulinum toksin (bersamaan dengan EGD/endoskopi, biasa utk lansia, tp efek cuma 6-12 bulan), antikolinergik
+	- definitif: operasi dilatasi pneumatik (dimasukin balon nnt dilebarkan), myotomi heller (otot LES dipotong jd lebih buka)
+#### ruptur esofagus
+- robeknya dinding eso (hingga mukosa pada Mallory Weiss tear) atau transmural (Boerhave)
+- akibat peningkatan tekanan intraesofageal (mual muntah hebat plg sering) dll
+- lapisan eso dari dalem ke luar: mukosa -> submukosa -> tunika muskularis -> adventitia
+	- Mallory Weiss: mukosa - submukosa
+		- klinis: muntah darah, sakit ulu hati 
+		- tx: obs aja, PPI, asam tranex (mengurangi pendarahan)
+		- pp: CXR ga keliatan, esofagografi ga keliatan apa2; endoskopi ada robekan linier
+	- Boerhave: tembus semua lapisan, sampe bs bolong
+		- klinis: perdarahan hebat, syok hemo, udara yg ditelan bisa jadi pneumomediastinum (Hamman's crunch klo diauskultasi suara crunch, nyeri dada hebat tiba2), emfisema subkutan, odinofagia
+		- tx: bedah
+		- pp: CXR pneumomediastinum, hidropneumotoraks; esofagografi barium bocor; endoskopi perforasi
+#### varises esofagus
+- stigmata (tanda2)
+- esofagografi tampak gambaran berkelok2 serpiginosa -> Red wale sign, cherry red spot
+#### GERD
+- etio: abnormalitas anatomi (transient LES relaxation yg tdk dipicu refleks menelan), peningkatan tekanan intraabdomen
+- RF: makan berlemak, obesitas, alkohol, kopi, dll, bumil, stres
+- klinis:
+	- gejala tipikal: rasa terbakar di dada, asam pahit lidah, nyeri telan, sendawa
+	- atipikal: ekstraesofageal: batuk, suara serak, erosi gigi/karies, globus faringeus, 
+	- alarm sx: disfagia, odinofagia, GI bleeding, pneumoni aspirasi, IDA, massa epigastrik, turun BB, nyeri persisten, mual muntah sering
+	- kompli: esofagitis kronis (inflamasi dan iritasi asam), Barret's eso (metaplasia sel epitel, dari skuamosa jadi kolumnar; di sebagian org bs anaplasia jadi adenokarsinoma), ulkus pep dan perdar sal cerna, LPR (masalah di upper esofageal sfingter), striktur eso (stenosis akibat fibrosis), Mallory Weiss tear
+- algoritma
+	- curiga GERD
+		- cek alarm sx
+			- ada: rujuk
+			- tdk ada: PPI test dosis ganda cont: ome 2x20 selama 2 mgg
+				- perbaikan = + GERD
+					- -> tx GERD 8 mgg
+				- negatif
+- pp: 
+	- GERD-Q
+		- skor ≥ 8 positif
+		- 2 soal positif -> semakin sering terjadi, skor semakin tinggi
+			- regurgitas
+			- heartburn
+		- 2 soal gejala negatif/ga berhub. -> semakin sering, skor makin rendah
+			- nyeri ulu hati
+			- gejala mual
+		- 2 soal dampak -> semakin sering, skor semakin tinggi
+			- gg tidur
+			- sering minum obat
+	- endoskopi kalo ada alarm sx
+	- histopato klo kecurigaan baret eso dll
+	- manometri utk periksa LES
+	- gold std: **pH metri impedansi** selama 24 jam (dipasang kateter di hidung 24 jam nnt diliat pH nya brp; klo <4 brti +) (pemasangan kaya manometri tapi lebih atas, kurleb 5 cm di atas LES)
+- tx pilihan PPI: PELOR dari dosis paling gede smpe kecil
+	- panto = 1-2 x 40 mg
+	- eso = 1-2 x 40 mg
+	- lanso = 1-2 x 30 mg
+	- ome = 1-2 x 20 mg
+	- rebe =  1-2 x 20 mg
+- tx nonfarmako: modif BB, diet, tinggi bantal, miring ke kiri karena lambung di kiri jd ngumpul di lambung, klo ke kanan nnt balik ke eso, makan malam 3 jam sblm tdr
+#### Barret esofagus
+- kondisi pre-maligna
+- skuamosa -> kolumnar
+- bs anaplasia jd adenokarsinoma eso
+#### dispepsia
+- sekelompok gejala saluran cerna atas yg muncul selama ≥ 4mgg
+- fungsional
+	- endoskopi normal
+	- klinis:
+		- ulcer-like type
+			- epigastrik pain sx
+				- tx 1st line: PPI, 2nd: antihistamin H2 (rani) + mukoprotektor
+		- dismotility-like type
+			- PPDS
+				- 1st line: prokinetik (dompe, ondan, metoclo)
+- organik
+	- endoskopi abnormal
+	- klinis:
+		- ulkus peptikum
+			- ulkus kedalaman >0.5 cm
+		- gastritis erosiva
+			- ulkus kedalaman <0.5 cm, mukosa aja
+- alarm sx: turun BB, disfagia progresif, muntah persisten, perdar sal cerna, anemia, demam, massa abdo bagian atas, riw kanker lambung di keluarga, onset baru >50 th
+	- mnemo: "50 ALARMS" >50 th, Anemia, Loss of weight, Anorexia, Riw GI bleeding, Riw keluarga, Massa/muntah berulang, Swallowing difficulty
+- pp:
+	- lab darah
+	- gold std: endoskopi
+	- urea breath test
+	- USG abdomen klo curiga massa
+##### dispep fx
+- dx dispep fungsional
+	- ROME IV ≥1 gejala gastroduodenal; muncul selama 3 bulan terakhir dengan onset gejala 6 bulan sblm dx; gada frekuensi minimum kejadian; tanpa kelainan organik
+		- 2 gejala pertama yg ulcer like type
+			- nyeri epigastrium
+			- rasa terbakar di epi
+		- 2 gejala dismotility
+			- rasa penuh/tdk nyaman setelah makan
+			- cepat kenyang mengganggu
+	- RF: perempuan, lansia, inf H pylori, NSAID, depresi, cemas, pola diet
+- tx dispep fx
+	- awal: PPI empiris dengan/tanpa prokinetik jika tdk ada tanda bahaya
+		- prokinetik dosis efektif terendah (dompe 3x10 dsb)
+		- TCA dan prokinetik bisa bila gagal PPI
+		- consider CBT, psikoterapi
+- algo 
+	- dispepsia blm terinvestigasi -> usia >50 th dan/atau alarm sx?
+		- ya -> endoskopi
+			- penyebab organik -> tx sesuaikan
+			- tidak organik -> dispep fx -> UBT dan treat pylori?
+				- negatif -> PPI
+					- tdk membaik? -> TCA
+						- tdk membaik? -> prokinetik
+							- tdk juga? -> psikoterapi
+		- tdk -> terapi inisial empiris (+ test and treat pylori jika prevalensi tinggi), PPI dosis tunggal (1x20 ome dsb)
+			- respons? berhasil terapi
+			- tdk respons? endoskopi (see above.)
+##### gastritis erosiva
+- ulser <0.5 cm
+- patfis: luka mukosa -> faktor protektif -> inhibisi prostaglandin yg memicu sekresi bikarbonat -> pepsin & asam lambung menembus lamina propria -> jaringan pemb darah terluka
+- RF: NSAID kronik, alkohol, hipoksia jaringan
+	- cox-1 = produksi prostaglandin -> menghasilkan mukus protektif
+- klinis: mual muntah (bs darah), nyeri abdo
+- gold std: endoskopi
+- tx: PPI PELOR
+##### ulkus peptikum
+- bs karena NSAID, h pylori
+- diskontinuitas lapisan mukosa/muskularis mukosa hingga submukosa lambung/duodenum
+- ulser >0.5cm
+- 2 jenis
+	- ulkus gaster
+		- saat makanan masuk lambung, nyeri memberat krn lambung terpapar HCl yg terpicu. klo makanan 2-3 jam berikutnya mereda krn makanan udh masuk ke duodenum
+	- ulkus duodenum
+		- kebalikan: setelah makan ga nyeri justru reda, tp 2-3 jam setelahnya baru kerasa pas makanan masuk ke duodenum.
+- klinis: nyeri pada 1 titik dapat menjalar ke punggung, disertai muntah
+- patfis singkat: 
+	- H pylori memproduksi enzim urease -> mengubah urea jadi amonia -> amonia bersifat basa, pH tinggi; klo pylori banyak di lambung, urea amonia makin byk jadi gaster yg awalnya pH rendah jadi basa, nah gaster basa itu gagal membunuh bakteri di lambung, jd keluarlah sitokin2 inflamasi utk melawan itu, jadilah kerusakan barier mukosa sbg akibat, trs bakterinya bs masuk ke epitel jadi ulkus.
+- pp:
+	- UBT gold std utk pylori
+	- biopsi mukosa gaster trlu invasif
+	- endoskopi klo alarm sx
+- tx
+	- pylori
+		- lini 1 triple tx (PAK)
+			- PPI 2x1 (dosis ganda)
+			- amoks 2x1g
+			- klaritro 2x500 mg
+		- lini 2 bila gagal lini 1: quadriple tx
+			- bismuth 120-300mg
+			- PPI 2x1
+			- metro 3x500mg
+			- tetra 4x250mg
+	- selain pylori
+		- PPI PELOR
+		- mukoprotektor
+			- sukralfat 4x1g
+			- misoprostol 4x200mcg
+		- antasida
+			- antasida doen 1-2x(100-140)mEq/L
+		- antihistamin
+			- cimetidin 2x400mEq/l
+			- ranitidin 2x150mEq/l
+			- famotidin 2x20mg
+	- total durasi tx
+		- GERD = 8mgg
+		- ulkus pep = 7-14 hari
+		- gastritis ero = 7-14 hari
+### perdarahan saluran cerna
+- atas: eso sampe duo (di atas ligamen suspensori Treitz)
+	- klinis: hematemesis, melena BAB hitam (krn sdh bercampur HCl jd darah teroksidasi), NGT bisa kena darah
+	- penyebab
+		- **variseal** -> dilatasi vena esofageal distal submukosa yg berhub dg sirkulasi portal dan sistemik
+			- penyebab:
+				- paling sering akibat hipertensi portal
+					- paling sering karena sirosis hepar
+					- tp penyebabnya keseluruhan ada:
+						- pre-hepatik
+							- oklusi vena porta, hiperplasia regenerative nodular, venopati atau sklerosis porta
+						- intrahepatik
+							- penyakit kolestasis, penyakit hepatoseluler, penyakit fibrotik
+						- post-hepatik
+							- obstruksi vena hepatika
+				- penyakit hepar kronis
+				- keganasan
+				- ruptur eso
+			- tx:
+				- stabilisasi ABC
+				- stabilisasi hemodinamik
+					- IV line 2 jalur, siapkan transfusi
+					- O2
+					- rehidrasi, catat balans cairan, kateter urin
+					- monitor TD
+				- pasang NGT -> bilas lambung u persiapan endoskopi (NaCl sekali masuk 50-250cc trus tarik)
+				- **vasoaktif: somatostatin 250mcg bolus IV**, dilanjutkan 250mcg/jam drip IV selama 12-24 jam atau hingga perdarahan stop
+				- tambahan, utk pencegahan pada sirosis (vit k 3x1 amp, AB profilaksis, laktulosa, PPI, antasida, sukralfat, tx lain sesuai komorbid)
+				- rujuk u. endoskopi
+		- non-variseal
+			- ulkus pep
+			- tx
+				- stabilisasi ABC
+				- stabilisasi hemo (lihat above)
+				- NGT bilas lambung
+				- **PPI ome 80mg bolus IV**, lanjut 8mg/jam drip IV hingga 72 jam
+				- tambahan sesuai komorbid
+				- rujuk endoskopi
+- bawah: kolon sampe anus (di bawah ligamen suspensori Treitz)
+	- klinis: hematokezia, hemoroid menetes, NGT jernih
+	- penyebab: hemoroid, IBD, dll
+### hepar
+#### metabolisme bilirubin
+- siklus hidup eritrosit 120 hari, nnt pecah jadi heme dan globin
+	- heme jadi Fe dan porfirin
+		- porfirin jadi biliverdin -> bilirubin indirek
+			- bilirubin indirek + albumin dibawa ke hepar -> dikonjugasikan menjadi bilirubin direk
+				- dikeluarkan di intestinal dan diubah jadi urobilinogen -> jadi sterkobilin (mewarnai feses) dan urobilin (mewarnai urin)
+- siklus pre-hepatik meliputi pokonya sblm masuk hepar; intrahepatik pas bili indirek masuk hepar; klo post-hepatik klo udh keluar hepar (pas keluar ke intestine)
+#### ikterus
+- ![[Pasted image 20261115103350.png]]
+- prehepatik
+	- penyebab
+		- plg sering krn hemolisis (anemia hemolitik, inkompatibilitas HBO, Rh) -> anemia
+		- kernikterus (bilirubin sampe ke otak, kejang2)
+		- hepatosplenomegali (krn berusaha merubah yg indirek jd direk)
+	- klinis: peningkatan bilirubin **indirek aja**
+		- (tp si hepar masi bisa proses intrahepatik, jd direk normal, tp krn excessive jadi ada bili indirek yg numpuk)
+- hepatik
+	- penyebab
+		- inflamasi hepar (inf, DILI)
+		- klinis: hepatomegali krn inflam hepar, BAK teh (krn bilirubin direk yg udh jadi mampet gabisa keluar krn masalah ekskresi ke intestin, jadi kembali ke darah dan masuk ke ginjal), BAB dempul/variabel (krn intestin ga menerima bilirubin direknya), gg. fungsi hepar **SGOT/SGPT naik** (krn inflamnya)
+			- (jd intinya proses intrahepatik terganggu?)
+			- jadi peningkatan bilirubin **indirek dan direk dua2nya** (indirek krn akumulasi akibat proses konjugasi terganggu, dan direk krn proses ekskresi terganggu)
+- post-hepatik
+	- penyebab
+		- plg sering batu2an empedu
+	- klinis: BAB dempul, BAK teh lebih gelap dari hepatik (see above, tp fokus di masalah ekskresi)
+		- bilirubin **direk aja** karena semua normal kecuali ekskresi jd penumpukan yg direk, **GGT** (sensitif thd empedu), **ALP** (sensitif thd hepar) bs meningkat 
+#### fatty liver/steatosis hepatik
+- bs alkoholik (AFLD), non-alkoholik (NAFLD)
+	- NAFLD
+		- 2 jenis:
+			- NAFL (non-alco fatty liver) = steatosis +, tanpa inflamasi
+			- NASH (non-alco steato-hepatitis) = steatosis +, inflamasi +
+		- RF: sindrom metabolik
+		- klinis: asimto, nyeri perut kanan atas, lemes
+		- pp: peningkatan enzim liver 2-5x normal, ALP meningkat
+			- jarang yg invasif
+			- USG bright liver/hipoekoik krn lemak
+			- nentuin inflam/ga via biopsi hepar -> NASH ditemukan degenerasi hepatosit + inflamasi lobul hepar
+		- tx:
+			- turunkan BB, diet
+			- farmako sesuai etio/komorbid
+			- antioksidan: vit C, E
+			- hepatoprotektor: UDCA (masih kontroversial)
+- MAFLD
+	- obesitas, lingkar perut, TD, DM, kolesterol
+		- if presence of ≥2 metabolic risk abnormalities itu -> MAFLD (metabolic dysfx-assoc fatty liver dx)
+#### hepatitis
+- ABCDE
+	- A, E akut **gabisa kronik**, fekal-oral
+		- A: Picornavirus (RNA)
+		- E: Orthohepevirus A / calcivirus (RNA)
+	- BCD bs kronik, via darah/cairan tubuh
+		- B: Hepadnavirus (DNA)
+		- C: Flavivirus (RNA)
+		- D: Hepatitis delta virus (harus koinfeksi hep B)
+- imunisasi
+	- A: perjalanan ke endemis, nakes, food handler
+	- B aktif: bayi baru lahir, seks bebas, penasun, nakes, kontak penderita, riw IMS/HIV, riwayat hemodialisis
+	- B pasif: bayi baru lahir dengan ibu hepatitis B
+	- C: blm ada imunisasinya wkwk
+- pencegahan
+	- PHBS
+	- skrining darah donor
+	- skrining organ u/ transplantasi
+	- protokol alat medis yg baik
+##### hep A
+- sering sebabkan wabah krn makanan
+- febris, turun nafsu makan, sklera **ikterik**, nyeri otot lemah letih lesu; **urin warna teh, tinja dempul, hepatomegali**
+- pp:
+	- urinalisis -> bilirubin +
+	- darah: total, bili **total & direk meningkat**, SGOT SGPT meningkat 2x normal
+	- IgM anti HAV +
+- tx:
+	- cairan kalori adekuat, tirah baring, makanan higienis bergizi
+	- simtomatik
+		- **ibuprofen jangan pct krn hepatotoksik**
+		- hepatoprotektor: **curcuma**
+- kompli:
+	- hepatitis A **fulminan** -> gagal hepar -> ikterus berat, asites, ensefalopati hepatikum, koagulopati
+- serologi hep A ![[Pasted image 20261115110902.png]]![[Pasted image 20261115110918.png]]
+	- IgM anti HAV
+		- + = akut
+	- IgG anti HAV
+		- + = udh sembuh/vaksin
+	- total anti
+		- + = pernah inf/imunisasi
+##### hep B
+- darah atau cairan "BCD" (B, cairan, darah)
+- output klinis:
+	- hep akut lalu sembuh spontan dan membentuk kekebalan
+	- atau berkembang jadi kronik (90-95% kasus inf HBV pada bayi dan anak usia dini)
+- klinis
+	- akut
+		- masa inkub 1-4 bln
+		- prodromal 1-3 bln: malaise anoreksia mual muntah demam nyeri RUQ urin gelap
+	- kronis
+		- asimto atau menyerupai akut saat eksaserbasi
+- pp
+	- darah: bili total dan direk meningkat, SGOT SGPT meningkat (**SGPT bisa lebih meningkat krn dia yg spesifik hepar**), albumin biasa menurun, pemanjangan PT/APTT
+	- USG : tanda **fibrosis, sirosis**
+	- gold std: **biopsi hepar**
+	- serologi:
+		- ![[Pasted image 20261115112110.png]]![[Pasted image 20261115112343.png]]
+		- antigen virus hep B ada:
+			- surface antigen -> menandakan adanya infeksi
+				- Hb**s**Ag -> bisa terdeteksi, klo ada infeksi jd +
+					- klo udah ada **anti-Hbs** -> brti imunnya berhasil, dah sembuh.
+			- core antigen -> proxy thd respon imun thd virus
+				- di dalem virus, gabisa dideteksi langsung, tapi bisa kita deteksi perlawanan tubuh terhadapnya, yakni anti-Hb**c**.
+					- IgM anti-Hbc = akut (<6 bln)
+					- IgG anti-Hbc = kronik (>6 bln) atau sembuh
+			- envelope antigen -> menilai aktivitas/replikasi virus/keparahan
+				- bisa dideteksi; klo virus sedang replikasi aktif, Hb**e**Ag +. klo - berarti (-) replikasi aktif.
+					- TAPI lebih baik lagi **HBV DNA** krn klo HbeAg cuma menilai kualitatif lagi ada replikasi apa ngga. klo HBV DNA menilai kuantitatif viral loadnya.
+		- window period (fase akhir dari akut) = HbsAg udah ga positif lg tapi anti-HbsAg nya jg blm terbentuk -> ms ada sisa perlawanan tubuh jd anti-HBc IgM masih ada
+		- klo imunisasi brti yg positif cuma anti-Hbs
+- perjalanan penyakit
+	- bertahun2
+		- fase imunotoleran: HBV tinggi, ALT normal (inf perinatal/anak2) -> 10-30 th
+		- immune clearance: imun mulai mengenali hepatosit yg terinfeksi, fluktuasi HBV dan ALT -> 2-10 th
+		- fase inaktif: klo imun bagus, DNA HBV rendah <2000 IU/mL, ALT normal, kerusakan hati minimal
+			- inaktif bisa reaktivasi: klo imun turun, DNA HBV meningkat kembali >2000 IU/mL, inflamasi hati
+			- ATAU klo imun jelek maka bukan fase inaktif tp jadi fibrosis
+- indikasi tx; yg perlu diinget pokonya: ![[Pasted image 20261115182520.png]]
+	- sblm memulai terapi harus periksa HBV DNA dulu which is harus dirujuk dulu krn hanya ada di RS tipe A, jd blm bisa lgsg tx di klinik
+	- abistu cek juga ALT krn menentukan terapi.
+- tx
+	- yg penting inget namanya, klo dosisnya ntar aja. pilihan tx:
+		- pegylated **interferon** alpha-2a: 90-180 mcg 1x/mgg
+		- **analog nukleosida**: lamivudin 100mg, adefovir 10mg, entecavir 0.5mg, telbivudin 600mg, tenofovir 300mg -> seumur hidup atau waktu terbatas
+	- pilihan bdsr durasi, efek samping, komorbiditas, resistensi, kehamilan, genotipe VHB
+		- lini 1: **pegylated INF, entecavir, atau tenofovir**
+		- lini 2: lamivudin, adefovir, telbivudine
+	- pemantauan tx: HBV DNA, HBeAg, anti HBe, ALT tiap 3-6 bln
+##### hep C
+- inflam kronis, plg sering menyebabkan sirosis hepatis dan karsinoma hepatoseluler
+- RF: jarum suntik tdk steril, transfusi produk darah, seksual, perinatal, nakes
+- klinis:
+	- prodromal: malaise demam nyeri sendi, edema
+	- preikterik (2 hari s/d 3 mgg): masalah pernapasan, gg pencernaan
+	- ikterik: gejala spesifik dan nonspesifik
+		- nonspesifik: flu, demam, nyeri sendi, ruam, turun BB, edema
+		- spesifik: fatigue, jaundice, BAK gelap, turun nafsu makan, mudah memar/berdarah, mual muntah, gagal liver
+- perjalanan penyakit
+	- infeksi hep virus C -> 20-30% bergejala
+		- <1% fulminan -> gagal hepar
+		- 75-85%:
+			- manifestasi ekstrahepatik: krioglobulinemia, liken planus, porfiria kutaneus tarda, limfositik sialodenitis, GN membranosa
+			- infeksi kronik aktif -> 10-20% jadi sirosis hepar dalam 20 th
+				- 1-5%/th jadi hepatoseluler carcinoma (HCC)
+				- 50% dlm 5 tahun jadi sirosis dekompensata
+		- 25-35% sembuh spontan
+	- RF kronisitas: laki2, usia >25 th saat terinfeksi, asimto, etnis afrika-amerika, koinfeksi HIV, imunosupresi, konsumsi alkohol berat, obes, DM
+- pp:
+	- anti-HCV = terdeteksi dalam 7-8 mgg
+	- HCV RNA = terdeteksi dalam 7-10 hari
+	- algo:
+		- anti-HCV:
+			- +
+				- HCV RNA + = infeksi akut/kronik
+				- HCV RNA - = sembuh
+			- -
+				- HCV RNA + = akut
+				- HCV RNA - = negatif/tdk terinfeksi
+		- bedain akut kronis?
+			- klo HCV RNA bertahan >6 bln brti kronis
+- tx: 
+	- akut: tunda hingga 12-16 mgg utk menunggu resolusi spontan
+		- atau consider **sofosbuvir** selama 8 mgg
+	- kronis: 
+		- peg-IFN alfa + ribavirin
+		- direct acting antivirus (DAA): bocepevir, telaprevir, **sofosbuvir**
+	- klo sirosis -> skrining HCC
+	- px asimto setelah tx -> cek RNA tiap tahun
+#### DILI
+- inflamasi hepar karena obat2an hepatotoksik
+- klinis: nyeri RUQ, mual muntah ikterus dll kek hepatitis
+- yg penting hapalin obat2an hepatotoksiknya:
+	- paling sering obat TB:
+		- PIR: pirazinamid, INH, rif
+	- asetaminofen
+	- alopurinol
+	- dll ![[Pasted image 20261115184632.png]]
+#### sirosis hepatis
+- tahap akhir dari fibrosis hepatik ditandai dg distorsi arsitektur hepar dan pembentukan nodulus regeneratif akibat penyakit liver kronis
+- di asia tenggara mostly akibat hep B, C
+- klinis: stigmata -> SEKASIH
+	- spider nevi
+	- eritema palmaris
+	- kolateral vein (dan varises eso)
+	- asites (dan edema tungkai)
+	- splenomegali (hepatospleno)
+	- inversi rasio albumin-globulin
+	- hematemesis/melena
+- patfis:
+	- cedera kronik-reversibel -> nekrosis hepatosit, kolaps jaringan retikulin -> nodul regeneratif
+	- aktivasi hepatosit, sel kupffer -> aktivasi sel stellata -> akumulasi kolagen (fibrosis) pada ECM -> mengganggu aliran hepatosit-sinusoid
+- alur berpikir:
+	- kerusakan hepar akibat inflam kronis -> sirosis hepatis
+		- kompensata (turun BB, lemas, anoreksia, kembung)
+		- dekompensata
+			- hipertensi portal -> akumulasi fibrosis menyebabkan penyumbatan aliran portal
+				- splenomegali, asites, caput medusa, murmur Cruverilhier-Baungarten
+			- hilangnya fungsi hepatoseluler  -> sintesis protein, detoksifikasi, penyimpanan nutrisi, dan clearance bilirubin
+				- estradiol meningkat -> spider nevi, palmar eritem, ginekomastia
+				- hipoalbuminemia -> perubahan kuku (Muehrche's lines, Terry's nail, clubbing)
+				- abnormal collagen production -> kontraktur Dupuytren
+				- gg. koagulasi
+	- skematik: ![[Pasted image 20261115185700.png]]
+		- hepar sirosis -> mandet vena porta
+			- peningkatan tekanan vena porta
+				- -> dilatasi submukosa vena esofagus -> varises esofagus
+				- -> porto-sistemik shunting (cari jalan lain)
+					- -> darah balik ke spleen -> splenomegali
+					- -> paraumbilikal shunting -> caput medusa
+					- -> darah balik ke rektum -> hemoroid
+			- gg. metabolisme estrogen -> hiperestrogenisme -> spider nevi (telangiektasis), ginekomastia, atrofi testis, eritema palmar
+			- gg. produksi faktor koagulasi -> lebam2
+			- gg. metabolisme amonia -> hiperamonia -> ensefalopati hepatikum
+			- gg. sintesis albumin -> hipoalbuminemia -> asites, edema
+- kompli: ensefalopati hepatikum (penkes, koma, asteriksis (flapping tremor))
+- disertai gagal jantung:
+	- sirosis menyebabkan gagal jantung = sirosis kardiomiopati
+	- gagal jantung baru sirosis = kardiak sirosis
+- disertai gagal ginjal = hepatorenal syndrome
+- pp:
+	- lab
+		- SGOT SGPT naik (SGOT >> SGPT)
+		- peningkatan ALP 2-3x
+		- bilirubin bs normal/meningkat
+		- penurunan albumin
+		- peningkatan globulin
+		- protrombin time memanjang
+		- Na+ serum menurun
+		- anemia, trombositopenia, leukopenia <- krn hepar ada EPO
+	- USG: liver stiffness measurement via elastografi
+	- gold std: biopsi, tp tdk perlu bila klinis, lab, dan radio mengarah sirosis
+- kriteria derajat keparahan: Child-Pugh score -> menilai mortalitas ![[Pasted image 20261115191137.png]]
+	- kriteria klinis dan lab:
+		- ensefalopati: tdk ada / ringan-sedang (grade 1-2) / berat (grade 3-4)
+			- grade 1 = gg mood ringan; grade 2 = disorientasi waktu; grade 3 = somnolen/agresif
+		- asites: tdk ada / ringan-sedang (responsif diuretik) / berat (refrakter diuretik)
+			- klo ringan sedang cm keliatan di USG, klo berat dari luar udh keliat
+		- bilirubin (mg/dL): <2 / 2-3 / >3
+		- album (g/dL): >3.5 / 2.8-3.5 / <2.8
+		- protrombin time
+			- pemanjangan (s): <4 / 4-6 / >6
+			- INR: <1.7 / 1.7-2.3 / >2.3
+	- skor:
+		- A: 5-6 poin (fx hepar baik)
+		- B: 7-9 poin (gg fx hepar sedang)
+		- C: 10-15 poin (disfx hepar lanjut)
+- alur diagnosis ![[Pasted image 20261115195740.png]]
+	- intinya: cek risky group apa ga (RF) -> stigmata ada ga -> pp -> skoring
+		- ada stagingnya dan yg dikatakan sirosis klo udah **F4**
+	- kriteria diagnosis Soeharjono dan Soebandiri: **5 dari 7** stigmata terpenuh = sirosis hepatis![[Pasted image 20261115200043.png]]
+		- clue2 lain:
+			- ukuran hepar mengecil + stigmata hepar -> sirosis hepatis
+			- ukuran hepar membesar + berdungkul2 + peningkatan AFP -> HCC
+- tx
+	- kompensata -> atasi penyebab dasar
+	- dekompensata
+		- tx komplikasi yg terjadi
+		- tx malnutrisi: multivitamin, makan porsi kecil dan sering, snack; protein 1-1.5g/kg/hari
+- komplikasi sirosis hepatis ![[Pasted image 20261115200721.png]]
+	- hernia abdo -> bedah
+	- asites -> **spironolakton** 100mg/hari (supaya ga banyak natrium kalium yg keluar)
+		- klo udh besar (grade 3) -> parasentesis dg infus albumin
+	- varises eso -> **propranolol** 20-40mg/hari, endoscopic band ligation
+	- ensefalopati hepatikum -> episode pertama **laktulosa** 25 ml tiap 1-2 jam hingga BAB 2x/hari
+	- kram perut: baclofen 10mg/hari, koreksi elektrolit
+	- peritonitis: AB cefotaxim 2g/8-12 jam, ceftri 2g/24 j
+#### hepatocellular carcinoma (HCC)
+- keganasan primer sel hepatosit
+- RF: sirosis hepatis, hep bc kronis, ...
+- klinis: abdomen regio kanan atas ga nyaman, nyeri bahu kanan, ikterus, fatigue
+- pp
+	- gold std: **biopsi**
+	- non invasif: CT scan kontras 3 fase, MRI, USG
+	- hepar besar, keras berdungkul2
+	- **tumor marker: AFP**, PIVKA-II
+- krit dx ![[Pasted image 20261115201313.png]]
+#### abses hepar
+- infeksi hepar bakteri, jamur, parasit -> massa pus pada hepar
+- pemfis khas: Ludwig sign + (nyeri tekan ICS V/VI)
+- etio
+	- piogenik
+		- E. coli, Strep milleri, Klebsiela pneumoniae dll
+		- jumlah sering multipel
+		- salah satu lobus
+		- klinis subakut
+		- ikterik ringan
+		- dx: USG/CT + aspiration cluster sign pada CT
+		- tx:
+			- farmako, lini utama:
+				- ampisilin 4x2g IV + 
+				  genta 1x5mg/bb IV +
+				  metro 500mg IV atau 3x500mg PO
+				- sefalosporin gen 3 (ceftri 2x1-2g) +
+				  metro 3x500mg
+	- amuba
+		- Entamoeba histolytica
+		- jumlah biasanya soliter
+		- biasanya lobus kanan, dekat diafragma
+		- klinis: akut, walking dysentery (diare disentri ringan)
+		- ikterik sedang
+		- dx: USG/CT + serologi amuba (titer ≥0.5)
+		- tx 
+			- farmako:
+				- metro 3x**750**mg IV 7-10 hari
+	- fungal ...
+- tx non-farmako
+	- insisi drainase dg USG guidance
+		- needel aspiration jika abses <5cm
+		- percutaneous aspiration dg kateter: jika usia >55 th, ukuran >5cm, mengenai 2 lobus, gagal tx AB
+		- -> saat aspirasi bisa bedakan amuba vs piogenik
+			- amuba = pus anchovy sauce like (saus sarden)
+			- piogenik = warna kuning kehijauan (purulen)
+	- pembedahan -> bila peritonitis, dinding abses tebal, ruptur, drainase gagal, abses besar multipel
 ## genitourinari
 - [[infeksi saluran kemih (ISK)]] (sistitis)
 	- pielo sama pria/wanita, bedanya durasi 7-10 hari ok.
