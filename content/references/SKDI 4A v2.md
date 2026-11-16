@@ -1422,6 +1422,218 @@ summary obat anak
 			- amuba = pus anchovy sauce like (saus sarden)
 			- piogenik = warna kuning kehijauan (purulen)
 	- pembedahan -> bila peritonitis, dinding abses tebal, ruptur, drainase gagal, abses besar multipel
+#### sistem bilier
+- RF: 4F fat forty female fertile
+- patfis
+	- gg fx gallbladder: pengosongan, absorpsi, sekresi
+	- supersaturated bile: usia, jenis kelamin, genetik, obesitas, obat, diet, peny. liver
+	- faktor kolesterol: glikoprotein, infeksi, mukus
+	- sirkulasi enterohepatik: deoxycholate, bowel transit time, flora usus
+	- ---> 4 hal di atas -> terbentuk batu, menetap di kantung atau terbawa peristaltik menuju saluran -> obstruksi menyebabkan peningkatan tekanan intraduktal -> duktus menjadi permeable terhadap translokasi bakteri dan toksin (cholangio-venous reflux) -> infeksi dan inflamasi lokal -> nyeri; obstruksi duktus -> kolik bilier
+- klinis
+	- -itis: demam mual muntah anoreksia
+	- nyeri kolik: tumpul intermiten pada epigaastrik, menjalar ke **bahu kanan** (iritasi T5-T8), diperberat makan berlemak
+	- pemfis: nyeri RUQ pada palpasi dalam saat pasien inhalasi -> **Murphy's sign** (iritasi peritoneum parietal)
+	- ikterik obs: urin gelap, BAB dempul, pruritus
+##### kolangitis
+- Charcot's triad: demam + nyeri RUQ + ikterik
+- Reynold's pentad (piogenik hepatik): Charcot's triad + syok + penkes
+##### kolesistitis akut, kolelitiasis
+- tanda lokal: Murphy's sign, nyeri/massa RUQ
+- tanda sistemik: demam, peningkatan RUQ, leukositosis
+- radiologis apa pun yg menunjang kolesistitis akut (wat?)
+- diagnosis
+	- diagnosis suspek = ≥1 lokal + ≥ 1 sistemik
+	- diagnosis definitif: ≥1 lokal + ≥ 1 sistemik + temuan radio
+- jenis batu
+	- batu kolesterol: terdiri dari >80% kolesterol
+	- batu pigmen: terutama tersusun dari bilirubin, <30% kolesterol, akibat produksi bilirubin berlebih
+	- batu campuran: dari bilirubin, kalsium, 30-80% kolesterol
+- pp
+	- leukositosis, peningkatan CRP, LED
+	- peningkatan SGOT/SGPT, ALP, GGT, bilirubin
+	- USG:
+		- batu: **hiperekoik, posterior acoustic shadow**
+		- inflamasi: **penebalan dinding kandung empedu >3mm**, **pericholecystic fluid**, sering dijumpai batu
+	- gold std: MRCP (magnetic resonance cholangiopancreatography)
+	- ERCP (endoscopic retrograde cholangiopancreatography)
+		- -> koledokolitiasis: filling defect
+- tx
+	- non-operatif:
+		- awal:
+			- nil per oral (**puasa**)
+			- **rehidrasi** cairan IV, koreksi elektrolit
+			- analgesik/antispasmodik + antiemetik
+			- edukasi: kurangi makanan berlemak, hindari alkohol, konsumsi makanan tinggi serat
+		- AB empiris:
+			- kolesistitis:
+			  metro 3x500mg IV +
+			  ceftri 1x2g IV atau ampisilin-sulbaktam 4x1.5g IV
+			- kolangitis: ampisilin-sulbaktam IV 500mg/6 jam atau cipro IV 400mg/12 jam + metro IV 500mg/8jam
+		- kolelitiasis: ursodeoxycholic acid (**UDCA**) 2x250mg PO u/ batu radiolusen uk. <0.5cm
+	- operatif:
+		- koledokolitiasis: ERCP (utama) atau kolesistotomi
+		- kolelitiasis: observasi (simtomatis), kolesistektomi (utama) atau ESWL
+- **rangkuman**
+	- nyeri perut RUQ
+		- demam + = inflamasi
+			- kolesistitis
+				- ikterik -
+				- Murphy sign +
+			- kolangitis
+				- ikterik + (bile gabisa keluar samsek krn duct ke blok, jd backup/spillover ke darah bukan ke pencernaan)
+				- Murphy sign +
+		- demam -
+			- kolelitiasis
+				- ikterik -
+				- nyeri kolik +
+			- koledokolitiasis
+				- ikterik +
+				- nyeri kolik +
+#### pankreas
+##### pankreatitis akut
+- inflamasi akut akibat pelepasan enzim proteolitik pankreas
+- etio: paling sering krn batu empedu -> obs duktus -> pankreatitis bilier
+	- bs jg konsum alkohol, hipertrigliseridemia berat (>500) -> stimulasi hormon kolesistokinin (CCK)
+	- pasca prosedur ERCP -> iskemia
+- klinis: nyeri perut epigastrik/**LUQ menembus ke punggung, membaik saat bungkuk dan memberat saat berbaring**
+- pemfis:
+	- [[Cullen sign]] -> periumbilikal
+	- [[Grey Turner sign]] -> pinggang
+	- [[Fox sign]] -> inguinal. jarang si tp bisa jg
+- pp:
+	- peningkatan **lipase atau amilase** ≥3x batas atas (amilasi lebih murah jd lebih sering; lipase lebi spesifik tp lebi mahal)
+	- peningkatan ALP dan bilirubin (etio batu)
+	- profil lipid -> cari penyebab hiper-TG
+	- gambaran inflamasi pankreas dari CT scan atau MRI
+	- USG abdomen:
+		- edema pankreas -> batas pankreas menjadi tdk jelas
+- **klasifikasi atlanta**
+	- ringan: (-) gagal organ, (-) komplikasi lokal/sistemik
+	- sedang-berat: gagal organ membaik <48 jam dan/atau komplikasi lokal/sistemik
+	- sangat berat: gagal organ persisten >48 jam
+- tx
+	- non-farmako
+		- suportif: pankreatitis ringan berikan oral feeding dalam 24-72 jam setelah onset
+		- resus cairan
+			- kristaloid pada pankreatitis berat dg gg. hemodinamik; berikan hingga 10L/hari
+			- koloid bila Hct <25% dan albumin jika serum albumin <2mg/dL
+		- bedah -> nekrosektomi bila infeksi pada nekrosis pankreas atau peripankreas; kolesistektomi pada pankreatitis bilier
+	- farmako
+		- analgesik, sedative
+		- AB sistemik jika ada tanda inf/sepsis
+##### karsinoma pankreas
+- keganasan dari sel duktal pankreas. lokasi paling sering bagian kaput pankreas
+- RF: meokok, komorbid metabolik, riw **pankreatitis kronis** (sering ec alkoholisme)
+- klinis: nyeri epigastrik mirip pankreatitis tapi **tdk ada demam**
+	- **ikterik post-hepatik** (obstruktif) akibat penekanan massa kanker kaput pankreas ke saluran empedu
+	- **[[Courvoisier sign]]** -> kantung empedu teraba
+	- steatorea (BAB berminyak)
+	- gejala sistemik e.g. penurunan BB
+- pp: 
+	- hiperbilirubinemia
+	- peningkatan amilase, lipase
+	- gold std biopsi
+	- tumor marker **CA 19-9** (yg spesifik), bs jg **CEA**
+	- radiologi 1st line-nya USG
+- tx
+	- bedah:
+		- **Whipple procedure** (pengangkatan kaput pankreas + duodenum)
+		- pankreatektomi (mengangkat body dan distal pankreas)
+	- adjuvan: kemoterapi, radioterapi
+#### IBS
+- kelainan **fungsional** usus **kronis berulang** dg **nyeri atau rasa tidak nyaman** abdomen yg berkaitan dengan **defekasi** atau perubahan kebiasaan BAB minimal **3 bulan** dan **onset minimal 6 bulan**
+	- membaik dengan defekasi.
+	- mnemo gejala: "CRAMPS"
+		- constipation and/or diarrhea
+		- retain gas
+		- appetite loss
+		- mucus in stool
+		- pain
+		- spasm
+- predisposisi: **stres psikologis**, infeksi usus berat
+- tipe
+	- IBS-constipation: ≥25% hard or lumpy, <25% loose or water
+	- IBS-diarrhea: ≥25% loose or watery, <25% hard or lumpy
+	- IBS-mixed pattern: ≥25% hard or lumpy, ≥25% loose or watery
+	- IBS-unspecified: <25% hard or lumpy, <25% loose or watery
+	- ---> 25% waktu adalah 3 minggu dalam 3 bulan
+- kriteria dx: ROME IV
+	- nyeri abdo berulang **minimal 1 hari/mgg** pada **3 bln terakhir** (atau klo anak: **4 hari/bulan dalam 2 bulan** terakhir) dengan **≥2** gejala berikut:
+		- perbaikan dg **defekasi**
+		- onset terkait dg **perubahan frek** BAB
+		- onset terkait dg **perubahan bentuk atau tampilan** feses
+- alarm sx
+	- anemia, onset >50 th, riw keluarga, darah pada feses, massa abdomen, nyeri abdomen bawah dg demam, asites, turun BB tanpa sebab
+- tx
+	- farmako
+		- antispasmodik, AB, probiotik: dominan nyeri, kembung/distensi
+		- bulking agent (eg: **metilselulosa**), anti-diare: IBS-D
+		- laksatif (eg: **laktulosa**): IBS-C
+		- antidep
+			- TCA: memperlambat motilitas usus -> u/ IBS-D
+			- SSRI: meningkatkan motilitas usus -> u/ IBS-C
+		- mual2 perut ga nyaman bs jg prokinetik:
+			- dompe
+			- metoclo -> efek samping **EPS**
+			- cisapride -> efek samping **torsade de pointes**
+			- ondan 
+	- non-farmako
+		- edukasi
+#### IBD
+- inflamasi kronis sal cerna, penyebab multifaktorial
+	- umum pada usia muda, mengganggu produktivitas, berisiko striktur dan kanker kolorektal
+- pp: paling penting endoskopi
+- tipe
+	- C**ro**hn dx
+		- mengenai seluruh lapisan (transmural: tunika mukosa, submukosa, muskularis, serosa)
+		- di seluruh panjang pencernaan dari **or**al ke anus
+		- skip lesions (rusak ngga rusak ngga dsbk)
+			- xray/BNO: **string lesion** (yg kaya string bagian yg rusak)
+			- kolonoskopi: **cobble stone** app.
+		- klinis: dominan nyeri abdo
+		- histopatologi: inflamasi **granulomatosa tuberkuloid**
+		- serologi: ASCA
+	- **col**itis ulcerative
+		- mengenai t. mukosa aja
+		- mengenai bagian **kol**on-anus aja
+		- lesi kontinuus
+			- kolonoskopi: **diffuse eritem**
+			- xray: **lead pipe** (kek pipa)
+		- klinis: dominan diare berdarah
+		- histopatologi: **distorsi/abses kripta**
+		- serologi: p-ANCA
+#### divertikulum Meckel
+- obliterasi inkomplit **duktus omfalomesenterika** saat embrio (normalnya mgg ke-7) ![[Pasted image 20261116172644.png]]
+- pp:
+	- **Meckel sign**: tampak hotspot dengan radionuklida Tc-99m ![[Pasted image 20261116172802.png]]
+	- darah rutin: anemia, hipovolemi
+	- USG abdomen: eksklusi diagnosis banding eg intususepsi
+	- CT abdomen/pelvis: evaluasi inflamasi atau obstruksi
+	- angiografi mesenterika: invasif (jarang dilakukan)
+	- biopsi histopatologi: **mukosa gaster atau pankreas** ektopik
+- klinis: **asimto, insidental** pada radiologi
+	- bs timbul pada 10 th pertama kehidupan; perdarahan rektum tanpa nyeri (**black currant jelly stool**), melena/hematokezia
+- tx: suportif (resus/transfusi cairan), definitif bedah eksisi diawali laparoskopi
+#### divertikulosis
+- terbentuk sac-like protrusion (divertikula), paling byk pada sigmoid kolon
+- patgen: diet rendah serat -> BAB keras, kecil -> kontraksi kolon sigmoid utk membantu mengeluarkan -> peningkatan tekanan intralumen, ditambah pula faktor risiko lansia di mana mukosanya lemah -> divertikula.
+- klinis: asimto/nyeri perut LLQ, bisa ada defans muskular, demam, anoreksia, mual; konstipasi (lebih umum) atau diare
+- pp: darah rutin, BNO 3 posisi, endoskopi
+	- gold std: CT scan abdomen
+- klo ada feses dll numpuk di divertikula bs bikin infeksi/inflamasi -> **divertikulitis**
+- tx: konsumsi serat dan cairan, bowel rest, AB bila stabil, bedah bila perforasi perdarahan dll
+#### karsinoma kolorektal
+- keganasan rektal, asimto, gejala mulai muncul seiring berjalan waktu 
+- lansia, turun BB, tumor marker **CEA**
+- letak lesi
+	- sekum dan kolon kanan
+		- mudah lelah, kelemahan, anemia def b
+	- kolon kiri
+		- perdarahan samar
+		- perubahan BAB -> kecil2 **seperti kotoran kambing**
+		- nyeri LLQ
+- barium enema: **apple core**
 ## genitourinari
 - [[infeksi saluran kemih (ISK)]] (sistitis)
 	- pielo sama pria/wanita, bedanya durasi 7-10 hari ok.
