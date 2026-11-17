@@ -2677,12 +2677,268 @@ summary obat anak
 - podagra (akut): inflamasi +, demam +/-
 - tofus (kronik): inflamasi -
 - interkritikal: lagi gada podagra/tofus
-# obgyn
+## obgyn
 - [ ] preeklampsi
 - [[perdarahan per vaginam]]
 - [[ppk obgyn rshs 2021]]
-# pediatri
+## pediatri
 - [[kejang demam]]
+### resus neo
+- tahap:
+	1. konseling antenatal
+		- tunggal/gemili?
+		- usia kehamilan?
+		- taksiran BB?
+		- air ketuban utuh pecah?
+	2. bagi tugas tim dan alat
+		- 3 orang: kapten di kepala (airway, breathing); asisten sirkulasi; asisten logistik/obat2an
+		- alat: ABCDE
+			- airway: suction, laringoskop, ETT
+			- breathing: O2, sungkup, CPAP, nasal prong
+			- circulation: steto, infus set, pulse oxy
+			- drugs: epi, D10%, NaCl
+			- equipment: infant warmer, kain 3 lapis, plastik, topi
+	3. menangkap bayi
+		- nyalakan timer
+		- 3T: term? tonus? tangis?
+			- aman tdk perlu resus, IMD...
+			- salah satu aja bermasalah:
+				1. langkah awal: 
+### neurologi pediatri
+#### kejang demam
+- harus ada demam. patfis: imaturitas SSP sehingga demam aja bisa meng-induce aktivasi seluruh korteks dsb
+	- usia 6 bln - 5 th
+	- disebabkan proses ekstrakranial: gg elektrolit (-), ...
+- tipe
+	- kejang demam sederhana
+		- <15 menit
+		- kejang umum tonik klonik
+		- tidak berulang dalam 24 jam
+	- kejang demam kompleks, memenuhi ≥1 dari berikut:
+		- >15 menit
+		- kejang fokal, atau fokal menjadi umum
+		- berulang dalam 24 jam
+- tx
+	- saat kejang (status epileptikus)
+		- prehospital (0-10 menit): diazepam per rektal
+		  <12 kg = 5 mg supp
+		  ≥12 kg = 10 mg supp
+		  maks 2x jarak 5 menit
+		- hospital/IGD (10 menit): obat lini 1 ->
+		  diazepam IV 0.2–0.5mg/bb dengan kecepatan 2mg/menit, max 10mg
+		  ATAU 
+		  midazolam IM/buccal 0.2mg/bb, max 10mg
+			- klo masih kejang, susah IV bisa pake supp dl
+			- klo dateng udh sempet berhenti kejang tp sempet pasang IV trs kejang lagi brti masuk yg itu td
+				- bolus lambat, jgn cepat nnt depresi napas
+				- klo kejang berlanjut (dalam 5-10 menit), obat lini 2 ->
+					- fenitoin 20mg/bb IV encerkan dalam 50ml NS selama 20 menit kecepatan 2mg/bb/menit, dosis max 1000mg
+					- fenobarbital 20mg/bb IV, kecepatan 10-20mg/menit, dosis max 1000mg
+	- setelah kejang berhenti
+		- profilaksis atau tidak
+			- profilaksis intermiten atau rumatan
+				- intermiten: bila ada RF kejang berulang (usia <6 bln, episode kejang ≥4x/th, kejang <39ºC, peningkatan suhu yg cepat)
+					- diminum 48 jam pertama demam saja
+					- diazepam oral 0.3mg/bb/kali ATAU
+					  diazepam rektal 0.5mg/bb/kali
+				- rumatan: bila KDK, atau ada defisit neuro berat (CP, hidrosefalus, ...)
+					- tiap hari
+					- a. valproat 15-40 mg/bb/hari bagi 2 dosis
+					  ATAU
+					  fenobarbital 3-4mg/bb/hari 1-2 dosis
+					- biasanya sampai 1 tahun, dan saat berhenti harus saat sedang tidak demam
+	- antipiretik (tdk mencegah kejang lagi tp untuk demamnya saja)
+		- pct 10-15mg/bb
+### pediatri sosial
+#### pertumbuhan
+- kurva WHO:
+	- garis hijau = 0
+	- garis merah = -2 atau +2 SD
+	- garis hitam = -3 atau +3 SD
+- interpretasi Z score (<5 th) ![[Pasted image 20261117061206.png]]
+	- BB/U
+		- > +1 SD = risiko BB berlebih
+		- -2 SD hingga +1 SD = BB normal
+		- -3 SD hingga < -2 SD = BB kurang (underweight)
+		- < -3 SD = BB sangat kurang (severely underweight)
+	- PB/U atau TB/U
+		- > +2 SD = tinggi
+		- -2 SD sampai +2 SD = normal
+		- -3 SD hingga < -2 SD = pendek (stunted)
+		- < -3 SD = sangat pendek (severely stunted)
+	- BB/PB atau BB/TB
+		- > +3 SD = obesitas
+		- > +1 SD hingga +3 SD = risiko gizi lebih (possible risk of overweight)
+		- -2 SD hingga +1 SD = gizi baik (normal)
+		- -3 SD hingga < -2 SD = gizi kurang (wasted)
+		- < -3 SD = gizi buruk (severely wasted)
+	- IMT/U (0-60 bln)
+		- sama kaya BB/TB di atas cuma bedanya yg > +1 SD hingga +3 SD lgsg disebut gizi lebih (overweight)
+	- IMT/U (5-18 th)
+		- sama kaya IMT/U di atas, cuma bedanya bahasa inggrisnya wasted diganti thinness
+- klasifikasi Waterlow (utk kurva CDC) ![[Pasted image 20261117062253.png]]
+- antropometri
+	- jadwal pelaksanaan:
+		- 0-1 th: 1x/bulan
+		- 3-6 th: 1x/6 bulan
+		- >6 th: 1x/12 bulan
+	- asesmen nutrisi:
+		- <5 th: kurva WHO
+		- >5 th: Kurva CDC
+	- kebutuhan kalori:
+		- hitung menggunakan BB ideal dari kurva WHO (dengan TB sebagai acuan)
+		- tentukan usia seharusnya dari TB kronologis (wat?)
+		- hitung jumlah kalori menyesuaikan tabel RDA
+#### perkembangan
+- KPSP, memeriksa: motorik kasar, halus; bicara/bahasa; sosial/kemandirian
+	- -> digunakan dr umum
+	- hasil
+		- 9-10 jawaban YA = sesuai usia
+		- 7-8 jawaban YA = meragukan -> ulang 2 minggu (ajari cara stimulasi anak dsb)
+		- ≤6 jawaban YA = penyimpangan -> rujuk
+- milestone
+	- 3 bulan: angkat kepala
+	- 6 bulan: duduk
+	- 9 bulan: berdiri
+	- 12 bulan: jalan
+	- -> denver II digunakan SpA
+- tes daya dengar
+	- (-) jawaban "tidak" -> sesuai umur; puji ortu, lanjutkan stimulasi, jadwalkan kunjungan berikutnya
+	- ≥1 jawaban "tidak" -> kemungkinan penyimpangan -> rujuk
+- tes daya lihat -> pake tumbling E (E nya muter2)
+	- jawaban benar 3x berturut2 atau benar ≥4 dari 5 kali kesempatan
+		- -> daya lihat baik (visus >6/12 atau >6/60)
+			- -> puji ortu, lanjutkan stimulasi, jadwalkan kunjungan berikutnya
+	- tdk bisa benar 3x berturut2; benar <4x dari 5 kesempatan
+		- -> daya lihat kurang (visus <6/12 atau <6/60)
+			- -> rujuk SpM
+- deteksi dini gg perkembangan
+	- ASD
+		- deteksi dini ASD usia 16-30 bulan
+		- indikasi: "sokotif" (sosial, komunikasi, repetitif) -> keterlambatan bicara, gg komunikasi/interx sosial, perilaku berulang2
+		- alat: modified checklist for autism in toddlers revised (**M-CHAT-R**)
+		- interpretasi:
+			- skor 0-2 = risiko rendah
+				- jika usia <24 bulan -> skrining kembali setelah ulang tahun kedua
+			- skor 3-20 = risiko sedang-tinggi -> rujuk
+	- ADHD
+		- deteksi dini ADHD usia >36 bulan
+		- indikasi: tdk bisa duduk tenang, selalu gerak tanpa tujuan, tidak kenal lelah, perubahan suasana hati mendadak atau impulsif
+		- alat: formulir deteksi dini ADHD (**abbreviated Conners' teacher rating scale**)
+			- skor <13 = normal -> puji pengasuh dan anak, stimulasi sesuai umur
+			- skor <13 pemeriksa ragu = meragukan -> intervensi dini, eval 1 bulan -> rujuk
+			- skor >13 = kemungkinan ADHD -> rujuk
+	- penyimpangan perilaku dan emosi
+		- deteksi dini anak prasekolah (36-72 bulan)
+		- kuesioner masalah perilaku emosional (**KMPE**)
+			- 0 "Ya" = normal -> puji pengasuh dan anak, stimulasi sesuai umur
+			- Ada 1 "Ya" = meragukan -> intervensi dini, eval 1 bulan -> rujuk
+			- Ada 2 "Ya" = kemungkinan anak mengalami masalah perilaku emosional -> rujuk
+#### malnutrisi
+- klasifikasi
+	- overnutrition (overweight, obesitas)
+	- undernutrition (gizi kurang, gizi buruk)
+	- defisiensi nutrien spesifik
+- malnutrisi energi protein (MEP):
+	- MEP derajat ringan-sedang (gizi kurang)
+	- MEP derajat berat (gizi buruk)
+- malnutrisi energi protein berdasarkan klinis:
+	- marasmus
+		- kekurangan karbo -> pemecahan lemak dan protein -> lemak subkutan berkurang + muscle wasting -> kulit keriput, turgor menurun
+		- klinis: wajah terlihat tua, iga gambang, baggy pants
+	- kwashiorkor
+		- kekurangan protein -> serum albumin menurun -> tekanan onkotik menurun -> edema
+		- klinis: rambut kemerahan, mudah dicabut (kekurangan protein keratin); edema; crazy pavement dermatosis (kering, pecah2; krn kekurangan kolagen)
+	- marasmik-kwashiorkor
+		- dua2nya -> edem2 + baggy pants dsb
+- tx
+	- cara pemberian nutrisi
+		- oral
+		- enteral (OGT/NGT)
+		- parenteral (vena)
+	- jenis nutrisi
+		- fase stabilisasi: F75 (75 kalori, kek bubur susu)
+		- fase transisi: F100
+		- fase rehabilitas: F100
+	- monitoring
+		- akseptibilitas: mual/muntah?
+		- toleransi: diare?
+		- efektivitas: kenaikan BB dan monitoring pertumbuhan
+	- 10 langkah utama tx gizi buruk ![[Pasted image 20261117071028.png]]
+		- yg wajib dr umum: 3 pertama ("GTD", glikemi, termi, dehidrasi), harus selesai dalam fase stabilisasi (hari 1-3, atau maks hari 3-7)
+		1. mencegah/mengatasi hipoglikemi
+			- GDS <54 mg/dL
+			- sadar -> segera beri F-75 pertama ATAU 50ml glukosa/gula 10% (1 sdt munjung gula + 50 ml air) oral/NGT
+			- tdk sadar -> larutan D10% IV bolus 5ml/kgBB ATAU larutan glukosa/gula pasir 50ml via NGT
+			- dilannjutkan -> F-75 tiap 2-3 jam, siang dan malam selama minimal 2 hari
+		2. mencegah/mengatasi hipotermi
+			- beri selimut, topi dll
+		3. mencegah/mengatasi dehidrasi -> semua akan dianggap dehidrasi
+			- beri ReSoMal, oral/NGT, 5 ml/kgBB/30 menit (2 jam pertama)
+			- setelah 2 jam: ReSoMal 5-10 mg/bb/jam selang-seling F-75 (jumlah yg sama), tiap jam (selama 10 jam)
+		- infeksi gizi buruk
+			- komplikasi (-): asimto -> amoks 3x15mg/bb (5 hari)
+			- komplikasi (+): sesak, diare, dll
+				- ampisilin 50mg/bb IV/IM per 6 jam (2 hari) -> amoks PO ATAU ampisilin PO 5 hari
+				- genta 7.5mg/bb IM/IV (7 hari)
+				- bila tidak membaik 48 jam: + kloramfenikol 25mg/bb tiap 8 jam (5 hari)
+		- ![[Pasted image 20261117071926.png]] ![[Pasted image 20261117071932.png]]
+			- vit A sama kaya campak cuma bedanya ini dikasi 1 hari (klo campak kan 2 hari)
+		- ![[Pasted image 20261117072048.png]]
+#### vaksinasi
+- key points:
+	- semua vaksin yg disuntik dosisnya 0.5cc KECUALI BCG 0.05cc
+		- semua diberikan IM KECUALI BCG (IC), campak (SC), rota/OPV (tetes)
+			- dan biasanya itu yg vaksin hidup (OPV, BCG, MMR)
+				- KI vaksin hidup = imunokompromais
+- catch up imunisasi
+	- yg tdk bisa catch up:
+		- rota: maks 6 bulan
+		- BCG: maks 12 bln
+		- HIB: maks 5 th
+	- selebihnya bisa dikejar walau lewat jadwal
+- jadwal
+	- 0 bulan:
+		- hep B0 (10 langkah BBL); IM 0.5 cc di paha
+		- OPV oral polio vaccine, sesaat sblm pulang s/d 1 bln; oral 2 tetes, KI imunokompromais
+	- 1 bulan:
+		- BCG: IC (cegah TB, intrakutan) 0.05cc
+			- kalau ≥ 3 bln blm dapet BCG, mantoux dulu
+				- + -> gausa BCG lagi
+				- - -> beri tapi tunda 2 mgg pasca mantoux
+	- 2 bulan:
+		- pentabio (DPT + HepB + HIB hemofilus influenza B) IM 0.5cc
+		- OPV (cegah poliomyelitis) 2 tetes
+		- PCV (pneumokokal cegah pneumoni) IM 0.5cc paha kiri
+		- rotavirus 5 tetes atau 2cc
+	- 3 bulan:
+		- pentabio IM 0.5cc
+		- OPV 2 tetes
+	- 4 bulan:
+		- idem 2 bulan + IPV1
+			- (OPV dan IPV menarget strain polio yg berbeda)
+	- 6 bulan:
+		- PCV
+		- rotavirus
+	- 9 bulan:
+		- MR SC (subkutan) 0.5cc
+		- IPV2
+- vaksin hep B pada ibu dengan hep B
+	- BB normal
+		- HbsAg ibu (+), berikan:
+			- HepB0
+			- HbIG (0, 1, 6 bulan)
+		- HbsAg ibu (-), berikan:
+			- HepB0
+	- BBLR
+		- HbsAg ibu (+), berikan:
+			- HepB0
+			- HbIG secepatnya/24 jam/7 hari (0, 1, 2, 6 bulan)
+		- HbsAg ibu (-), berikan:
+			- HepB0 tunda hingga BB 2000 gr atau 1 bulan (mana aja yg lebih cepet)
+	- kalau status hep B ibu tdk diketahui -> HepB0 selalu berikan dalam 12 jam pertama
+- lain2 ![[Pasted image 20261117073855.png]]
+
 ## misc
 - [ ] dosis anak
 	- [[dexamethasone]]
